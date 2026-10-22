@@ -25,7 +25,7 @@ An interactive end-to-end web dashboard engineered to transform customer transac
 ## 📁 Repository Structure
 ```text
 ├── app.py                            # Main Streamlit application code
-├── FCM_LRFM_with_clusters.xlsx       # Segmented customer dataset (Excel format)
+├── customer_segmentation_data.csv    # Segmented customer dataset
 └── README.md                         # Project documentation
 ```
 

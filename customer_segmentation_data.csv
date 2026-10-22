@@ -1,0 +1,4340 @@
+﻿Length_of_stay;Recency;Frequency;Monetary;Cluster;Customer ID;Segment_Name
+0;325;1;77183,6;2;12346;Pelanggan Yang Hilang
+365;2;7;4310;0;12347;Pelanggan Loyal
+283;75;4;1797,24;0;12348;Pelanggan Loyal
+0;18;1;1757,55;1;12349;Pelanggan Potensial
+0;310;1;334,4;2;12350;Pelanggan Yang Hilang
+260;36;8;2506,04;0;12352;Pelanggan Loyal
+0;204;1;89;2;12353;Pelanggan Yang Hilang
+0;232;1;1079,4;2;12354;Pelanggan Yang Hilang
+0;214;1;459,4;2;12355;Pelanggan Yang Hilang
+303;22;3;2811,43;0;12356;Pelanggan Loyal
+0;33;1;6207,67;1;12357;Pelanggan Potensial
+149;1;2;1168,06;1;12358;Pelanggan Potensial
+274;57;4;6372,58;0;12359;Pelanggan Loyal
+148;52;3;2662,06;1;12360;Pelanggan Potensial
+0;287;1;189,9;2;12361;Pelanggan Yang Hilang
+292;3;10;5226,23;0;12362;Pelanggan Loyal
+133;109;2;552;1;12363;Pelanggan Potensial
+105;7;4;1313,1;1;12364;Pelanggan Potensial
+0;291;2;641,38;2;12365;Pelanggan Yang Hilang
+0;4;1;168,9;1;12367;Pelanggan Potensial
+309;51;4;3545,69;0;12370;Pelanggan Loyal
+15;44;2;1887,96;1;12371;Pelanggan Potensial
+225;71;3;1298,04;0;12372;Pelanggan Loyal
+0;311;1;364,6;2;12373;Pelanggan Yang Hilang
+0;25;1;742,93;1;12374;Pelanggan Potensial
+88;10;2;457,5;1;12375;Pelanggan Potensial
+39;315;2;1628,12;2;12377;Pelanggan Yang Hilang
+0;129;1;4008,62;1;12378;Pelanggan Potensial
+89;81;2;852,24;1;12379;Pelanggan Potensial
+164;21;4;2724,81;0;12380;Pelanggan Loyal
+115;4;5;1845,31;1;12381;Pelanggan Potensial
+168;184;5;1850,56;2;12383;Pelanggan Yang Hilang
+93;28;2;585,27;1;12384;Pelanggan Potensial
+29;337;2;401,9;2;12386;Pelanggan Yang Hilang
+311;15;6;2780,66;0;12388;Pelanggan Loyal
+0;79;1;549,84;1;12390;Pelanggan Potensial
+0;21;1;460,89;1;12391;Pelanggan Potensial
+260;72;4;1582,6;0;12393;Pelanggan Loyal
+154;63;2;1272,48;1;12394;Pelanggan Potensial
+352;19;12;3018,63;0;12395;Pelanggan Loyal
+100;35;2;2409,9;1;12397;Pelanggan Potensial
+0;45;1;1635,66;1;12398;Pelanggan Potensial
+142;119;4;1108,65;1;12399;Pelanggan Potensial
+0;303;1;84,3;2;12401;Pelanggan Yang Hilang
+0;323;1;225,6;2;12402;Pelanggan Yang Hilang
+0;49;1;427,7;1;12403;Pelanggan Potensial
+0;148;1;1710,39;1;12405;Pelanggan Potensial
+161;22;2;3415,3;0;12406;Pelanggan Loyal
+215;49;5;1708,12;0;12407;Pelanggan Loyal
+228;32;5;2888,55;0;12408;Pelanggan Loyal
+104;78;3;11072,67;1;12409;Pelanggan Potensial
+0;308;2;693,33;2;12410;Pelanggan Yang Hilang
+95;74;3;1226,88;1;12412;Pelanggan Potensial
+271;66;3;758,1;0;12413;Pelanggan Loyal
+93;217;3;562,41;2;12414;Pelanggan Yang Hilang
+313;24;21;124914,53;0;12415;Pelanggan Loyal
+354;3;9;3649,1;0;12417;Pelanggan Loyal
+0;112;1;668,58;1;12418;Pelanggan Potensial
+0;63;1;600,39;1;12420;Pelanggan Potensial
+304;15;4;807,04;0;12421;Pelanggan Loyal
+229;95;3;803,56;0;12422;Pelanggan Loyal
+353;0;8;1859,31;0;12423;Pelanggan Loyal
+0;162;2;1760,96;2;12424;Pelanggan Yang Hilang
+0;78;1;777,2;1;12425;Pelanggan Potensial
+0;194;1;582,73;2;12426;Pelanggan Yang Hilang
+350;21;3;825,8;0;12427;Pelanggan Loyal
+258;25;9;7956,46;0;12428;Pelanggan Loyal
+356;9;4;3750,4;0;12429;Pelanggan Loyal
+0;43;1;256,4;1;12430;Pelanggan Potensial
+338;35;15;6487,45;0;12431;Pelanggan Loyal
+130;42;5;5059,32;1;12432;Pelanggan Potensial
+373;0;7;13375,87;0;12433;Pelanggan Loyal
+176;84;2;806,14;0;12434;Pelanggan Loyal
+188;79;2;7829,89;0;12435;Pelanggan Loyal
+0;99;1;509,01;1;12436;Pelanggan Potensial
+330;1;18;4951,41;0;12437;Pelanggan Loyal
+126;14;2;2906,85;1;12438;Pelanggan Potensial
+0;366;1;173,55;2;12441;Pelanggan Yang Hilang
+0;3;1;172,06;1;12442;Pelanggan Potensial
+150;21;5;5005,46;1;12444;Pelanggan Potensial
+0;22;1;133,4;1;12445;Pelanggan Potensial
+0;57;1;1002,31;1;12446;Pelanggan Potensial
+0;243;1;476,49;2;12447;Pelanggan Yang Hilang
+0;44;1;449,45;1;12448;Pelanggan Potensial
+165;22;4;4067,29;0;12449;Pelanggan Loyal
+17;156;2;197,88;2;12450;Pelanggan Yang Hilang
+314;10;5;9035,52;0;12451;Pelanggan Loyal
+0;16;2;430,57;1;12452;Pelanggan Potensial
+0;134;1;707,09;1;12453;Pelanggan Potensial
+0;56;1;3528,34;1;12454;Pelanggan Potensial
+223;73;6;2466,86;0;12455;Pelanggan Loyal
+210;44;3;3181,04;0;12456;Pelanggan Loyal
+173;66;7;2363,23;0;12457;Pelanggan Loyal
+213;71;2;947,4;0;12458;Pelanggan Loyal
+60;94;2;826,88;1;12461;Pelanggan Potensial
+285;18;2;1189,59;0;12462;Pelanggan Loyal
+188;53;4;1344,78;0;12463;Pelanggan Loyal
+299;10;8;1212,05;0;12464;Pelanggan Loyal
+152;17;2;742,19;1;12465;Pelanggan Potensial
+129;187;2;729,54;2;12468;Pelanggan Yang Hilang
+362;2;30;19824,05;0;12471;Pelanggan Loyal
+337;32;7;6572,11;0;12472;Pelanggan Loyal
+162;29;5;3938,55;0;12473;Pelanggan Loyal
+312;17;18;7375,79;0;12474;Pelanggan Loyal
+0;53;1;723,38;1;12475;Pelanggan Potensial
+346;15;11;6816,42;0;12476;Pelanggan Loyal
+279;22;6;13219,74;0;12477;Pelanggan Loyal
+0;3;1;680,99;1;12478;Pelanggan Potensial
+0;11;1;527,2;1;12479;Pelanggan Potensial
+308;28;4;3281,63;0;12480;Pelanggan Loyal
+343;22;10;5596,32;0;12481;Pelanggan Loyal
+322;17;8;2484,98;0;12483;Pelanggan Loyal
+304;32;6;4541,72;0;12484;Pelanggan Loyal
+66;9;3;1298,66;1;12488;Pelanggan Potensial
+0;336;1;334,93;2;12489;Pelanggan Yang Hilang
+324;5;10;5417,93;0;12490;Pelanggan Loyal
+0;38;1;460,4;1;12491;Pelanggan Potensial
+42;63;2;263,21;1;12492;Pelanggan Potensial
+32;165;2;433,74;2;12493;Pelanggan Yang Hilang
+350;15;7;1246,1;0;12494;Pelanggan Loyal
+0;81;1;1043,1;1;12497;Pelanggan Potensial
+36;21;3;403,7;1;12498;Pelanggan Potensial
+310;23;11;4257,82;0;12500;Pelanggan Loyal
+0;336;1;2169,39;2;12501;Pelanggan Yang Hilang
+214;95;5;3723,87;0;12502;Pelanggan Loyal
+12;18;2;482,05;1;12504;Pelanggan Potensial
+0;232;1;73,5;2;12506;Pelanggan Yang Hilang
+164;134;3;1304,81;1;12507;Pelanggan Potensial
+3;26;2;398,27;1;12508;Pelanggan Potensial
+0;284;1;176,5;2;12509;Pelanggan Yang Hilang
+183;142;2;982,57;0;12510;Pelanggan Loyal
+0;66;2;138,03;1;12512;Pelanggan Potensial
+0;112;1;612,29;1;12513;Pelanggan Potensial
+0;267;1;1017,68;2;12514;Pelanggan Yang Hilang
+0;353;1;383,7;2;12515;Pelanggan Yang Hilang
+103;77;2;1312,06;1;12516;Pelanggan Potensial
+162;28;5;2502,84;0;12517;Pelanggan Loyal
+110;0;5;2056,89;1;12518;Pelanggan Potensial
+0;63;1;340,84;1;12519;Pelanggan Potensial
+194;79;5;2634,26;0;12520;Pelanggan Loyal
+0;142;1;599,68;1;12521;Pelanggan Potensial
+12;39;2;192,72;1;12522;Pelanggan Potensial
+312;19;11;1789,77;0;12523;Pelanggan Loyal
+324;9;8;4485,72;0;12524;Pelanggan Loyal
+94;0;3;1316,66;1;12526;Pelanggan Potensial
+244;81;3;348,71;0;12527;Pelanggan Loyal
+303;9;6;1933,48;0;12528;Pelanggan Loyal
+277;59;4;1662,28;0;12530;Pelanggan Loyal
+0;14;1;125,22;1;12531;Pelanggan Potensial
+0;30;1;349,83;1;12532;Pelanggan Potensial
+0;130;1;1089,18;1;12534;Pelanggan Potensial
+95;91;2;716,35;1;12535;Pelanggan Potensial
+16;43;3;12601,83;1;12536;Pelanggan Potensial
+0;29;1;363,95;1;12538;Pelanggan Potensial
+311;22;4;5568,35;0;12539;Pelanggan Loyal
+342;19;17;13400,24;0;12540;Pelanggan Loyal
+251;29;3;981,18;0;12541;Pelanggan Loyal
+0;36;1;372,7;1;12544;Pelanggan Potensial
+184;75;2;1000,39;0;12545;Pelanggan Loyal
+31;46;2;1161,5;1;12546;Pelanggan Potensial
+83;197;2;207,8;2;12547;Pelanggan Yang Hilang
+0;166;1;95,2;2;12548;Pelanggan Yang Hilang
+0;79;1;964,83;1;12550;Pelanggan Potensial
+0;357;1;168;2;12551;Pelanggan Yang Hilang
+1;38;2;437,82;1;12552;Pelanggan Potensial
+321;8;10;3692,28;0;12553;Pelanggan Loyal
+101;50;2;603,71;1;12556;Pelanggan Potensial
+355;16;5;11990,96;0;12557;Pelanggan Loyal
+0;7;1;269,96;1;12558;Pelanggan Potensial
+9;310;2;561,71;2;12559;Pelanggan Yang Hilang
+138;5;3;2134,01;1;12560;Pelanggan Potensial
+0;302;1;238,85;2;12561;Pelanggan Yang Hilang
+190;8;7;3781,74;0;12562;Pelanggan Loyal
+0;261;1;456,9;2;12564;Pelanggan Yang Hilang
+0;288;1;145,92;2;12565;Pelanggan Yang Hilang
+0;86;1;351,65;1;12566;Pelanggan Potensial
+347;22;10;9401,28;0;12567;Pelanggan Loyal
+250;2;32;4124,69;0;12569;Pelanggan Loyal
+82;39;2;519,61;1;12571;Pelanggan Potensial
+43;8;2;1020,42;1;12572;Pelanggan Potensial
+0;227;1;160,54;2;12573;Pelanggan Yang Hilang
+0;315;1;218,45;2;12574;Pelanggan Yang Hilang
+269;35;5;1315,83;0;12576;Pelanggan Loyal
+324;35;3;657,8;0;12577;Pelanggan Loyal
+309;21;2;2794,51;0;12578;Pelanggan Loyal
+0;78;1;440,42;1;12579;Pelanggan Potensial
+0;246;1;415,7;2;12580;Pelanggan Yang Hilang
+0;39;1;197,71;1;12581;Pelanggan Potensial
+50;238;2;511,36;2;12582;Pelanggan Yang Hilang
+371;2;15;7281,38;0;12583;Pelanggan Loyal
+277;3;9;2338,15;0;12584;Pelanggan Loyal
+117;234;2;2040,1;2;12585;Pelanggan Yang Hilang
+0;17;1;196,94;1;12586;Pelanggan Potensial
+0;7;1;144;1;12587;Pelanggan Potensial
+0;39;1;214,9;1;12588;Pelanggan Potensial
+116;28;2;646,68;1;12589;Pelanggan Potensial
+0;211;2;9864,26;2;12590;Pelanggan Yang Hilang
+0;317;1;452,85;2;12591;Pelanggan Yang Hilang
+121;92;2;437,6;1;12592;Pelanggan Potensial
+110;108;3;418,1;1;12593;Pelanggan Potensial
+285;37;10;3338,22;0;12594;Pelanggan Loyal
+191;51;2;618,27;0;12596;Pelanggan Loyal
+249;19;4;3811,22;0;12597;Pelanggan Loyal
+275;9;8;3023,08;0;12598;Pelanggan Loyal
+275;29;7;1032,58;0;12599;Pelanggan Loyal
+343;28;10;2599,04;0;12600;Pelanggan Loyal
+143;189;5;577,06;2;12601;Pelanggan Yang Hilang
+0;58;1;153,12;1;12602;Pelanggan Potensial
+0;21;1;739,2;1;12603;Pelanggan Potensial
+182;79;2;254,18;0;12604;Pelanggan Loyal
+0;60;1;1579,51;1;12607;Pelanggan Potensial
+240;78;3;1126,85;0;12609;Pelanggan Loyal
+104;22;5;2099,54;1;12610;Pelanggan Potensial
+0;52;1;1193,32;1;12611;Pelanggan Potensial
+0;74;1;704,04;1;12612;Pelanggan Potensial
+205;57;5;3344,38;0;12613;Pelanggan Loyal
+0;277;1;315,6;2;12614;Pelanggan Yang Hilang
+166;2;4;2291,19;0;12615;Pelanggan Loyal
+202;95;2;713,3;0;12616;Pelanggan Loyal
+0;29;1;355,53;1;12617;Pelanggan Potensial
+0;21;1;177,31;1;12618;Pelanggan Potensial
+237;16;9;3641,24;0;12619;Pelanggan Loyal
+190;14;3;1339,41;0;12620;Pelanggan Loyal
+364;1;20;13689,67;0;12621;Pelanggan Loyal
+0;232;1;180,1;2;12622;Pelanggan Yang Hilang
+0;276;1;305,1;2;12623;Pelanggan Yang Hilang
+71;106;2;641,13;1;12624;Pelanggan Potensial
+108;211;2;2683,82;2;12625;Pelanggan Yang Hilang
+303;23;9;6620,48;0;12626;Pelanggan Loyal
+130;10;7;4478,53;1;12627;Pelanggan Potensial
+60;4;3;786,46;1;12628;Pelanggan Potensial
+34;9;2;1270,88;1;12630;Pelanggan Potensial
+0;57;1;640,5;1;12631;Pelanggan Potensial
+229;58;4;2163,98;0;12633;Pelanggan Loyal
+65;89;2;1689,18;1;12635;Pelanggan Potensial
+256;67;8;6021,9;0;12637;Pelanggan Loyal
+0;33;1;671,69;1;12638;Pelanggan Potensial
+0;238;1;486,1;2;12639;Pelanggan Yang Hilang
+58;23;3;1174,58;1;12640;Pelanggan Potensial
+0;115;1;185,9;1;12641;Pelanggan Potensial
+82;25;3;1013,26;1;12642;Pelanggan Potensial
+204;128;6;3344,64;0;12643;Pelanggan Loyal
+0;129;1;477,91;1;12644;Pelanggan Potensial
+283;33;4;1775,18;0;12645;Pelanggan Loyal
+45;4;2;1346,97;1;12646;Pelanggan Potensial
+347;22;12;3722,82;0;12647;Pelanggan Loyal
+0;154;1;318,05;1;12648;Pelanggan Potensial
+105;107;3;623,51;1;12649;Pelanggan Potensial
+0;3;1;314,44;1;12650;Pelanggan Potensial
+0;334;1;114;2;12651;Pelanggan Yang Hilang
+0;331;1;919,98;2;12652;Pelanggan Yang Hilang
+148;148;2;2209,85;1;12653;Pelanggan Potensial
+285;10;5;601,98;0;12654;Pelanggan Loyal
+216;17;5;4051,17;0;12656;Pelanggan Loyal
+67;11;4;1643,18;1;12657;Pelanggan Potensial
+0;18;1;686,05;1;12658;Pelanggan Potensial
+0;29;1;91,68;1;12659;Pelanggan Potensial
+0;11;1;245,1;1;12660;Pelanggan Potensial
+373;0;11;3849,78;0;12662;Pelanggan Loyal
+314;8;9;4881,88;0;12664;Pelanggan Loyal
+0;324;1;63;2;12665;Pelanggan Yang Hilang
+0;58;1;620,13;1;12667;Pelanggan Potensial
+344;11;4;3807,15;0;12668;Pelanggan Loyal
+106;150;3;2744,03;1;12669;Pelanggan Potensial
+222;10;5;2996,05;0;12670;Pelanggan Loyal
+0;329;1;225,9;2;12672;Pelanggan Yang Hilang
+321;5;2;610,52;0;12673;Pelanggan Loyal
+169;38;4;1970,6;0;12674;Pelanggan Loyal
+287;24;6;1331,39;0;12676;Pelanggan Loyal
+311;42;12;17628,46;0;12678;Pelanggan Loyal
+225;58;4;1113,02;0;12679;Pelanggan Loyal
+113;0;4;880,81;1;12680;Pelanggan Potensial
+353;14;22;13787,54;0;12681;Pelanggan Loyal
+368;3;31;12288,22;0;12682;Pelanggan Loyal
+361;4;15;8476,57;0;12683;Pelanggan Loyal
+206;7;7;2283,63;0;12684;Pelanggan Loyal
+65;28;6;2863,08;1;12685;Pelanggan Potensial
+0;371;1;89,14;2;12686;Pelanggan Yang Hilang
+0;113;1;4873,81;1;12688;Pelanggan Potensial
+102;25;2;1247,61;1;12689;Pelanggan Potensial
+0;205;1;389,01;2;12690;Pelanggan Yang Hilang
+329;28;6;1035,8;0;12691;Pelanggan Loyal
+192;127;4;855,91;0;12693;Pelanggan Loyal
+113;70;2;869,67;1;12694;Pelanggan Potensial
+203;7;4;582,1;0;12695;Pelanggan Loyal
+141;28;3;957,59;1;12697;Pelanggan Potensial
+208;7;4;4939,99;0;12700;Pelanggan Loyal
+163;79;2;797,71;0;12701;Pelanggan Loyal
+0;19;1;219;1;12702;Pelanggan Potensial
+0;71;1;283,55;1;12703;Pelanggan Potensial
+162;7;8;2340,84;0;12704;Pelanggan Loyal
+342;15;9;6868,29;0;12705;Pelanggan Loyal
+0;291;1;603,42;2;12707;Pelanggan Yang Hilang
+339;29;10;2712,91;0;12708;Pelanggan Loyal
+351;15;15;9736,52;0;12709;Pelanggan Loyal
+105;96;3;1149,02;1;12710;Pelanggan Potensial
+343;28;13;4396,13;0;12712;Pelanggan Loyal
+0;0;1;848,55;1;12713;Pelanggan Potensial
+285;9;5;4708,86;0;12714;Pelanggan Loyal
+0;106;1;353,86;1;12715;Pelanggan Potensial
+130;3;2;1053,49;1;12716;Pelanggan Potensial
+94;151;2;1030,98;1;12717;Pelanggan Potensial
+0;71;1;238,25;1;12718;Pelanggan Potensial
+60;5;2;644,95;1;12719;Pelanggan Potensial
+367;2;25;5781,73;0;12720;Pelanggan Loyal
+323;31;6;2656,13;0;12721;Pelanggan Loyal
+65;85;4;997,63;1;12722;Pelanggan Potensial
+62;3;5;725,07;1;12723;Pelanggan Potensial
+327;5;4;1031,41;0;12724;Pelanggan Loyal
+0;371;1;427,8;2;12725;Pelanggan Yang Hilang
+329;28;7;2609,1;0;12726;Pelanggan Loyal
+310;10;7;3980,7;0;12727;Pelanggan Loyal
+261;71;4;836,33;0;12728;Pelanggan Loyal
+0;113;1;453,01;1;12729;Pelanggan Potensial
+341;23;12;18895,91;0;12731;Pelanggan Loyal
+0;179;1;236,26;2;12732;Pelanggan Yang Hilang
+0;234;1;383,95;2;12733;Pelanggan Yang Hilang
+0;352;1;110,4;2;12734;Pelanggan Yang Hilang
+22;315;2;779,57;2;12735;Pelanggan Yang Hilang
+0;332;1;234;2;12736;Pelanggan Yang Hilang
+0;372;1;155,35;2;12738;Pelanggan Yang Hilang
+21;78;2;1013,04;1;12739;Pelanggan Potensial
+0;63;1;427,6;1;12740;Pelanggan Potensial
+0;134;2;546,43;1;12743;Pelanggan Potensial
+267;51;7;21279,29;0;12744;Pelanggan Loyal
+367;2;11;4196,01;0;12747;Pelanggan Loyal
+373;0;210;33719,73;0;12748;Pelanggan Loyal
+210;3;5;4090,88;0;12749;Pelanggan Loyal
+0;128;1;275,88;1;12750;Pelanggan Potensial
+0;81;1;4366,78;1;12752;Pelanggan Potensial
+340;22;6;21429,39;0;12753;Pelanggan Loyal
+73;235;3;3010,74;2;12754;Pelanggan Yang Hilang
+85;280;2;3811,95;2;12755;Pelanggan Yang Hilang
+0;86;1;112,08;1;12756;Pelanggan Potensial
+196;15;13;7857,1;0;12757;Pelanggan Loyal
+160;116;2;2791,59;1;12758;Pelanggan Potensial
+223;52;3;1531,44;0;12759;Pelanggan Loyal
+18;7;2;1898,52;1;12762;Pelanggan Potensial
+231;138;2;494,08;0;12763;Pelanggan Loyal
+0;316;1;1693,88;2;12764;Pelanggan Yang Hilang
+363;3;7;6989,63;0;12766;Pelanggan Loyal
+0;238;1;1143,6;2;12769;Pelanggan Yang Hilang
+0;210;1;1351,45;2;12770;Pelanggan Yang Hilang
+0;59;1;892,47;1;12772;Pelanggan Potensial
+294;17;5;1386,04;0;12775;Pelanggan Loyal
+293;19;6;822,23;0;12778;Pelanggan Loyal
+334;37;8;3981,36;0;12779;Pelanggan Loyal
+221;63;2;826,74;0;12781;Pelanggan Loyal
+353;4;5;2330,92;0;12782;Pelanggan Loyal
+73;2;6;2225,91;1;12783;Pelanggan Potensial
+6;9;2;574,42;1;12784;Pelanggan Potensial
+0;364;1;311,95;2;12785;Pelanggan Yang Hilang
+183;9;3;463,66;0;12787;Pelanggan Loyal
+0;65;1;91,85;1;12789;Pelanggan Potensial
+0;192;1;324,92;2;12790;Pelanggan Yang Hilang
+0;373;1;192,6;2;12791;Pelanggan Yang Hilang
+0;256;1;400,54;2;12792;Pelanggan Yang Hilang
+37;334;2;545,48;2;12793;Pelanggan Yang Hilang
+45;53;2;860,41;1;12794;Pelanggan Potensial
+0;18;1;430,48;1;12795;Pelanggan Potensial
+0;365;1;254,03;2;12797;Pelanggan Yang Hilang
+160;10;3;6977,04;0;12798;Pelanggan Loyal
+0;186;1;427,58;2;12802;Pelanggan Yang Hilang
+332;36;3;483,65;0;12808;Pelanggan Loyal
+0;177;1;489,31;2;12809;Pelanggan Yang Hilang
+24;260;3;514,85;2;12811;Pelanggan Yang Hilang
+0;44;1;229,64;1;12812;Pelanggan Potensial
+0;101;1;125,92;1;12814;Pelanggan Potensial
+51;147;2;1063,46;1;12815;Pelanggan Potensial
+81;95;2;572,2;1;12816;Pelanggan Potensial
+0;281;1;166,04;2;12817;Pelanggan Yang Hilang
+0;261;1;1542,08;2;12818;Pelanggan Yang Hilang
+323;3;4;942,34;0;12820;Pelanggan Loyal
+0;214;1;92,72;2;12821;Pelanggan Yang Hilang
+17;70;2;948,88;1;12822;Pelanggan Potensial
+222;74;5;1759,5;0;12823;Pelanggan Loyal
+0;59;1;397,12;1;12824;Pelanggan Potensial
+363;2;7;1474,72;0;12826;Pelanggan Loyal
+39;5;3;430,15;1;12827;Pelanggan Potensial
+128;2;6;1018,71;1;12828;Pelanggan Potensial
+24;336;2;293;2;12829;Pelanggan Yang Hilang
+134;37;6;6814,64;1;12830;Pelanggan Potensial
+0;262;1;215,05;2;12831;Pelanggan Yang Hilang
+66;32;2;383,03;1;12832;Pelanggan Potensial
+0;145;1;417,38;1;12833;Pelanggan Potensial
+0;282;1;312,38;2;12834;Pelanggan Yang Hilang
+252;59;4;2612,86;0;12836;Pelanggan Loyal
+0;173;1;134,1;2;12837;Pelanggan Yang Hilang
+340;33;2;683,13;0;12838;Pelanggan Loyal
+365;2;14;5591,42;0;12839;Pelanggan Loyal
+83;143;4;2726,77;1;12840;Pelanggan Potensial
+367;4;25;4022,35;0;12841;Pelanggan Loyal
+238;70;2;1118,99;0;12842;Pelanggan Loyal
+199;65;8;1702,26;0;12843;Pelanggan Loyal
+101;29;2;325,96;1;12844;Pelanggan Potensial
+23;267;4;354,09;2;12845;Pelanggan Yang Hilang
+0;22;1;871,54;1;12847;Pelanggan Potensial
+237;31;2;1050,89;0;12849;Pelanggan Loyal
+0;96;1;135,18;1;12851;Pelanggan Potensial
+0;294;1;311,55;2;12852;Pelanggan Yang Hilang
+181;134;6;1957,1;0;12853;Pelanggan Loyal
+240;78;3;1324,5;0;12854;Pelanggan Loyal
+0;372;1;38,1;2;12855;Pelanggan Yang Hilang
+56;7;6;2179,93;1;12856;Pelanggan Potensial
+92;210;2;1106,4;2;12857;Pelanggan Yang Hilang
+0;52;1;521,2;1;12863;Pelanggan Potensial
+0;138;1;147,12;1;12864;Pelanggan Potensial
+97;26;2;1568,23;1;12865;Pelanggan Potensial
+0;283;1;559,12;2;12866;Pelanggan Yang Hilang
+334;26;7;4036,82;0;12867;Pelanggan Loyal
+188;185;6;1607,06;0;12868;Pelanggan Loyal
+123;84;2;380,64;1;12871;Pelanggan Potensial
+39;326;2;599,97;2;12872;Pelanggan Yang Hilang
+0;282;1;374;2;12873;Pelanggan Yang Hilang
+219;143;2;343,23;0;12875;Pelanggan Loyal
+139;57;2;2218,02;1;12876;Pelanggan Potensial
+355;3;12;1535,77;0;12877;Pelanggan Loyal
+30;236;2;854,99;2;12878;Pelanggan Yang Hilang
+47;44;3;573,22;1;12879;Pelanggan Potensial
+0;275;1;298;2;12881;Pelanggan Yang Hilang
+24;9;2;1463,04;1;12882;Pelanggan Potensial
+65;24;4;703,47;1;12883;Pelanggan Potensial
+0;88;1;309,05;1;12884;Pelanggan Potensial
+60;63;3;1175,22;1;12885;Pelanggan Potensial
+152;67;2;1378,4;1;12886;Pelanggan Potensial
+41;214;2;354,12;2;12888;Pelanggan Yang Hilang
+0;24;1;380,47;1;12890;Pelanggan Potensial
+107;185;3;331;2;12891;Pelanggan Yang Hilang
+0;30;1;188,14;1;12893;Pelanggan Potensial
+44;42;2;372,8;1;12895;Pelanggan Potensial
+97;204;2;216,5;2;12897;Pelanggan Yang Hilang
+262;8;28;17654,54;0;12901;Pelanggan Loyal
+0;264;1;138,68;2;12902;Pelanggan Yang Hilang
+154;18;2;509,58;1;12904;Pelanggan Potensial
+67;11;5;2919,81;1;12906;Pelanggan Potensial
+136;176;2;750;2;12908;Pelanggan Yang Hilang
+214;39;5;2178,67;0;12909;Pelanggan Loyal
+218;23;8;3075,04;0;12910;Pelanggan Loyal
+38;2;5;1662,3;1;12912;Pelanggan Potensial
+364;4;5;2483,63;0;12913;Pelanggan Loyal
+224;148;2;363,65;0;12915;Pelanggan Loyal
+182;138;4;3006,15;0;12916;Pelanggan Loyal
+0;128;1;594;1;12917;Pelanggan Potensial
+161;8;6;1335,19;0;12919;Pelanggan Loyal
+0;17;1;164,23;1;12920;Pelanggan Potensial
+364;9;37;16587,09;0;12921;Pelanggan Loyal
+0;161;1;405,38;2;12922;Pelanggan Yang Hilang
+0;64;1;176,97;1;12923;Pelanggan Potensial
+239;88;4;933,7;0;12924;Pelanggan Loyal
+70;4;2;694,05;1;12925;Pelanggan Potensial
+324;35;5;2062,7;0;12928;Pelanggan Loyal
+0;311;1;117,85;2;12929;Pelanggan Yang Hilang
+93;78;2;415,8;1;12930;Pelanggan Potensial
+336;21;15;42055,96;0;12931;Pelanggan Loyal
+259;24;3;607,53;0;12933;Pelanggan Loyal
+317;2;7;2160,7;0;12935;Pelanggan Loyal
+61;17;4;1063,9;1;12936;Pelanggan Potensial
+252;15;4;1504,27;0;12937;Pelanggan Loyal
+0;25;1;114,14;1;12938;Pelanggan Potensial
+270;64;8;11581,8;0;12939;Pelanggan Loyal
+33;54;2;913,54;1;12940;Pelanggan Potensial
+234;131;3;683,9;0;12942;Pelanggan Loyal
+319;35;2;604,51;0;12944;Pelanggan Loyal
+0;288;1;462,95;2;12945;Pelanggan Yang Hilang
+230;143;6;1603,99;0;12947;Pelanggan Loyal
+248;16;7;2064,95;0;12948;Pelanggan Loyal
+222;30;8;4167,22;0;12949;Pelanggan Loyal
+22;2;3;1843;1;12950;Pelanggan Potensial
+322;8;6;1064,07;0;12951;Pelanggan Loyal
+73;5;4;1387,79;1;12952;Pelanggan Potensial
+0;9;1;329,85;1;12953;Pelanggan Potensial
+266;1;11;4757,16;0;12955;Pelanggan Loyal
+0;306;1;108,07;2;12956;Pelanggan Yang Hilang
+330;9;8;4017,54;0;12957;Pelanggan Loyal
+106;7;2;266,39;1;12962;Pelanggan Potensial
+357;8;8;1856,63;0;12963;Pelanggan Loyal
+0;89;1;771,91;1;12965;Pelanggan Potensial
+0;9;1;160,18;1;12966;Pelanggan Potensial
+13;358;2;1660,9;2;12967;Pelanggan Yang Hilang
+0;112;1;135,95;1;12968;Pelanggan Potensial
+315;7;4;452,24;0;12970;Pelanggan Loyal
+369;3;86;11189,91;0;12971;Pelanggan Loyal
+0;197;1;144,8;2;12974;Pelanggan Yang Hilang
+0;211;1;738,6;2;12976;Pelanggan Yang Hilang
+0;156;1;39,24;2;12977;Pelanggan Yang Hilang
+201;157;9;7374,9;0;12980;Pelanggan Loyal
+104;29;2;372,22;1;12981;Pelanggan Potensial
+0;242;1;390,54;2;12982;Pelanggan Yang Hilang
+0;18;1;97,5;1;12984;Pelanggan Potensial
+28;0;2;1239,38;1;12985;Pelanggan Potensial
+124;73;2;558,7;1;12987;Pelanggan Potensial
+0;292;1;535,32;2;12988;Pelanggan Yang Hilang
+361;3;15;6924,11;0;12989;Pelanggan Loyal
+279;31;3;409,5;0;12990;Pelanggan Loyal
+89;23;2;503,76;1;12991;Pelanggan Potensial
+275;23;4;414,76;0;12993;Pelanggan Loyal
+264;4;3;974,42;0;12994;Pelanggan Loyal
+0;85;1;211,32;1;12995;Pelanggan Potensial
+295;22;4;1226,89;0;12997;Pelanggan Loyal
+49;196;3;455,88;2;12999;Pelanggan Yang Hilang
+258;106;3;534,85;0;13000;Pelanggan Loyal
+322;4;13;9818,82;0;13001;Pelanggan Loyal
+0;318;1;120,95;2;13002;Pelanggan Yang Hilang
+109;105;3;149,05;1;13003;Pelanggan Potensial
+346;11;18;5655,91;0;13004;Pelanggan Loyal
+73;173;2;513,7;2;13005;Pelanggan Yang Hilang
+0;56;1;81,57;1;13006;Pelanggan Potensial
+0;323;1;229,47;2;13008;Pelanggan Yang Hilang
+0;372;1;50,55;2;13011;Pelanggan Yang Hilang
+285;9;8;1661,84;0;13012;Pelanggan Loyal
+370;1;13;4810,94;0;13013;Pelanggan Loyal
+271;10;10;3466,28;0;13014;Pelanggan Loyal
+196;53;5;3346,28;0;13015;Pelanggan Loyal
+50;73;3;789,89;1;13016;Pelanggan Potensial
+0;7;1;204;1;13017;Pelanggan Potensial
+279;16;28;7277,7;0;13018;Pelanggan Loyal
+354;4;9;2616,38;0;13021;Pelanggan Loyal
+65;64;2;689,9;1;13023;Pelanggan Potensial
+274;1;5;975,36;0;13026;Pelanggan Loyal
+241;113;6;6912;0;13027;Pelanggan Loyal
+23;22;2;661,32;1;13028;Pelanggan Potensial
+323;30;3;1247,5;0;13029;Pelanggan Loyal
+357;11;2;799,48;0;13030;Pelanggan Loyal
+35;52;2;1010,18;1;13032;Pelanggan Potensial
+0;357;1;190,55;2;13033;Pelanggan Yang Hilang
+315;54;2;642,77;0;13034;Pelanggan Loyal
+187;73;2;921,88;0;13035;Pelanggan Loyal
+118;138;3;881,07;1;13037;Pelanggan Potensial
+210;80;3;908,46;0;13038;Pelanggan Loyal
+25;8;2;676,99;1;13040;Pelanggan Potensial
+0;273;1;516,42;2;13043;Pelanggan Yang Hilang
+0;291;1;560,47;2;13044;Pelanggan Yang Hilang
+0;99;1;305,28;1;13045;Pelanggan Potensial
+236;30;2;629,31;0;13046;Pelanggan Loyal
+342;31;10;3237,54;0;13047;Pelanggan Loyal
+313;14;4;1835,91;0;13048;Pelanggan Loyal
+254;64;2;656,68;0;13049;Pelanggan Loyal
+352;14;17;5836,86;0;13050;Pelanggan Loyal
+0;212;1;348,15;2;13052;Pelanggan Yang Hilang
+135;78;3;1214,41;1;13055;Pelanggan Potensial
+127;24;3;271,4;1;13058;Pelanggan Potensial
+0;249;1;183,4;2;13059;Pelanggan Yang Hilang
+0;253;1;307,53;2;13060;Pelanggan Yang Hilang
+0;72;1;248,61;1;13061;Pelanggan Potensial
+0;191;1;346,98;2;13062;Pelanggan Yang Hilang
+315;12;4;1119,49;0;13064;Pelanggan Loyal
+0;373;1;205,86;2;13065;Pelanggan Yang Hilang
+8;24;2;470,8;1;13066;Pelanggan Potensial
+0;82;1;115,46;1;13067;Pelanggan Potensial
+309;10;2;344;0;13068;Pelanggan Loyal
+369;0;24;4436,12;0;13069;Pelanggan Loyal
+0;192;1;228,8;2;13070;Pelanggan Yang Hilang
+0;266;1;177,15;2;13072;Pelanggan Yang Hilang
+0;129;1;919,61;1;13075;Pelanggan Potensial
+365;1;4;729,27;0;13077;Pelanggan Loyal
+363;3;26;12627,94;0;13078;Pelanggan Loyal
+136;4;5;220,1;1;13079;Pelanggan Potensial
+0;179;1;58,08;2;13080;Pelanggan Yang Hilang
+360;11;11;28337,38;0;13081;Pelanggan Loyal
+212;126;9;3613,63;0;13082;Pelanggan Loyal
+71;4;2;303,75;1;13083;Pelanggan Potensial
+138;157;2;416,08;1;13085;Pelanggan Potensial
+367;2;97;58825,83;0;13089;Pelanggan Loyal
+364;8;14;8910,82;0;13090;Pelanggan Loyal
+0;28;1;345,82;1;13091;Pelanggan Potensial
+289;70;5;477,83;0;13092;Pelanggan Loyal
+98;275;8;7832,47;2;13093;Pelanggan Yang Hilang
+347;21;12;1927,32;0;13094;Pelanggan Loyal
+0;70;1;74,4;1;13095;Pelanggan Potensial
+328;32;10;6010,42;0;13097;Pelanggan Loyal
+316;1;28;28882,44;0;13098;Pelanggan Loyal
+0;99;1;207,36;1;13099;Pelanggan Potensial
+0;234;1;101,19;2;13101;Pelanggan Yang Hilang
+364;1;24;6424,09;0;13102;Pelanggan Loyal
+0;39;1;243,94;1;13103;Pelanggan Potensial
+351;3;6;1098,48;0;13104;Pelanggan Loyal
+0;133;1;76,5;1;13106;Pelanggan Potensial
+289;44;4;1531,62;0;13107;Pelanggan Loyal
+0;372;1;350,06;2;13108;Pelanggan Yang Hilang
+98;59;2;786,54;1;13109;Pelanggan Potensial
+280;31;7;1488,67;0;13110;Pelanggan Loyal
+366;0;24;12245,96;0;13113;Pelanggan Loyal
+173;11;4;2294,78;0;13115;Pelanggan Loyal
+0;138;1;501,14;1;13116;Pelanggan Potensial
+351;21;8;984,91;0;13117;Pelanggan Loyal
+269;19;5;1197,81;0;13118;Pelanggan Loyal
+0;238;1;30,6;2;13120;Pelanggan Yang Hilang
+0;269;1;283,73;2;13121;Pelanggan Yang Hilang
+146;94;2;922,39;1;13122;Pelanggan Potensial
+270;89;3;3866,33;0;13124;Pelanggan Loyal
+362;4;8;2099,64;0;13126;Pelanggan Loyal
+0;77;1;259,17;1;13127;Pelanggan Potensial
+0;94;1;64;1;13130;Pelanggan Potensial
+164;23;3;1073,3;0;13131;Pelanggan Loyal
+0;261;1;77,3;2;13132;Pelanggan Yang Hilang
+31;273;2;109,8;2;13133;Pelanggan Yang Hilang
+155;85;4;1793,58;1;13134;Pelanggan Potensial
+0;196;1;3096;2;13135;Pelanggan Yang Hilang
+156;56;5;2607,61;1;13136;Pelanggan Potensial
+298;10;8;3650,41;0;13137;Pelanggan Loyal
+350;22;6;962,39;0;13138;Pelanggan Loyal
+243;16;7;5064,94;0;13139;Pelanggan Loyal
+258;108;3;423,72;0;13140;Pelanggan Loyal
+231;84;5;2388,75;0;13141;Pelanggan Loyal
+0;19;1;307,09;1;13142;Pelanggan Potensial
+0;332;1;110,95;2;13144;Pelanggan Yang Hilang
+333;39;4;618,52;0;13145;Pelanggan Loyal
+0;26;1;228,91;1;13146;Pelanggan Potensial
+89;10;4;712,8;1;13147;Pelanggan Potensial
+335;29;12;3707,12;0;13148;Pelanggan Loyal
+275;14;4;1676,06;0;13149;Pelanggan Loyal
+0;295;1;1257,87;2;13151;Pelanggan Yang Hilang
+0;5;1;486,22;1;13153;Pelanggan Potensial
+335;33;4;971,76;0;13155;Pelanggan Loyal
+249;49;4;1741,22;0;13157;Pelanggan Loyal
+224;94;4;1201,06;0;13158;Pelanggan Loyal
+107;8;4;1437,85;1;13159;Pelanggan Potensial
+0;22;1;91,8;1;13160;Pelanggan Potensial
+0;313;1;112,75;2;13161;Pelanggan Yang Hilang
+212;122;4;1688,29;0;13162;Pelanggan Loyal
+305;46;2;1021,48;0;13165;Pelanggan Loyal
+0;283;1;417,2;2;13166;Pelanggan Yang Hilang
+125;18;4;791,33;1;13167;Pelanggan Potensial
+282;36;4;1319,19;0;13168;Pelanggan Loyal
+189;63;2;712,88;0;13169;Pelanggan Loyal
+0;26;1;116,01;1;13170;Pelanggan Potensial
+278;21;3;468,41;0;13171;Pelanggan Loyal
+363;4;2;353,65;0;13173;Pelanggan Loyal
+353;16;3;2817,03;0;13174;Pelanggan Loyal
+0;46;1;492,84;1;13176;Pelanggan Potensial
+0;64;1;282,45;1;13177;Pelanggan Potensial
+334;26;11;5725,47;0;13178;Pelanggan Loyal
+0;45;1;121,18;1;13182;Pelanggan Potensial
+327;7;9;3957,78;0;13183;Pelanggan Loyal
+276;14;10;1701,29;0;13184;Pelanggan Loyal
+0;267;1;71,4;2;13185;Pelanggan Yang Hilang
+89;39;3;1575,89;1;13186;Pelanggan Potensial
+0;337;1;236,02;2;13187;Pelanggan Yang Hilang
+0;11;1;114,6;1;13188;Pelanggan Potensial
+97;18;2;260,68;1;13189;Pelanggan Potensial
+110;95;2;911,94;1;13192;Pelanggan Potensial
+0;61;1;117,88;1;13193;Pelanggan Potensial
+0;135;1;60,7;1;13194;Pelanggan Potensial
+251;11;4;1797,78;0;13196;Pelanggan Loyal
+351;10;6;3401,24;0;13198;Pelanggan Loyal
+363;3;38;9817,12;0;13199;Pelanggan Loyal
+107;19;4;870,09;1;13200;Pelanggan Potensial
+233;9;4;869,46;0;13203;Pelanggan Loyal
+135;15;2;250,26;1;13207;Pelanggan Potensial
+251;58;6;1223,9;0;13208;Pelanggan Loyal
+331;30;8;5891,61;0;13209;Pelanggan Loyal
+0;93;1;353,48;1;13210;Pelanggan Potensial
+351;10;3;1197,42;0;13211;Pelanggan Loyal
+42;19;3;788,08;1;13212;Pelanggan Potensial
+143;56;5;1520,58;1;13213;Pelanggan Potensial
+0;267;1;333,74;2;13216;Pelanggan Yang Hilang
+34;122;3;533,98;1;13217;Pelanggan Potensial
+0;127;1;62,64;1;13218;Pelanggan Potensial
+158;78;4;819,29;1;13220;Pelanggan Potensial
+119;240;2;847,41;2;13221;Pelanggan Yang Hilang
+32;200;2;163,2;2;13223;Pelanggan Yang Hilang
+91;60;2;2155,95;1;13224;Pelanggan Potensial
+358;3;7;6463,84;0;13225;Pelanggan Loyal
+0;273;1;108,21;2;13226;Pelanggan Yang Hilang
+0;201;1;257,7;2;13227;Pelanggan Yang Hilang
+0;81;1;358;1;13228;Pelanggan Potensial
+0;225;1;160,95;2;13229;Pelanggan Yang Hilang
+361;4;14;2806,97;0;13230;Pelanggan Loyal
+231;12;7;1357,6;0;13232;Pelanggan Loyal
+262;74;2;605,12;0;13233;Pelanggan Loyal
+0;212;1;1031,07;2;13235;Pelanggan Yang Hilang
+82;24;2;744,85;1;13236;Pelanggan Potensial
+343;17;4;700,73;0;13238;Pelanggan Loyal
+0;261;1;329,56;2;13239;Pelanggan Yang Hilang
+269;96;4;663,65;0;13240;Pelanggan Loyal
+101;112;3;270,4;1;13242;Pelanggan Potensial
+0;203;1;600,07;2;13243;Pelanggan Yang Hilang
+0;92;1;121,74;1;13244;Pelanggan Potensial
+0;50;1;430,5;1;13245;Pelanggan Potensial
+312;18;6;1987,3;0;13246;Pelanggan Loyal
+65;17;4;501,12;1;13247;Pelanggan Potensial
+65;124;2;465,68;1;13248;Pelanggan Potensial
+169;92;3;711,41;0;13249;Pelanggan Loyal
+183;156;2;1030,4;0;13253;Pelanggan Loyal
+364;9;2;399,51;0;13255;Pelanggan Loyal
+0;14;1;0;1;13256;Pelanggan Potensial
+194;11;3;698,58;0;13258;Pelanggan Loyal
+0;61;1;292,32;1;13259;Pelanggan Potensial
+0;61;1;557,62;1;13260;Pelanggan Potensial
+17;268;2;944,1;2;13261;Pelanggan Yang Hilang
+0;263;1;200,29;2;13262;Pelanggan Yang Hilang
+324;1;35;7454,07;0;13263;Pelanggan Loyal
+220;53;5;2107,66;0;13265;Pelanggan Loyal
+245;11;12;3834,26;0;13266;Pelanggan Loyal
+364;2;19;4521,49;0;13267;Pelanggan Loyal
+250;17;11;3214,69;0;13268;Pelanggan Loyal
+368;1;15;5346,23;0;13269;Pelanggan Loyal
+0;366;1;590;2;13270;Pelanggan Yang Hilang
+0;37;1;217,38;1;13271;Pelanggan Potensial
+58;31;2;276,56;1;13272;Pelanggan Potensial
+0;113;1;138,98;1;13273;Pelanggan Potensial
+36;63;2;590,93;1;13276;Pelanggan Potensial
+118;15;4;258,4;1;13277;Pelanggan Potensial
+0;40;1;542,73;1;13278;Pelanggan Potensial
+0;78;1;137,75;1;13279;Pelanggan Potensial
+215;122;3;814,86;0;13280;Pelanggan Loyal
+202;18;3;1132,14;0;13282;Pelanggan Loyal
+126;59;2;93,66;1;13283;Pelanggan Potensial
+0;330;1;201,19;2;13284;Pelanggan Yang Hilang
+267;23;4;2709,12;0;13285;Pelanggan Loyal
+0;155;1;361,11;2;13291;Pelanggan Yang Hilang
+246;38;2;578,94;0;13292;Pelanggan Loyal
+60;189;2;873,74;2;13294;Pelanggan Yang Hilang
+0;359;1;201,2;2;13295;Pelanggan Yang Hilang
+0;137;1;87,4;1;13296;Pelanggan Potensial
+60;7;4;2089,85;1;13297;Pelanggan Potensial
+0;1;1;360;1;13298;Pelanggan Potensial
+0;268;1;142,5;2;13299;Pelanggan Yang Hilang
+0;169;1;371,89;2;13300;Pelanggan Yang Hilang
+189;103;4;618,09;0;13301;Pelanggan Loyal
+0;155;1;63,75;2;13302;Pelanggan Yang Hilang
+0;351;1;300,42;2;13304;Pelanggan Yang Hilang
+368;4;10;2000,86;0;13305;Pelanggan Loyal
+0;120;1;15;1;13307;Pelanggan Potensial
+181;22;3;1385,51;0;13308;Pelanggan Loyal
+301;7;5;1456,79;0;13309;Pelanggan Loyal
+296;28;3;1132,03;0;13310;Pelanggan Loyal
+146;4;2;598,57;1;13311;Pelanggan Potensial
+317;22;5;1555,32;0;13313;Pelanggan Loyal
+72;1;3;775,94;1;13314;Pelanggan Potensial
+217;37;4;5977,73;0;13316;Pelanggan Loyal
+292;66;6;2273,68;0;13317;Pelanggan Loyal
+36;1;3;640,76;1;13318;Pelanggan Potensial
+360;5;26;10845,55;0;13319;Pelanggan Loyal
+135;78;4;1548,7;1;13320;Pelanggan Potensial
+14;72;2;567,36;1;13321;Pelanggan Potensial
+0;17;1;199,48;1;13322;Pelanggan Potensial
+81;3;5;787,85;1;13323;Pelanggan Potensial
+324;36;10;7121,95;0;13324;Pelanggan Loyal
+0;81;1;675,3;1;13325;Pelanggan Potensial
+327;38;8;3627,77;0;13327;Pelanggan Loyal
+0;316;1;1308,48;2;13328;Pelanggan Yang Hilang
+335;31;2;789;0;13329;Pelanggan Loyal
+223;92;3;1140,93;0;13330;Pelanggan Loyal
+0;14;1;350,9;1;13332;Pelanggan Potensial
+223;82;3;3536,82;0;13334;Pelanggan Loyal
+0;77;1;795,12;1;13336;Pelanggan Potensial
+0;157;1;487,02;2;13338;Pelanggan Yang Hilang
+0;200;1;860,12;2;13339;Pelanggan Yang Hilang
+231;45;7;10736,48;0;13340;Pelanggan Loyal
+0;260;1;775,85;2;13341;Pelanggan Yang Hilang
+0;177;1;353,43;2;13343;Pelanggan Yang Hilang
+210;67;3;2543,72;0;13344;Pelanggan Loyal
+0;287;1;389,5;2;13345;Pelanggan Yang Hilang
+0;70;1;341,36;1;13347;Pelanggan Potensial
+0;64;1;233,76;1;13348;Pelanggan Potensial
+0;10;1;247,32;1;13349;Pelanggan Potensial
+63;16;2;979,12;1;13350;Pelanggan Potensial
+0;66;1;373,94;1;13351;Pelanggan Potensial
+0;60;1;397,98;1;13352;Pelanggan Potensial
+0;71;1;743,53;1;13354;Pelanggan Potensial
+0;122;1;674,7;1;13355;Pelanggan Potensial
+0;80;1;768,24;1;13356;Pelanggan Potensial
+0;257;1;609,95;2;13357;Pelanggan Yang Hilang
+0;268;1;439,03;2;13358;Pelanggan Yang Hilang
+0;63;1;439,56;1;13359;Pelanggan Potensial
+278;9;4;3090,74;0;13362;Pelanggan Loyal
+26;17;2;992,5;1;13363;Pelanggan Potensial
+0;71;1;134,96;1;13364;Pelanggan Potensial
+184;33;2;2225,37;0;13365;Pelanggan Loyal
+0;50;1;56,16;1;13366;Pelanggan Potensial
+81;256;2;623,4;2;13368;Pelanggan Yang Hilang
+0;365;1;308,28;2;13369;Pelanggan Yang Hilang
+0;371;1;754,87;2;13370;Pelanggan Yang Hilang
+0;89;1;378,64;1;13372;Pelanggan Potensial
+216;60;3;3312,25;0;13373;Pelanggan Loyal
+0;88;1;778,65;1;13375;Pelanggan Potensial
+135;99;3;1019,76;1;13376;Pelanggan Potensial
+110;26;3;572,56;1;13379;Pelanggan Potensial
+267;31;6;3639,31;0;13381;Pelanggan Loyal
+0;280;1;222,99;2;13382;Pelanggan Yang Hilang
+148;30;7;4151,93;1;13384;Pelanggan Potensial
+0;329;1;534,57;2;13385;Pelanggan Yang Hilang
+0;131;2;677,1;1;13388;Pelanggan Potensial
+221;11;3;797,96;0;13389;Pelanggan Loyal
+0;74;1;544,08;1;13390;Pelanggan Potensial
+0;203;1;59,8;2;13391;Pelanggan Yang Hilang
+308;1;8;2520,02;0;13394;Pelanggan Loyal
+0;185;1;307,72;2;13395;Pelanggan Yang Hilang
+290;29;2;1360,99;0;13396;Pelanggan Loyal
+267;72;5;1544,13;0;13397;Pelanggan Loyal
+0;192;1;457,34;2;13398;Pelanggan Yang Hilang
+245;127;2;621,23;0;13402;Pelanggan Loyal
+0;17;1;75;1;13403;Pelanggan Potensial
+211;1;2;252,49;0;13404;Pelanggan Loyal
+243;74;3;572,451;0;13405;Pelanggan Loyal
+372;1;62;28117,04;0;13408;Pelanggan Loyal
+267;24;5;1003,06;0;13410;Pelanggan Loyal
+0;107;1;213,55;1;13411;Pelanggan Potensial
+163;133;3;1390,5;1;13414;Pelanggan Potensial
+38;43;2;712,5;1;13416;Pelanggan Potensial
+201;4;2;640,83;0;13417;Pelanggan Loyal
+361;11;18;6127,43;0;13418;Pelanggan Loyal
+0;63;1;221,06;1;13419;Pelanggan Potensial
+21;149;2;159,85;1;13420;Pelanggan Potensial
+250;40;2;1851,08;0;13421;Pelanggan Loyal
+0;64;1;2626,3;1;13422;Pelanggan Potensial
+186;108;3;1624,21;0;13425;Pelanggan Loyal
+359;0;10;3641,32;0;13426;Pelanggan Loyal
+196;19;3;582,6;0;13427;Pelanggan Loyal
+0;10;1;218,47;1;13428;Pelanggan Potensial
+65;10;4;1006,8;1;13429;Pelanggan Potensial
+68;18;2;679,45;1;13430;Pelanggan Potensial
+21;67;2;1269,1;1;13431;Pelanggan Potensial
+22;74;2;534,24;1;13434;Pelanggan Potensial
+184;5;7;3809,89;0;13435;Pelanggan Loyal
+0;1;1;196,89;1;13436;Pelanggan Potensial
+176;14;7;3408,06;0;13437;Pelanggan Loyal
+0;255;1;283,71;2;13439;Pelanggan Yang Hilang
+0;91;1;296,64;1;13441;Pelanggan Potensial
+12;23;3;1129,14;1;13447;Pelanggan Potensial
+357;16;6;3539,37;0;13448;Pelanggan Loyal
+0;23;1;291,88;1;13449;Pelanggan Potensial
+192;26;6;2043,72;0;13450;Pelanggan Loyal
+308;26;5;2976,15;0;13451;Pelanggan Loyal
+11;259;2;590;2;13452;Pelanggan Yang Hilang
+124;165;2;356,98;2;13453;Pelanggan Yang Hilang
+342;24;2;1058,34;0;13455;Pelanggan Loyal
+190;17;6;1766,72;0;13456;Pelanggan Loyal
+352;7;14;9646,57;0;13458;Pelanggan Loyal
+20;29;2;183,44;1;13460;Pelanggan Potensial
+125;38;3;1445;1;13461;Pelanggan Potensial
+0;252;1;151,5;2;13462;Pelanggan Yang Hilang
+0;58;1;674,68;1;13464;Pelanggan Potensial
+0;184;1;307,9;2;13466;Pelanggan Yang Hilang
+26;10;2;1083,71;1;13467;Pelanggan Potensial
+372;1;37;5704,97;0;13468;Pelanggan Loyal
+16;99;2;165;1;13470;Pelanggan Potensial
+46;1;4;2531,58;1;13471;Pelanggan Potensial
+272;60;2;422,64;0;13473;Pelanggan Loyal
+0;236;1;229,59;2;13474;Pelanggan Yang Hilang
+107;191;4;1431,78;2;13475;Pelanggan Yang Hilang
+103;178;2;1238,47;2;13476;Pelanggan Yang Hilang
+254;37;6;1454,58;0;13477;Pelanggan Loyal
+34;200;2;300,95;2;13479;Pelanggan Yang Hilang
+211;45;5;1804,56;0;13481;Pelanggan Loyal
+0;232;1;184,64;2;13482;Pelanggan Yang Hilang
+0;65;1;140,34;1;13483;Pelanggan Potensial
+0;241;1;313,8;2;13484;Pelanggan Yang Hilang
+0;233;1;454,24;2;13485;Pelanggan Yang Hilang
+77;78;3;1122,41;1;13486;Pelanggan Potensial
+296;57;3;575,4;0;13487;Pelanggan Loyal
+350;17;13;8968,31;0;13488;Pelanggan Loyal
+189;105;4;449,52;0;13489;Pelanggan Loyal
+321;51;10;1215,82;0;13491;Pelanggan Loyal
+78;136;3;1269,84;1;13492;Pelanggan Potensial
+12;275;2;618,63;2;13493;Pelanggan Yang Hilang
+0;311;1;316,26;2;13494;Pelanggan Yang Hilang
+361;7;5;2044,87;0;13495;Pelanggan Loyal
+349;10;2;653,33;0;13496;Pelanggan Loyal
+86;282;2;348,05;2;13497;Pelanggan Yang Hilang
+252;17;5;1159,11;0;13499;Pelanggan Loyal
+99;23;3;1166,77;1;13500;Pelanggan Potensial
+0;288;1;1340,32;2;13501;Pelanggan Yang Hilang
+307;16;3;292;0;13502;Pelanggan Loyal
+0;71;1;216,85;1;13503;Pelanggan Potensial
+0;64;1;295,93;1;13504;Pelanggan Potensial
+160;72;4;4393,63;1;13505;Pelanggan Potensial
+53;316;2;458,52;2;13506;Pelanggan Yang Hilang
+142;3;4;2479,16;1;13507;Pelanggan Potensial
+0;243;1;110,97;2;13508;Pelanggan Yang Hilang
+276;8;7;979,72;0;13509;Pelanggan Loyal
+182;1;4;1791,56;0;13510;Pelanggan Loyal
+0;260;1;251,21;2;13512;Pelanggan Yang Hilang
+0;126;1;205,1;1;13513;Pelanggan Potensial
+0;73;1;152,2;1;13514;Pelanggan Potensial
+175;72;4;891,12;0;13515;Pelanggan Loyal
+217;21;3;1389,41;0;13516;Pelanggan Loyal
+120;59;3;2128,42;1;13517;Pelanggan Potensial
+0;85;1;659,44;1;13518;Pelanggan Potensial
+0;78;1;122,75;1;13519;Pelanggan Potensial
+313;58;6;3624,35;0;13520;Pelanggan Loyal
+9;1;3;1093,65;1;13521;Pelanggan Potensial
+0;30;1;125,8;1;13522;Pelanggan Potensial
+333;33;5;3964,88;0;13523;Pelanggan Loyal
+179;40;5;680,18;0;13524;Pelanggan Loyal
+234;14;2;628,78;0;13525;Pelanggan Loyal
+293;33;7;2287,51;0;13527;Pelanggan Loyal
+126;78;2;307,76;1;13529;Pelanggan Potensial
+161;205;2;483,8;2;13531;Pelanggan Yang Hilang
+0;33;1;210,31;1;13532;Pelanggan Potensial
+85;182;3;270,79;2;13533;Pelanggan Yang Hilang
+356;2;25;5870,08;0;13534;Pelanggan Loyal
+74;1;7;3448,29;1;13536;Pelanggan Potensial
+272;43;7;1280,85;0;13538;Pelanggan Loyal
+224;85;3;631,34;0;13539;Pelanggan Loyal
+201;39;2;291,41;0;13544;Pelanggan Loyal
+188;12;3;626,99;0;13546;Pelanggan Loyal
+147;96;2;682,41;1;13548;Pelanggan Potensial
+217;25;7;918,2;0;13549;Pelanggan Loyal
+0;319;1;91,8;2;13551;Pelanggan Yang Hilang
+249;66;12;3740,07;0;13552;Pelanggan Loyal
+128;73;4;4149,28;1;13555;Pelanggan Potensial
+252;28;2;584,06;0;13557;Pelanggan Loyal
+63;5;4;605,06;1;13558;Pelanggan Potensial
+0;7;1;174,37;1;13560;Pelanggan Potensial
+0;215;1;141,86;2;13561;Pelanggan Yang Hilang
+164;81;3;1799,33;0;13562;Pelanggan Loyal
+56;84;2;777,53;1;13563;Pelanggan Potensial
+224;144;3;1749,02;0;13564;Pelanggan Loyal
+315;19;2;240,22;0;13565;Pelanggan Loyal
+42;40;2;874,71;1;13566;Pelanggan Potensial
+0;173;1;192,85;2;13568;Pelanggan Yang Hilang
+350;17;2;373,75;0;13569;Pelanggan Loyal
+0;243;1;239,49;2;13570;Pelanggan Yang Hilang
+241;12;12;2092,32;0;13571;Pelanggan Loyal
+0;205;1;1384,25;2;13572;Pelanggan Yang Hilang
+203;50;2;294,4;0;13573;Pelanggan Loyal
+153;23;5;732,07;1;13575;Pelanggan Potensial
+363;10;18;6717,34;0;13576;Pelanggan Loyal
+216;25;4;1687,6;0;13577;Pelanggan Loyal
+355;14;2;467,04;0;13579;Pelanggan Loyal
+0;309;1;118;2;13581;Pelanggan Yang Hilang
+0;155;1;781,03;2;13583;Pelanggan Yang Hilang
+0;306;1;142,4;2;13584;Pelanggan Yang Hilang
+0;63;1;712,4;1;13587;Pelanggan Potensial
+240;15;9;2478,95;0;13588;Pelanggan Loyal
+165;14;2;379,65;0;13589;Pelanggan Loyal
+292;11;6;1981,92;0;13590;Pelanggan Loyal
+202;64;3;1117,13;0;13591;Pelanggan Loyal
+229;35;4;247,96;0;13592;Pelanggan Loyal
+228;108;5;2037,08;0;13593;Pelanggan Loyal
+0;52;1;396,97;1;13594;Pelanggan Potensial
+7;5;2;697,04;1;13596;Pelanggan Potensial
+0;47;1;180,17;1;13598;Pelanggan Potensial
+365;1;21;5153,67;0;13599;Pelanggan Loyal
+0;312;1;219,52;2;13600;Pelanggan Yang Hilang
+166;45;2;693,32;0;13601;Pelanggan Loyal
+0;64;1;428,89;1;13602;Pelanggan Potensial
+0;26;1;164,34;1;13603;Pelanggan Potensial
+282;29;3;280,54;0;13606;Pelanggan Loyal
+0;40;1;678,01;1;13607;Pelanggan Potensial
+273;12;7;1131,88;0;13610;Pelanggan Loyal
+270;89;3;1171,8;0;13611;Pelanggan Loyal
+306;24;4;1610,46;0;13614;Pelanggan Loyal
+0;318;1;417,69;2;13615;Pelanggan Yang Hilang
+140;40;3;544,18;1;13617;Pelanggan Potensial
+0;173;1;177,34;2;13618;Pelanggan Yang Hilang
+0;116;1;213,85;1;13621;Pelanggan Potensial
+267;30;5;747,78;0;13623;Pelanggan Loyal
+0;252;1;257,23;2;13626;Pelanggan Yang Hilang
+298;59;5;1638,47;0;13627;Pelanggan Loyal
+315;23;11;7792,36;0;13629;Pelanggan Loyal
+280;5;7;2031,78;0;13630;Pelanggan Loyal
+168;99;11;3070,42;0;13631;Pelanggan Loyal
+219;24;5;2121,27;0;13632;Pelanggan Loyal
+294;33;5;1575,16;0;13634;Pelanggan Loyal
+0;67;1;1071,03;1;13635;Pelanggan Potensial
+249;36;5;949,12;0;13636;Pelanggan Loyal
+174;52;3;810,5;0;13637;Pelanggan Loyal
+0;15;1;122,64;1;13638;Pelanggan Potensial
+0;74;1;1033,34;1;13639;Pelanggan Potensial
+0;215;1;354,8;2;13642;Pelanggan Yang Hilang
+154;31;3;519,44;1;13643;Pelanggan Potensial
+89;16;4;2624,26;1;13644;Pelanggan Potensial
+0;120;1;252,1;1;13645;Pelanggan Potensial
+225;9;4;1678,12;0;13647;Pelanggan Loyal
+110;256;2;346,6;2;13649;Pelanggan Yang Hilang
+251;16;6;1836,34;0;13650;Pelanggan Loyal
+4;35;2;94,2;1;13651;Pelanggan Potensial
+323;45;3;1095,08;0;13652;Pelanggan Loyal
+230;43;6;2707,33;0;13654;Pelanggan Loyal
+127;114;2;932,97;1;13655;Pelanggan Potensial
+173;164;2;379,65;0;13656;Pelanggan Loyal
+191;10;2;382,14;0;13657;Pelanggan Loyal
+195;9;5;2639,17;0;13658;Pelanggan Loyal
+115;205;2;1573,2;2;13659;Pelanggan Yang Hilang
+174;85;3;897,76;0;13662;Pelanggan Loyal
+0;179;1;189,47;2;13663;Pelanggan Yang Hilang
+227;60;3;84,65;0;13666;Pelanggan Loyal
+0;149;1;305,02;1;13667;Pelanggan Potensial
+360;2;21;6363,59;0;13668;Pelanggan Loyal
+99;50;2;218,55;1;13669;Pelanggan Potensial
+0;75;1;349,7;1;13670;Pelanggan Potensial
+31;301;2;186,39;2;13672;Pelanggan Yang Hilang
+14;18;2;396,92;1;13673;Pelanggan Potensial
+133;151;2;486,82;1;13675;Pelanggan Potensial
+0;151;1;232,6;1;13678;Pelanggan Potensial
+338;1;4;3722,42;0;13680;Pelanggan Loyal
+138;17;4;827,83;1;13681;Pelanggan Potensial
+0;187;1;59,5;2;13682;Pelanggan Yang Hilang
+0;285;1;67,23;2;13684;Pelanggan Yang Hilang
+58;2;7;3119,44;1;13685;Pelanggan Potensial
+0;182;1;72;2;13686;Pelanggan Yang Hilang
+0;63;1;910;1;13689;Pelanggan Potensial
+0;59;1;172,25;1;13690;Pelanggan Potensial
+212;24;3;1488,32;0;13692;Pelanggan Loyal
+370;3;50;65039,62;0;13694;Pelanggan Loyal
+228;31;15;2504,13;0;13695;Pelanggan Loyal
+0;38;1;151,3;1;13697;Pelanggan Potensial
+0;155;1;308,58;2;13699;Pelanggan Yang Hilang
+301;26;10;2265,12;0;13700;Pelanggan Loyal
+0;318;1;99,5;2;13703;Pelanggan Yang Hilang
+83;5;9;2308,06;1;13704;Pelanggan Potensial
+366;7;3;711,86;0;13705;Pelanggan Loyal
+0;302;1;330,79;2;13706;Pelanggan Yang Hilang
+48;267;2;806,41;2;13707;Pelanggan Yang Hilang
+0;271;1;296,88;2;13708;Pelanggan Yang Hilang
+312;3;13;6328,05;0;13709;Pelanggan Loyal
+0;31;1;180,48;1;13710;Pelanggan Potensial
+0;218;2;252,06;2;13711;Pelanggan Yang Hilang
+0;246;1;228,84;2;13712;Pelanggan Yang Hilang
+91;281;5;1079,34;2;13715;Pelanggan Yang Hilang
+0;269;1;138,28;2;13716;Pelanggan Yang Hilang
+266;32;6;1445,01;0;13717;Pelanggan Loyal
+49;246;2;306,55;2;13718;Pelanggan Yang Hilang
+219;15;5;1041,68;0;13719;Pelanggan Loyal
+138;116;4;799,9;1;13720;Pelanggan Potensial
+0;36;1;524,14;1;13721;Pelanggan Potensial
+151;131;3;2375,41;1;13722;Pelanggan Potensial
+0;217;1;199,85;2;13723;Pelanggan Yang Hilang
+259;49;8;1980,56;0;13725;Pelanggan Loyal
+62;38;2;1079,66;1;13726;Pelanggan Potensial
+5;28;2;333,48;1;13727;Pelanggan Potensial
+274;36;6;1016,14;0;13728;Pelanggan Loyal
+26;135;2;752,6;1;13730;Pelanggan Potensial
+27;219;2;610,59;2;13731;Pelanggan Yang Hilang
+0;28;1;491,86;1;13732;Pelanggan Potensial
+210;24;4;2885,24;0;13735;Pelanggan Loyal
+255;5;2;731,9;0;13736;Pelanggan Loyal
+0;200;1;339,6;2;13737;Pelanggan Yang Hilang
+0;18;1;216,9;1;13739;Pelanggan Potensial
+0;240;1;350,75;2;13740;Pelanggan Yang Hilang
+146;71;3;668,43;1;13741;Pelanggan Potensial
+304;16;12;3131,02;0;13742;Pelanggan Loyal
+257;2;7;1341,6;0;13743;Pelanggan Loyal
+197;95;2;1156,36;0;13744;Pelanggan Loyal
+0;162;1;300,04;2;13745;Pelanggan Yang Hilang
+0;373;1;79,6;2;13747;Pelanggan Yang Hilang
+278;95;5;948,25;0;13748;Pelanggan Loyal
+283;53;5;1647,26;0;13750;Pelanggan Loyal
+0;288;1;296,25;2;13751;Pelanggan Yang Hilang
+122;124;6;1186,28;1;13752;Pelanggan Potensial
+0;287;1;741,26;2;13753;Pelanggan Yang Hilang
+166;151;2;282,6;1;13754;Pelanggan Potensial
+60;3;9;2161,35;1;13755;Pelanggan Potensial
+365;2;14;5189,52;0;13756;Pelanggan Loyal
+362;11;7;3190,55;0;13758;Pelanggan Loyal
+38;33;2;659,41;1;13759;Pelanggan Potensial
+202;54;2;286,79;0;13760;Pelanggan Loyal
+129;50;2;1070,65;1;13761;Pelanggan Potensial
+0;218;1;306,72;2;13762;Pelanggan Yang Hilang
+0;63;1;1714,96;1;13763;Pelanggan Potensial
+267;70;3;1521,76;0;13764;Pelanggan Loyal
+371;2;37;17220,36;0;13767;Pelanggan Loyal
+365;2;10;2796,51;0;13769;Pelanggan Loyal
+183;64;4;2634,45;0;13771;Pelanggan Loyal
+206;33;3;1132,13;0;13772;Pelanggan Loyal
+0;81;1;345;1;13774;Pelanggan Potensial
+373;0;33;25977,16;0;13777;Pelanggan Loyal
+0;103;1;178,7;1;13778;Pelanggan Potensial
+163;7;2;360,01;0;13780;Pelanggan Loyal
+0;250;1;127,84;2;13781;Pelanggan Yang Hilang
+315;12;6;912;0;13782;Pelanggan Loyal
+323;9;11;2462,79;0;13784;Pelanggan Loyal
+0;367;1;230,4;2;13786;Pelanggan Yang Hilang
+289;75;2;309,04;0;13787;Pelanggan Loyal
+0;4;1;348,8;1;13790;Pelanggan Potensial
+41;127;2;1516;1;13791;Pelanggan Potensial
+221;66;2;195,55;0;13792;Pelanggan Loyal
+371;1;57;37153,85;0;13798;Pelanggan Loyal
+178;116;2;688,86;0;13799;Pelanggan Loyal
+0;309;1;558,32;2;13800;Pelanggan Yang Hilang
+0;66;1;324,8;1;13801;Pelanggan Potensial
+173;138;3;4599,42;0;13802;Pelanggan Loyal
+0;255;1;277,07;2;13803;Pelanggan Yang Hilang
+259;30;7;2635,79;0;13804;Pelanggan Loyal
+77;52;2;924,6;1;13805;Pelanggan Potensial
+0;63;1;256,38;1;13806;Pelanggan Potensial
+0;367;1;112,6;2;13807;Pelanggan Yang Hilang
+91;5;5;1747,66;1;13808;Pelanggan Potensial
+0;305;1;155,05;2;13809;Pelanggan Yang Hilang
+28;28;3;1499,01;1;13810;Pelanggan Potensial
+56;183;3;814,5;2;13811;Pelanggan Yang Hilang
+63;42;3;539;1;13812;Pelanggan Potensial
+95;39;4;1366,86;1;13813;Pelanggan Potensial
+45;92;2;1579,12;1;13814;Pelanggan Potensial
+296;22;4;4027,36;0;13815;Pelanggan Loyal
+41;23;2;571,67;1;13816;Pelanggan Potensial
+322;29;2;382,98;0;13817;Pelanggan Loyal
+18;301;3;1140,35;2;13819;Pelanggan Yang Hilang
+117;144;2;385,64;1;13821;Pelanggan Potensial
+35;5;2;632;1;13822;Pelanggan Potensial
+73;18;2;957,66;1;13823;Pelanggan Potensial
+278;32;5;1698,94;0;13824;Pelanggan Loyal
+0;176;1;189,5;2;13826;Pelanggan Yang Hilang
+86;57;3;412,05;1;13827;Pelanggan Potensial
+0;22;1;209,49;1;13828;Pelanggan Potensial
+353;16;6;2202,99;0;13831;Pelanggan Loyal
+0;19;1;52,2;1;13832;Pelanggan Potensial
+0;159;1;384,8;2;13833;Pelanggan Yang Hilang
+190;25;4;834,57;0;13835;Pelanggan Loyal
+106;211;2;271,24;2;13837;Pelanggan Yang Hilang
+364;5;4;691,73;0;13838;Pelanggan Loyal
+0;252;1;85;2;13841;Pelanggan Yang Hilang
+308;58;9;3385,62;0;13842;Pelanggan Loyal
+0;11;1;361,62;1;13844;Pelanggan Potensial
+0;64;1;312,98;1;13845;Pelanggan Potensial
+336;24;3;865,06;0;13846;Pelanggan Loyal
+274;92;3;1255;0;13848;Pelanggan Loyal
+119;51;2;1537,95;1;13849;Pelanggan Potensial
+0;129;1;1595,48;1;13850;Pelanggan Potensial
+193;95;3;2651,46;0;13851;Pelanggan Loyal
+0;57;1;1090,14;1;13853;Pelanggan Potensial
+357;8;25;8109,52;0;13854;Pelanggan Loyal
+35;168;3;388,5;2;13856;Pelanggan Yang Hilang
+0;57;1;216,17;1;13858;Pelanggan Potensial
+0;326;1;201,16;2;13859;Pelanggan Yang Hilang
+85;1;5;1245,9;1;13860;Pelanggan Potensial
+314;18;8;2209,36;0;13862;Pelanggan Loyal
+0;247;1;305,78;2;13863;Pelanggan Yang Hilang
+231;58;4;501,56;0;13865;Pelanggan Loyal
+0;74;1;145,67;1;13866;Pelanggan Potensial
+187;31;3;1015,29;0;13867;Pelanggan Loyal
+31;7;2;3192,54;1;13868;Pelanggan Potensial
+234;123;4;3104,95;0;13869;Pelanggan Loyal
+285;2;8;2770,94;0;13870;Pelanggan Loyal
+286;22;13;6403,25;0;13871;Pelanggan Loyal
+190;119;3;389,6;0;13873;Pelanggan Loyal
+0;358;1;540,45;2;13874;Pelanggan Yang Hilang
+248;53;5;1786,79;0;13875;Pelanggan Loyal
+0;63;1;122,7;1;13876;Pelanggan Potensial
+0;86;1;117,24;1;13877;Pelanggan Potensial
+0;54;1;1281,53;1;13878;Pelanggan Potensial
+346;21;13;3219,77;0;13880;Pelanggan Loyal
+308;3;20;17159,52;0;13881;Pelanggan Loyal
+62;2;5;1191,13;1;13882;Pelanggan Potensial
+243;10;5;2674,48;0;13883;Pelanggan Loyal
+276;7;5;787,6;0;13884;Pelanggan Loyal
+11;189;2;506,8;2;13885;Pelanggan Yang Hilang
+0;71;1;243,56;1;13886;Pelanggan Potensial
+0;204;1;349,55;2;13887;Pelanggan Yang Hilang
+99;119;2;605,63;1;13888;Pelanggan Potensial
+0;92;1;416,9;1;13889;Pelanggan Potensial
+357;1;10;1883,81;0;13890;Pelanggan Loyal
+220;26;4;632,97;0;13892;Pelanggan Loyal
+0;297;1;821,1;2;13893;Pelanggan Yang Hilang
+287;23;3;564,62;0;13894;Pelanggan Loyal
+136;28;4;2593,07;1;13895;Pelanggan Potensial
+0;50;1;311,16;1;13897;Pelanggan Potensial
+0;325;1;155,93;2;13898;Pelanggan Yang Hilang
+258;16;2;388,52;0;13899;Pelanggan Loyal
+79;183;3;740,95;2;13900;Pelanggan Yang Hilang
+246;72;5;2867,2;0;13901;Pelanggan Loyal
+257;37;2;332,64;0;13904;Pelanggan Loyal
+197;79;4;2369,55;0;13908;Pelanggan Loyal
+251;57;9;2580,91;0;13911;Pelanggan Loyal
+25;11;2;626,45;1;13914;Pelanggan Potensial
+142;49;2;272,04;1;13917;Pelanggan Potensial
+204;49;2;1212,84;0;13918;Pelanggan Loyal
+62;59;2;384,81;1;13919;Pelanggan Potensial
+0;351;1;172,25;2;13922;Pelanggan Yang Hilang
+0;53;1;351,13;1;13923;Pelanggan Potensial
+71;1;6;1838,85;1;13924;Pelanggan Potensial
+42;92;4;678,25;1;13925;Pelanggan Potensial
+0;23;1;223,85;1;13926;Pelanggan Potensial
+0;74;1;348,99;1;13927;Pelanggan Potensial
+123;10;4;464,57;1;13928;Pelanggan Potensial
+157;169;2;842,65;2;13929;Pelanggan Yang Hilang
+79;57;2;337,34;1;13930;Pelanggan Potensial
+185;95;2;1237,53;0;13931;Pelanggan Loyal
+0;294;1;307,4;2;13932;Pelanggan Yang Hilang
+39;109;2;608,79;1;13933;Pelanggan Potensial
+0;263;1;922,1;2;13934;Pelanggan Yang Hilang
+0;179;1;376,58;2;13936;Pelanggan Yang Hilang
+0;169;1;158,85;2;13937;Pelanggan Yang Hilang
+0;35;1;71,66;1;13938;Pelanggan Potensial
+288;23;3;568,55;0;13939;Pelanggan Loyal
+127;17;4;839,14;1;13940;Pelanggan Potensial
+351;21;5;5112,96;0;13941;Pelanggan Loyal
+188;79;3;561,57;0;13946;Pelanggan Loyal
+0;65;1;90,6;1;13947;Pelanggan Potensial
+0;360;1;102;2;13948;Pelanggan Yang Hilang
+92;2;6;2427,32;1;13949;Pelanggan Potensial
+235;11;4;745,06;0;13950;Pelanggan Loyal
+118;176;3;674,45;2;13951;Pelanggan Yang Hilang
+21;217;2;3251,071;2;13952;Pelanggan Yang Hilang
+345;7;7;3515,68;0;13953;Pelanggan Loyal
+69;1;2;439,92;1;13954;Pelanggan Potensial
+151;154;2;322,96;1;13955;Pelanggan Potensial
+266;5;5;1026,42;0;13956;Pelanggan Loyal
+283;79;3;598,2;0;13959;Pelanggan Loyal
+50;21;2;230,22;1;13960;Pelanggan Potensial
+224;21;2;169,55;0;13962;Pelanggan Loyal
+59;308;4;664,54;2;13963;Pelanggan Yang Hilang
+0;145;1;80,7;1;13967;Pelanggan Potensial
+358;7;18;9053,94;0;13969;Pelanggan Loyal
+267;18;8;2758,26;0;13971;Pelanggan Loyal
+131;70;2;190,25;1;13972;Pelanggan Potensial
+0;287;1;264,7;2;13973;Pelanggan Yang Hilang
+0;49;1;413,59;1;13974;Pelanggan Potensial
+245;31;6;2526,28;0;13975;Pelanggan Loyal
+0;206;1;357,98;2;13976;Pelanggan Yang Hilang
+31;14;2;196,79;1;13978;Pelanggan Potensial
+0;73;1;869,87;1;13979;Pelanggan Potensial
+0;60;1;200,14;1;13980;Pelanggan Potensial
+326;39;4;1871,81;0;13982;Pelanggan Loyal
+337;29;12;2603,43;0;13983;Pelanggan Loyal
+340;26;5;920,51;0;13984;Pelanggan Loyal
+260;4;15;7060,13;0;13985;Pelanggan Loyal
+0;17;1;320,46;1;13986;Pelanggan Potensial
+235;19;6;4147,96;0;13988;Pelanggan Loyal
+174;65;2;1266,08;0;13989;Pelanggan Loyal
+0;213;1;311,3;2;13990;Pelanggan Yang Hilang
+131;12;6;855,97;1;13991;Pelanggan Potensial
+0;30;1;76,8;1;13992;Pelanggan Potensial
+288;42;9;3466,36;0;13993;Pelanggan Loyal
+145;3;6;2313,14;1;13994;Pelanggan Potensial
+230;15;5;1393,69;0;13995;Pelanggan Loyal
+351;10;12;3901,81;0;13999;Pelanggan Loyal
+0;211;1;635,66;2;14000;Pelanggan Yang Hilang
+328;45;3;2043,08;0;14001;Pelanggan Loyal
+22;134;2;529,73;1;14002;Pelanggan Potensial
+245;43;7;4582,64;0;14004;Pelanggan Loyal
+206;9;5;2874,72;0;14005;Pelanggan Loyal
+197;115;3;962,19;0;14006;Pelanggan Loyal
+7;198;2;695,61;2;14009;Pelanggan Yang Hilang
+0;277;1;328,8;2;14012;Pelanggan Yang Hilang
+165;110;3;473,02;1;14013;Pelanggan Potensial
+0;77;1;505,18;1;14014;Pelanggan Potensial
+0;52;1;917,34;1;14015;Pelanggan Potensial
+196;161;4;4341,21;0;14016;Pelanggan Loyal
+92;46;3;1421,61;1;14019;Pelanggan Potensial
+72;16;2;642,8;1;14020;Pelanggan Potensial
+101;155;3;631,9;1;14021;Pelanggan Potensial
+0;225;1;440;2;14022;Pelanggan Yang Hilang
+243;7;2;584,07;0;14023;Pelanggan Loyal
+3;121;2;327,7;1;14024;Pelanggan Potensial
+0;60;1;104,82;1;14027;Pelanggan Potensial
+81;63;2;467,66;1;14029;Pelanggan Potensial
+348;18;8;2360,09;0;14030;Pelanggan Loyal
+365;7;19;17286,86;0;14031;Pelanggan Loyal
+364;2;11;2975,59;0;14032;Pelanggan Loyal
+135;22;3;651,82;1;14034;Pelanggan Potensial
+269;28;5;1428,02;0;14035;Pelanggan Loyal
+0;284;1;626,65;2;14036;Pelanggan Yang Hilang
+188;176;2;147,2;0;14037;Pelanggan Loyal
+129;78;3;1560,38;1;14038;Pelanggan Potensial
+0;33;1;152,2;1;14039;Pelanggan Potensial
+291;40;12;3614,92;0;14040;Pelanggan Loyal
+0;266;1;141,41;2;14041;Pelanggan Yang Hilang
+283;26;4;652,82;0;14044;Pelanggan Loyal
+264;109;4;1659,75;0;14045;Pelanggan Loyal
+0;284;1;154,99;2;14046;Pelanggan Yang Hilang
+364;8;5;1308,61;0;14047;Pelanggan Loyal
+0;305;1;409,93;2;14048;Pelanggan Yang Hilang
+301;16;4;5681,72;0;14049;Pelanggan Loyal
+75;31;2;746,36;1;14050;Pelanggan Potensial
+366;0;23;15610,39;0;14051;Pelanggan Loyal
+0;19;1;225,36;1;14052;Pelanggan Potensial
+35;124;2;260,25;1;14053;Pelanggan Potensial
+0;65;1;92,46;1;14054;Pelanggan Potensial
+0;106;1;725,64;1;14055;Pelanggan Potensial
+283;1;23;8214,65;0;14056;Pelanggan Loyal
+337;23;17;6217,96;0;14057;Pelanggan Loyal
+0;266;1;183,6;2;14059;Pelanggan Yang Hilang
+368;4;19;6140,42;0;14060;Pelanggan Loyal
+355;9;12;10464,85;0;14062;Pelanggan Loyal
+245;29;5;1353,74;0;14064;Pelanggan Loyal
+0;266;1;152,55;2;14066;Pelanggan Yang Hilang
+33;63;2;374,7;1;14067;Pelanggan Potensial
+0;320;1;265,85;2;14068;Pelanggan Yang Hilang
+261;3;8;1438,82;0;14071;Pelanggan Loyal
+0;32;1;151,04;1;14073;Pelanggan Potensial
+257;4;3;942,26;0;14075;Pelanggan Loyal
+0;129;1;122,47;1;14076;Pelanggan Potensial
+234;40;5;499,42;0;14077;Pelanggan Loyal
+272;101;6;1049,37;0;14078;Pelanggan Loyal
+0;124;1;375,1;1;14079;Pelanggan Potensial
+0;32;1;45,6;1;14080;Pelanggan Potensial
+67;302;2;934,52;2;14081;Pelanggan Yang Hilang
+0;364;1;182,25;2;14082;Pelanggan Yang Hilang
+367;4;9;1018,43;0;14083;Pelanggan Loyal
+366;2;18;4448,54;0;14085;Pelanggan Loyal
+0;2;1;194,42;1;14087;Pelanggan Potensial
+312;10;13;50491,81;0;14088;Pelanggan Loyal
+0;56;1;161;1;14089;Pelanggan Potensial
+0;324;1;76,32;2;14090;Pelanggan Yang Hilang
+351;7;14;4076,91;0;14092;Pelanggan Loyal
+0;12;1;442,85;1;14093;Pelanggan Potensial
+97;4;17;65164,79;1;14096;Pelanggan Potensial
+0;36;1;147,35;1;14098;Pelanggan Potensial
+338;16;11;3104,17;0;14099;Pelanggan Loyal
+0;137;1;194,9;1;14100;Pelanggan Potensial
+253;73;6;5976,79;0;14101;Pelanggan Loyal
+39;5;5;1360,28;1;14102;Pelanggan Potensial
+11;154;2;216,21;1;14104;Pelanggan Potensial
+0;239;1;1266,23;2;14105;Pelanggan Yang Hilang
+313;51;7;2703,23;0;14107;Pelanggan Loyal
+71;30;2;597,91;1;14108;Pelanggan Potensial
+0;72;1;144,2;1;14109;Pelanggan Potensial
+263;3;12;5683,15;0;14110;Pelanggan Loyal
+227;14;4;692,85;0;14111;Pelanggan Loyal
+253;22;7;2915,15;0;14112;Pelanggan Loyal
+351;3;4;1840,42;0;14113;Pelanggan Loyal
+57;273;2;386,53;2;14114;Pelanggan Yang Hilang
+102;19;5;1382,74;1;14116;Pelanggan Potensial
+0;143;1;90;1;14117;Pelanggan Potensial
+56;3;4;2780,15;1;14121;Pelanggan Potensial
+0;84;1;419,58;1;14124;Pelanggan Potensial
+68;10;3;2740,43;1;14125;Pelanggan Potensial
+3;7;3;706,13;1;14126;Pelanggan Potensial
+188;122;3;709,71;0;14127;Pelanggan Loyal
+195;60;2;637,5;0;14128;Pelanggan Loyal
+259;1;5;1123,86;0;14129;Pelanggan Loyal
+0;319;1;483,86;2;14130;Pelanggan Yang Hilang
+181;2;11;3586,03;0;14132;Pelanggan Loyal
+186;129;3;605,64;0;14133;Pelanggan Loyal
+371;1;15;4690,31;0;14135;Pelanggan Loyal
+62;1;2;982,38;1;14138;Pelanggan Potensial
+0;46;1;415,82;1;14139;Pelanggan Potensial
+28;3;2;935,05;1;14140;Pelanggan Potensial
+103;2;4;915,13;1;14141;Pelanggan Potensial
+0;373;1;311,81;2;14142;Pelanggan Yang Hilang
+0;133;1;115,8;1;14143;Pelanggan Potensial
+171;46;4;3742,2;0;14145;Pelanggan Loyal
+349;8;5;4191;0;14146;Pelanggan Loyal
+207;78;2;483,4;0;14147;Pelanggan Loyal
+0;233;1;157,2;2;14148;Pelanggan Yang Hilang
+0;220;1;446,62;2;14149;Pelanggan Yang Hilang
+324;35;2;658,64;0;14150;Pelanggan Loyal
+159;75;2;621,29;1;14152;Pelanggan Potensial
+0;239;2;1345,62;2;14154;Pelanggan Yang Hilang
+0;266;1;118,75;2;14155;Pelanggan Yang Hilang
+362;9;55;117379,63;0;14156;Pelanggan Loyal
+266;19;2;432,88;0;14157;Pelanggan Loyal
+0;40;1;507,66;1;14158;Pelanggan Potensial
+343;19;11;4693,01;0;14159;Pelanggan Loyal
+154;215;3;1110,52;2;14161;Pelanggan Yang Hilang
+119;173;2;289,36;2;14162;Pelanggan Yang Hilang
+152;87;4;2445,91;1;14163;Pelanggan Potensial
+10;70;2;1631,77;1;14164;Pelanggan Potensial
+0;275;1;122,54;2;14165;Pelanggan Yang Hilang
+292;39;4;574,84;0;14167;Pelanggan Loyal
+0;98;1;363,79;1;14171;Pelanggan Potensial
+209;10;4;450,84;0;14173;Pelanggan Loyal
+0;33;1;134,46;1;14174;Pelanggan Potensial
+270;59;3;3222,3;0;14175;Pelanggan Loyal
+70;297;4;576,9;2;14176;Pelanggan Yang Hilang
+93;86;4;559,41;1;14177;Pelanggan Potensial
+174;8;7;1620,93;0;14178;Pelanggan Loyal
+12;40;2;719,78;1;14179;Pelanggan Potensial
+362;10;25;4748,52;0;14180;Pelanggan Loyal
+0;66;1;452,89;1;14184;Pelanggan Potensial
+0;331;1;197,65;2;14185;Pelanggan Yang Hilang
+280;30;6;2054,36;0;14188;Pelanggan Loyal
+366;2;15;4654,08;0;14189;Pelanggan Loyal
+219;1;13;4684,76;0;14191;Pelanggan Loyal
+202;67;2;853,39;0;14193;Pelanggan Loyal
+304;4;21;11349,52;0;14194;Pelanggan Loyal
+51;201;2;1012;2;14195;Pelanggan Yang Hilang
+0;106;1;335,52;1;14196;Pelanggan Potensial
+221;18;4;701,4;0;14198;Pelanggan Loyal
+0;218;1;185,4;2;14199;Pelanggan Yang Hilang
+299;60;7;747,44;0;14201;Pelanggan Loyal
+0;2;1;161,03;1;14204;Pelanggan Potensial
+248;16;2;466,7;0;14205;Pelanggan Loyal
+0;239;1;328,16;2;14206;Pelanggan Yang Hilang
+0;94;1;151,74;1;14208;Pelanggan Potensial
+322;10;6;2073,43;0;14209;Pelanggan Loyal
+266;105;6;1905,84;0;14210;Pelanggan Loyal
+242;53;9;2241,1;0;14211;Pelanggan Loyal
+0;89;1;1070,48;1;14212;Pelanggan Potensial
+247;30;5;1004,38;0;14214;Pelanggan Loyal
+357;11;6;1789,72;0;14215;Pelanggan Loyal
+34;3;4;1839,3;1;14216;Pelanggan Potensial
+365;1;17;2004,98;0;14217;Pelanggan Loyal
+0;42;1;169,48;1;14218;Pelanggan Potensial
+0;4;1;89,94;1;14219;Pelanggan Potensial
+111;247;2;632,4;2;14220;Pelanggan Yang Hilang
+297;42;9;3432,8;0;14221;Pelanggan Loyal
+0;177;1;683,17;2;14222;Pelanggan Yang Hilang
+172;92;3;991,13;0;14223;Pelanggan Loyal
+210;110;4;1050,12;0;14224;Pelanggan Loyal
+241;28;5;2232,19;0;14226;Pelanggan Loyal
+258;26;10;3350,96;0;14227;Pelanggan Loyal
+282;51;3;1547,2;0;14229;Pelanggan Loyal
+105;183;3;925,71;2;14231;Pelanggan Yang Hilang
+222;42;5;2048,07;0;14232;Pelanggan Loyal
+268;49;4;1462,72;0;14233;Pelanggan Loyal
+35;22;4;775,46;1;14234;Pelanggan Potensial
+185;75;5;3144,86;0;14235;Pelanggan Loyal
+292;80;2;490,86;0;14236;Pelanggan Loyal
+0;373;1;161;2;14237;Pelanggan Yang Hilang
+0;326;1;146,85;2;14238;Pelanggan Yang Hilang
+273;43;11;2380,85;0;14239;Pelanggan Loyal
+195;30;2;890,34;0;14240;Pelanggan Loyal
+0;183;1;213,7;2;14241;Pelanggan Yang Hilang
+91;234;2;280,55;2;14242;Pelanggan Yang Hilang
+357;8;10;2588,77;0;14243;Pelanggan Loyal
+44;219;2;1693,45;2;14245;Pelanggan Yang Hilang
+135;110;3;1474,06;1;14246;Pelanggan Potensial
+0;278;1;136,77;2;14247;Pelanggan Yang Hilang
+0;318;1;302,58;2;14248;Pelanggan Yang Hilang
+82;7;3;1904,05;1;14250;Pelanggan Potensial
+56;1;5;2879,7;1;14251;Pelanggan Potensial
+104;260;2;969,06;2;14256;Pelanggan Yang Hilang
+254;64;5;3099,72;0;14257;Pelanggan Loyal
+328;9;9;12669,98;0;14258;Pelanggan Loyal
+0;141;1;120;1;14259;Pelanggan Potensial
+28;50;2;1163,45;1;14261;Pelanggan Potensial
+232;8;8;2618,23;0;14262;Pelanggan Loyal
+91;154;2;333,97;1;14264;Pelanggan Potensial
+39;109;2;530,18;1;14265;Pelanggan Potensial
+98;162;3;1516,24;2;14267;Pelanggan Yang Hilang
+0;331;1;492,65;2;14270;Pelanggan Yang Hilang
+0;225;1;112,32;2;14271;Pelanggan Yang Hilang
+181;73;2;437,96;0;14272;Pelanggan Loyal
+191;51;4;559,97;0;14273;Pelanggan Loyal
+191;98;3;1119,74;0;14276;Pelanggan Loyal
+197;15;3;4216,2;0;14277;Pelanggan Loyal
+0;196;1;134,04;2;14280;Pelanggan Yang Hilang
+364;3;15;3729,34;0;14282;Pelanggan Loyal
+56;30;2;595,25;1;14284;Pelanggan Potensial
+155;21;4;1910,01;1;14285;Pelanggan Potensial
+219;23;3;4628,75;0;14286;Pelanggan Loyal
+190;8;3;176,63;0;14287;Pelanggan Loyal
+0;213;1;426,6;2;14288;Pelanggan Yang Hilang
+281;8;6;911,26;0;14289;Pelanggan Loyal
+350;11;5;2314,65;0;14290;Pelanggan Loyal
+274;1;11;3883,25;0;14291;Pelanggan Loyal
+275;7;9;4871,93;0;14292;Pelanggan Loyal
+365;3;4;1046,56;0;14293;Pelanggan Loyal
+0;40;1;166,2;1;14295;Pelanggan Potensial
+257;17;4;1305,33;0;14297;Pelanggan Loyal
+352;8;44;51527,3;0;14298;Pelanggan Loyal
+357;8;9;3965,62;0;14299;Pelanggan Loyal
+0;18;1;43,2;1;14300;Pelanggan Potensial
+0;117;1;640,14;1;14301;Pelanggan Potensial
+0;222;1;383,45;2;14304;Pelanggan Yang Hilang
+64;71;3;1858,96;1;14305;Pelanggan Potensial
+34;51;2;2093,32;1;14306;Pelanggan Potensial
+285;88;6;2995,72;0;14307;Pelanggan Loyal
+350;8;9;2352,53;0;14309;Pelanggan Loyal
+0;242;1;310,26;2;14311;Pelanggan Yang Hilang
+291;46;6;1611,59;0;14312;Pelanggan Loyal
+0;106;1;120;1;14314;Pelanggan Potensial
+222;44;6;2481,13;0;14315;Pelanggan Loyal
+0;64;1;508,58;1;14317;Pelanggan Potensial
+126;206;2;477,79;2;14320;Pelanggan Yang Hilang
+323;10;5;1530,75;0;14321;Pelanggan Loyal
+124;114;2;605,06;1;14323;Pelanggan Potensial
+0;242;1;183,85;2;14326;Pelanggan Yang Hilang
+0;163;1;311,65;2;14327;Pelanggan Yang Hilang
+312;17;7;5014,84;0;14329;Pelanggan Loyal
+11;124;2;462,66;1;14331;Pelanggan Potensial
+125;22;3;866,31;1;14332;Pelanggan Potensial
+0;67;1;415,2;1;14333;Pelanggan Potensial
+342;16;8;2552,21;0;14334;Pelanggan Loyal
+80;16;2;468,26;1;14335;Pelanggan Potensial
+260;16;4;1614,91;0;14336;Pelanggan Loyal
+35;161;2;588,22;2;14338;Pelanggan Yang Hilang
+0;242;1;309,52;2;14339;Pelanggan Yang Hilang
+0;218;1;134,7;2;14340;Pelanggan Yang Hilang
+273;45;8;2182,28;0;14341;Pelanggan Loyal
+189;21;4;668,56;0;14342;Pelanggan Loyal
+241;127;8;889,93;0;14344;Pelanggan Loyal
+0;38;1;108,98;1;14345;Pelanggan Potensial
+177;120;2;1021,58;0;14346;Pelanggan Loyal
+0;260;1;409,57;2;14348;Pelanggan Yang Hilang
+0;10;1;133,5;1;14349;Pelanggan Potensial
+0;274;1;282,93;2;14350;Pelanggan Yang Hilang
+0;164;1;51;2;14351;Pelanggan Yang Hilang
+116;157;4;1078,96;1;14352;Pelanggan Potensial
+0;215;1;90,6;2;14353;Pelanggan Yang Hilang
+25;5;2;163,62;1;14354;Pelanggan Potensial
+0;365;1;174,4;2;14355;Pelanggan Yang Hilang
+2;79;2;701,23;1;14356;Pelanggan Potensial
+0;43;1;225,77;1;14357;Pelanggan Potensial
+68;19;3;912,18;1;14359;Pelanggan Potensial
+63;31;4;2128,23;1;14360;Pelanggan Potensial
+0;22;1;161,2;1;14362;Pelanggan Potensial
+103;108;8;3717,35;1;14364;Pelanggan Potensial
+268;8;16;9261,52;0;14367;Pelanggan Loyal
+0;319;1;155;2;14368;Pelanggan Yang Hilang
+0;295;1;100,5;2;14371;Pelanggan Yang Hilang
+0;358;1;76,55;2;14373;Pelanggan Yang Hilang
+0;185;1;257,68;2;14375;Pelanggan Yang Hilang
+71;191;2;617,05;2;14377;Pelanggan Yang Hilang
+251;44;2;348,1;0;14379;Pelanggan Loyal
+0;52;1;202,68;1;14381;Pelanggan Potensial
+0;26;1;626,07;1;14382;Pelanggan Potensial
+125;38;3;1247,69;1;14383;Pelanggan Potensial
+14;9;3;202,11;1;14385;Pelanggan Potensial
+0;296;1;142,4;2;14386;Pelanggan Yang Hilang
+77;32;3;1770,56;1;14387;Pelanggan Potensial
+362;10;8;3212,84;0;14388;Pelanggan Loyal
+125;65;2;1043,46;1;14389;Pelanggan Potensial
+362;10;9;4652,82;0;14390;Pelanggan Loyal
+0;218;1;67,95;2;14393;Pelanggan Yang Hilang
+370;2;9;3507,71;0;14395;Pelanggan Loyal
+306;65;2;487,99;0;14396;Pelanggan Loyal
+211;2;19;2612,96;0;14397;Pelanggan Loyal
+0;149;1;574,7;1;14400;Pelanggan Potensial
+355;4;13;4051,48;0;14401;Pelanggan Loyal
+117;130;4;1475,81;1;14403;Pelanggan Potensial
+336;33;6;1474,32;0;14404;Pelanggan Loyal
+0;119;1;156,75;1;14406;Pelanggan Potensial
+169;107;6;2157,73;0;14407;Pelanggan Loyal
+254;10;7;2606,53;0;14408;Pelanggan Loyal
+297;71;6;2059,45;0;14409;Pelanggan Loyal
+213;92;9;1105,07;0;14410;Pelanggan Loyal
+0;310;1;1063;2;14411;Pelanggan Yang Hilang
+30;42;2;770,03;1;14412;Pelanggan Potensial
+0;362;1;122,7;2;14413;Pelanggan Yang Hilang
+267;91;7;1496,98;0;14414;Pelanggan Loyal
+359;1;13;5900,28;0;14415;Pelanggan Loyal
+20;22;2;490,22;1;14416;Pelanggan Potensial
+105;3;3;1937,25;1;14418;Pelanggan Potensial
+354;10;6;1058,06;0;14419;Pelanggan Loyal
+0;99;1;387,52;1;14420;Pelanggan Potensial
+154;57;2;813,11;1;14421;Pelanggan Potensial
+267;0;6;4263,64;0;14422;Pelanggan Loyal
+0;218;1;265,2;2;14423;Pelanggan Yang Hilang
+0;17;1;322,08;1;14424;Pelanggan Potensial
+289;23;10;4481,67;0;14426;Pelanggan Loyal
+13;50;2;363,34;1;14427;Pelanggan Potensial
+318;7;5;1244,83;0;14428;Pelanggan Loyal
+0;302;1;470,36;2;14431;Pelanggan Yang Hilang
+80;9;6;2255,51;1;14432;Pelanggan Potensial
+51;21;6;1372,8;1;14434;Pelanggan Potensial
+0;98;1;89,06;1;14436;Pelanggan Potensial
+0;365;1;63;2;14437;Pelanggan Yang Hilang
+0;306;1;131,9;2;14438;Pelanggan Yang Hilang
+0;319;1;2661,24;2;14439;Pelanggan Yang Hilang
+357;8;5;2357,68;0;14440;Pelanggan Loyal
+255;0;4;1712,89;0;14441;Pelanggan Loyal
+112;204;2;1589,82;2;14442;Pelanggan Yang Hilang
+315;53;4;1420,2;0;14443;Pelanggan Loyal
+246;0;4;1039,58;0;14446;Pelanggan Loyal
+262;18;5;1163,23;0;14447;Pelanggan Loyal
+355;9;2;375,35;0;14448;Pelanggan Loyal
+354;18;4;907,1;0;14449;Pelanggan Loyal
+140;180;3;483,25;2;14450;Pelanggan Yang Hilang
+134;60;2;662,59;1;14451;Pelanggan Potensial
+83;10;2;264,44;1;14452;Pelanggan Potensial
+0;190;1;119,93;2;14453;Pelanggan Yang Hilang
+137;5;9;3062,4;1;14456;Pelanggan Potensial
+0;310;1;113,64;2;14457;Pelanggan Yang Hilang
+0;155;1;1837,92;2;14459;Pelanggan Yang Hilang
+200;110;3;434,34;0;14460;Pelanggan Loyal
+113;148;3;2103,06;1;14461;Pelanggan Potensial
+273;66;11;2004,02;0;14462;Pelanggan Loyal
+107;98;3;529,62;1;14463;Pelanggan Potensial
+56;246;3;1058,62;2;14465;Pelanggan Yang Hilang
+343;29;7;2272,4;0;14466;Pelanggan Loyal
+295;17;4;598,76;0;14467;Pelanggan Loyal
+276;11;2;461,19;0;14470;Pelanggan Loyal
+252;103;8;1936,84;0;14472;Pelanggan Loyal
+208;74;2;234,34;0;14473;Pelanggan Loyal
+0;46;1;547,66;1;14474;Pelanggan Potensial
+233;71;3;925,85;0;14475;Pelanggan Loyal
+0;257;1;215,7;2;14476;Pelanggan Yang Hilang
+278;19;4;1309,6;0;14477;Pelanggan Loyal
+112;253;2;316,25;2;14479;Pelanggan Yang Hilang
+0;11;1;279,05;1;14480;Pelanggan Potensial
+123;164;2;636,51;2;14481;Pelanggan Yang Hilang
+221;18;6;2068,15;0;14482;Pelanggan Loyal
+0;281;1;137,1;2;14483;Pelanggan Yang Hilang
+0;50;1;321,92;1;14484;Pelanggan Potensial
+0;38;1;165,75;1;14485;Pelanggan Potensial
+342;26;6;1196,33;0;14487;Pelanggan Loyal
+0;67;1;1064,28;1;14488;Pelanggan Potensial
+0;207;1;463,38;2;14489;Pelanggan Yang Hilang
+197;175;2;340,93;0;14491;Pelanggan Loyal
+148;7;5;2383,24;1;14493;Pelanggan Potensial
+0;25;1;139,56;1;14494;Pelanggan Potensial
+71;50;2;123,8;1;14495;Pelanggan Potensial
+62;311;2;538,81;2;14496;Pelanggan Yang Hilang
+0;309;1;475,37;2;14497;Pelanggan Yang Hilang
+319;42;5;1957,32;0;14498;Pelanggan Loyal
+252;26;3;815,32;0;14499;Pelanggan Loyal
+101;88;3;356,85;1;14500;Pelanggan Potensial
+136;183;2;251,21;2;14501;Pelanggan Yang Hilang
+294;19;11;2470,67;0;14502;Pelanggan Loyal
+175;3;6;3543,26;0;14503;Pelanggan Loyal
+231;47;4;673,26;0;14504;Pelanggan Loyal
+345;17;8;5905,64;0;14505;Pelanggan Loyal
+352;17;5;2012,17;0;14506;Pelanggan Loyal
+253;23;6;1383,18;0;14507;Pelanggan Loyal
+67;22;2;276,42;1;14508;Pelanggan Potensial
+122;11;5;1314,81;1;14511;Pelanggan Potensial
+45;187;2;275,28;2;14512;Pelanggan Yang Hilang
+188;100;3;455,59;0;14513;Pelanggan Loyal
+270;61;3;1055,35;0;14514;Pelanggan Loyal
+201;17;6;2102,09;0;14515;Pelanggan Loyal
+108;33;2;330,45;1;14517;Pelanggan Potensial
+0;64;1;174,37;1;14518;Pelanggan Potensial
+289;1;2;270,6;0;14520;Pelanggan Loyal
+174;24;4;974,54;0;14522;Pelanggan Loyal
+0;108;1;241,09;1;14523;Pelanggan Potensial
+329;31;9;1867,68;0;14524;Pelanggan Loyal
+342;19;9;4332,2;0;14525;Pelanggan Loyal
+367;2;55;8508,82;0;14527;Pelanggan Loyal
+0;37;1;364,22;1;14528;Pelanggan Potensial
+50;60;3;620,04;1;14529;Pelanggan Potensial
+271;25;6;2925,91;0;14530;Pelanggan Loyal
+116;236;4;932,85;2;14532;Pelanggan Yang Hilang
+328;24;7;1949,72;0;14533;Pelanggan Loyal
+316;2;18;4447,05;0;14534;Pelanggan Loyal
+188;60;3;2864,19;0;14535;Pelanggan Loyal
+0;259;1;171,8;2;14536;Pelanggan Yang Hilang
+0;57;1;355,56;1;14537;Pelanggan Potensial
+192;64;2;388,25;0;14538;Pelanggan Loyal
+29;15;2;537,48;1;14539;Pelanggan Potensial
+300;9;3;996,26;0;14540;Pelanggan Loyal
+261;58;8;1461,65;0;14541;Pelanggan Loyal
+0;185;1;103,25;2;14542;Pelanggan Yang Hilang
+336;28;16;3630,33;0;14543;Pelanggan Loyal
+337;24;2;2024,45;0;14544;Pelanggan Loyal
+243;5;5;2578,09;0;14546;Pelanggan Loyal
+51;3;8;4007,54;1;14547;Pelanggan Potensial
+167;150;2;652,8;1;14548;Pelanggan Potensial
+0;311;1;289,24;2;14549;Pelanggan Yang Hilang
+34;10;2;765,62;1;14550;Pelanggan Potensial
+186;18;2;186,23;0;14551;Pelanggan Loyal
+0;151;1;165,07;1;14552;Pelanggan Potensial
+320;19;5;859,27;0;14553;Pelanggan Loyal
+42;10;4;2381,04;1;14554;Pelanggan Potensial
+245;57;2;324,14;0;14555;Pelanggan Loyal
+0;85;1;788,38;1;14557;Pelanggan Potensial
+350;7;22;2237,77;0;14560;Pelanggan Loyal
+109;75;3;1080,76;1;14561;Pelanggan Potensial
+301;3;18;5074,77;0;14562;Pelanggan Loyal
+266;95;4;3099,12;0;14565;Pelanggan Loyal
+0;110;1;1432;1;14566;Pelanggan Potensial
+74;56;2;1530,36;1;14567;Pelanggan Potensial
+0;1;1;227,39;1;14569;Pelanggan Potensial
+0;280;2;218,06;2;14570;Pelanggan Yang Hilang
+321;3;7;2832,84;0;14572;Pelanggan Loyal
+193;179;9;1653,42;0;14573;Pelanggan Loyal
+0;372;1;35,4;2;14576;Pelanggan Yang Hilang
+350;12;4;859,71;0;14577;Pelanggan Loyal
+0;3;1;168,63;1;14578;Pelanggan Potensial
+0;16;1;138,6;1;14581;Pelanggan Potensial
+0;40;1;114,11;1;14582;Pelanggan Potensial
+200;5;5;1052,55;0;14583;Pelanggan Loyal
+29;169;4;1042,26;2;14584;Pelanggan Yang Hilang
+0;50;1;157,05;1;14585;Pelanggan Potensial
+0;276;1;237,36;2;14586;Pelanggan Yang Hilang
+313;18;9;1601,14;0;14587;Pelanggan Loyal
+0;371;1;39,75;2;14589;Pelanggan Yang Hilang
+198;15;4;1447,14;0;14591;Pelanggan Loyal
+29;35;3;570,46;1;14592;Pelanggan Potensial
+177;21;3;617,99;0;14593;Pelanggan Loyal
+366;7;2;379,83;0;14594;Pelanggan Loyal
+294;19;6;1740,6;0;14595;Pelanggan Loyal
+180;11;2;883,15;0;14597;Pelanggan Loyal
+0;44;1;221,97;1;14598;Pelanggan Potensial
+0;305;1;393,33;2;14600;Pelanggan Yang Hilang
+0;10;1;213,96;1;14601;Pelanggan Potensial
+0;274;1;660;2;14603;Pelanggan Yang Hilang
+372;1;93;12156,65;0;14606;Pelanggan Loyal
+246;15;14;16569,5;0;14607;Pelanggan Loyal
+358;4;4;1785,15;0;14608;Pelanggan Loyal
+224;72;4;601,56;0;14609;Pelanggan Loyal
+75;242;3;406,08;2;14616;Pelanggan Yang Hilang
+328;9;3;553,44;0;14618;Pelanggan Loyal
+0;245;1;394,44;2;14619;Pelanggan Yang Hilang
+78;205;2;412,78;2;14620;Pelanggan Yang Hilang
+357;1;5;1788,36;0;14621;Pelanggan Loyal
+0;184;1;320,58;2;14622;Pelanggan Yang Hilang
+203;32;5;889,25;0;14623;Pelanggan Loyal
+2;57;2;225,85;1;14624;Pelanggan Potensial
+165;196;2;899,63;2;14625;Pelanggan Yang Hilang
+210;23;4;2791,27;0;14626;Pelanggan Loyal
+151;91;2;671,96;1;14628;Pelanggan Potensial
+43;4;2;959,01;1;14629;Pelanggan Potensial
+248;50;3;1006,98;0;14631;Pelanggan Loyal
+0;262;1;114,56;2;14632;Pelanggan Yang Hilang
+0;266;1;344,9;2;14633;Pelanggan Yang Hilang
+232;36;2;609,85;0;14636;Pelanggan Loyal
+0;50;1;443,6;1;14638;Pelanggan Potensial
+309;52;6;2984,49;0;14639;Pelanggan Loyal
+203;24;6;2125,08;0;14640;Pelanggan Loyal
+0;21;1;110,46;1;14641;Pelanggan Potensial
+0;58;1;96,12;1;14642;Pelanggan Potensial
+188;170;2;693,81;0;14643;Pelanggan Loyal
+231;67;2;830,76;0;14644;Pelanggan Loyal
+119;156;2;597,09;1;14645;Pelanggan Potensial
+353;1;74;280206,02;0;14646;Pelanggan Loyal
+0;201;1;243,22;2;14647;Pelanggan Yang Hilang
+208;4;4;1417,29;0;14649;Pelanggan Loyal
+144;67;2;654,6;1;14651;Pelanggan Potensial
+0;77;1;114,18;1;14652;Pelanggan Potensial
+337;1;7;1947,55;0;14653;Pelanggan Loyal
+214;8;4;1932,23;0;14655;Pelanggan Loyal
+114;169;2;291,05;2;14656;Pelanggan Yang Hilang
+309;17;4;848,22;0;14657;Pelanggan Loyal
+112;5;2;247,15;1;14658;Pelanggan Potensial
+307;8;9;2529,93;0;14659;Pelanggan Loyal
+14;86;2;285,74;1;14660;Pelanggan Potensial
+0;26;1;107,95;1;14661;Pelanggan Potensial
+288;28;4;771,17;0;14662;Pelanggan Loyal
+14;19;2;637,89;1;14664;Pelanggan Potensial
+250;60;5;1835,7;0;14665;Pelanggan Loyal
+0;24;1;195,25;1;14666;Pelanggan Potensial
+358;10;25;9241,2;0;14667;Pelanggan Loyal
+91;241;3;1269,99;2;14669;Pelanggan Yang Hilang
+0;280;2;411,53;2;14670;Pelanggan Yang Hilang
+102;234;2;765,55;2;14672;Pelanggan Yang Hilang
+364;3;5;1736,4;0;14673;Pelanggan Loyal
+0;16;1;604,75;1;14675;Pelanggan Potensial
+252;31;6;2548,24;0;14676;Pelanggan Loyal
+346;25;16;28754,11;0;14680;Pelanggan Loyal
+140;71;3;498,95;1;14681;Pelanggan Potensial
+14;187;2;52;2;14682;Pelanggan Yang Hilang
+337;25;5;1236,28;0;14684;Pelanggan Loyal
+0;106;1;628,38;1;14687;Pelanggan Potensial
+366;7;21;5630,87;0;14688;Pelanggan Loyal
+0;208;1;112,8;2;14689;Pelanggan Yang Hilang
+107;44;2;371,7;1;14690;Pelanggan Potensial
+182;30;5;2114,33;0;14691;Pelanggan Loyal
+185;137;4;591,55;0;14692;Pelanggan Loyal
+0;264;1;172,9;2;14693;Pelanggan Yang Hilang
+369;4;7;2078,95;0;14696;Pelanggan Loyal
+0;218;2;188,61;2;14697;Pelanggan Yang Hilang
+50;1;5;1250,76;1;14698;Pelanggan Potensial
+0;214;1;109,13;2;14699;Pelanggan Yang Hilang
+206;32;3;2235,3;0;14700;Pelanggan Loyal
+306;10;9;2549,37;0;14701;Pelanggan Loyal
+364;1;17;3292,14;0;14702;Pelanggan Loyal
+0;14;1;318,17;1;14703;Pelanggan Potensial
+169;11;9;1546,91;0;14704;Pelanggan Loyal
+0;198;1;179;2;14705;Pelanggan Yang Hilang
+366;2;3;1126,37;0;14708;Pelanggan Loyal
+343;15;13;4921,04;0;14709;Pelanggan Loyal
+45;14;4;606,13;1;14710;Pelanggan Potensial
+252;10;11;2868,8;0;14711;Pelanggan Loyal
+83;29;3;917,07;1;14712;Pelanggan Potensial
+356;9;11;2666,36;0;14713;Pelanggan Loyal
+0;24;1;160,19;1;14714;Pelanggan Potensial
+307;24;4;867,38;0;14715;Pelanggan Loyal
+105;43;2;329,68;1;14716;Pelanggan Potensial
+248;1;5;1602,13;0;14719;Pelanggan Loyal
+121;5;3;663,81;1;14720;Pelanggan Potensial
+0;147;1;187,92;1;14722;Pelanggan Potensial
+361;10;6;1158,3;0;14723;Pelanggan Loyal
+0;24;1;718,08;1;14725;Pelanggan Potensial
+0;274;1;268,58;2;14727;Pelanggan Yang Hilang
+0;373;1;313,49;2;14729;Pelanggan Yang Hilang
+275;1;8;2005,06;0;14730;Pelanggan Loyal
+165;47;3;380,02;0;14731;Pelanggan Loyal
+331;8;8;2702,49;0;14732;Pelanggan Loyal
+351;16;12;9585,91;0;14733;Pelanggan Loyal
+355;3;32;6065,69;0;14735;Pelanggan Loyal
+350;3;3;1164,55;0;14737;Pelanggan Loyal
+274;42;7;1314,45;0;14738;Pelanggan Loyal
+363;4;7;3902,28;0;14739;Pelanggan Loyal
+86;197;3;1448,21;2;14740;Pelanggan Yang Hilang
+361;11;6;1400,34;0;14741;Pelanggan Loyal
+350;16;7;1099,98;0;14744;Pelanggan Loyal
+173;112;5;1220,26;0;14745;Pelanggan Loyal
+0;249;1;328,2;2;14747;Pelanggan Yang Hilang
+339;29;5;1415,75;0;14748;Pelanggan Loyal
+0;43;1;389,64;1;14752;Pelanggan Potensial
+0;87;1;563,15;1;14753;Pelanggan Potensial
+251;44;2;638,05;0;14754;Pelanggan Loyal
+325;9;11;5010,28;0;14755;Pelanggan Loyal
+0;15;1;738,96;1;14756;Pelanggan Potensial
+0;75;1;420,5;1;14757;Pelanggan Potensial
+115;144;4;1484,06;1;14758;Pelanggan Potensial
+228;4;3;1625,97;0;14759;Pelanggan Loyal
+0;297;1;89,2;2;14760;Pelanggan Yang Hilang
+276;58;2;255,9;0;14761;Pelanggan Loyal
+0;263;1;300,52;2;14762;Pelanggan Yang Hilang
+0;46;1;278,3;1;14764;Pelanggan Potensial
+147;29;3;254,11;1;14765;Pelanggan Potensial
+358;8;6;2473,37;0;14766;Pelanggan Loyal
+110;17;2;192,6;1;14768;Pelanggan Potensial
+355;2;8;10674,75;0;14769;Pelanggan Loyal
+91;232;2;876,42;2;14770;Pelanggan Yang Hilang
+0;112;1;139,26;1;14772;Pelanggan Potensial
+314;58;3;1011,9;0;14775;Pelanggan Loyal
+261;51;11;2538,3;0;14776;Pelanggan Loyal
+181;127;2;730,86;0;14778;Pelanggan Loyal
+43;280;3;386,15;2;14779;Pelanggan Yang Hilang
+25;54;2;447,68;1;14780;Pelanggan Potensial
+0;319;1;200,1;2;14782;Pelanggan Yang Hilang
+297;26;2;289,99;0;14784;Pelanggan Loyal
+5;10;2;77,4;1;14785;Pelanggan Potensial
+19;7;2;679,44;1;14788;Pelanggan Potensial
+0;28;1;197,64;1;14789;Pelanggan Potensial
+237;16;4;745,06;0;14790;Pelanggan Loyal
+0;63;1;6,2;1;14792;Pelanggan Potensial
+0;21;1;228,99;1;14793;Pelanggan Potensial
+332;2;7;1319,91;0;14794;Pelanggan Loyal
+0;166;1;131,45;2;14795;Pelanggan Yang Hilang
+365;1;17;8022,49;0;14796;Pelanggan Loyal
+258;52;3;173,74;0;14798;Pelanggan Loyal
+0;51;1;157,7;1;14799;Pelanggan Potensial
+322;47;12;4339,74;0;14800;Pelanggan Loyal
+0;61;1;193,14;1;14801;Pelanggan Potensial
+130;162;3;845,55;1;14803;Pelanggan Potensial
+0;8;1;353,27;1;14804;Pelanggan Potensial
+298;15;4;554,65;0;14805;Pelanggan Loyal
+0;75;1;193,39;1;14806;Pelanggan Potensial
+133;39;8;2741,17;1;14808;Pelanggan Potensial
+329;40;11;2087,88;0;14810;Pelanggan Loyal
+0;369;2;155,43;2;14813;Pelanggan Yang Hilang
+31;36;2;778,5;1;14815;Pelanggan Potensial
+0;197;1;271,85;2;14816;Pelanggan Yang Hilang
+77;200;2;1110,34;2;14817;Pelanggan Yang Hilang
+180;73;3;657,8;0;14818;Pelanggan Loyal
+128;64;2;272,07;1;14819;Pelanggan Potensial
+152;21;4;507,29;1;14820;Pelanggan Potensial
+0;366;1;48,8;2;14821;Pelanggan Yang Hilang
+14;180;3;321,43;2;14823;Pelanggan Yang Hilang
+81;10;4;1127,71;1;14824;Pelanggan Potensial
+365;3;12;2226,91;0;14825;Pelanggan Loyal
+140;196;3;2139,76;2;14828;Pelanggan Yang Hilang
+343;29;4;697,55;0;14829;Pelanggan Loyal
+0;53;1;197,13;1;14830;Pelanggan Potensial
+223;17;6;1720,3;0;14834;Pelanggan Loyal
+20;10;3;102,45;1;14836;Pelanggan Potensial
+112;89;4;1649,5;1;14837;Pelanggan Potensial
+0;267;1;62,85;2;14840;Pelanggan Yang Hilang
+305;53;6;3295,76;0;14841;Pelanggan Loyal
+265;43;4;2824,69;0;14842;Pelanggan Loyal
+178;63;4;3189,81;0;14844;Pelanggan Loyal
+0;148;1;309,4;1;14847;Pelanggan Potensial
+352;21;25;7930,54;0;14849;Pelanggan Loyal
+0;311;1;325,75;2;14850;Pelanggan Yang Hilang
+233;23;2;511,35;0;14851;Pelanggan Loyal
+194;58;6;2836,69;0;14852;Pelanggan Loyal
+187;24;2;475,8;0;14853;Pelanggan Loyal
+196;78;7;2759,83;0;14854;Pelanggan Loyal
+15;119;2;645,65;1;14855;Pelanggan Potensial
+20;36;3;1311,38;1;14856;Pelanggan Potensial
+89;59;2;1173,12;1;14857;Pelanggan Potensial
+192;12;4;1353,74;0;14859;Pelanggan Loyal
+0;19;1;170,32;1;14860;Pelanggan Potensial
+0;52;1;125,79;1;14861;Pelanggan Potensial
+123;25;2;841,2;1;14862;Pelanggan Potensial
+0;29;1;266,76;1;14863;Pelanggan Potensial
+365;7;2;52,2;0;14865;Pelanggan Loyal
+356;10;12;14389,9;0;14866;Pelanggan Loyal
+151;185;3;710,28;2;14867;Pelanggan Yang Hilang
+230;3;8;2953,59;0;14868;Pelanggan Loyal
+95;8;2;725,7;1;14869;Pelanggan Potensial
+0;261;1;327,25;2;14870;Pelanggan Yang Hilang
+357;3;4;522,38;0;14871;Pelanggan Loyal
+0;210;1;519,68;2;14873;Pelanggan Yang Hilang
+155;107;2;1465,32;1;14875;Pelanggan Potensial
+346;12;9;1485,54;0;14878;Pelanggan Loyal
+211;77;3;706,19;0;14880;Pelanggan Loyal
+0;19;1;255,4;1;14881;Pelanggan Potensial
+7;26;2;589,7;1;14882;Pelanggan Potensial
+193;18;6;761,59;0;14883;Pelanggan Loyal
+0;131;1;765,32;1;14885;Pelanggan Potensial
+0;252;1;364,8;2;14886;Pelanggan Yang Hilang
+0;79;1;1862;1;14887;Pelanggan Potensial
+0;207;1;369,2;2;14888;Pelanggan Yang Hilang
+0;336;1;135,9;2;14889;Pelanggan Yang Hilang
+0;253;1;125,65;2;14890;Pelanggan Yang Hilang
+39;148;2;554,38;1;14891;Pelanggan Potensial
+2;9;2;1237,85;1;14893;Pelanggan Potensial
+0;85;1;655,75;1;14894;Pelanggan Potensial
+283;7;20;11138,71;0;14895;Pelanggan Loyal
+161;204;2;468,77;2;14896;Pelanggan Yang Hilang
+289;7;4;1366,38;0;14897;Pelanggan Loyal
+348;23;6;1303,52;0;14898;Pelanggan Loyal
+361;11;9;1421,29;0;14901;Pelanggan Loyal
+0;25;1;332,66;1;14902;Pelanggan Potensial
+257;21;5;2810,63;0;14903;Pelanggan Loyal
+23;2;2;1025,44;1;14904;Pelanggan Potensial
+76;157;2;616,15;1;14905;Pelanggan Potensial
+364;3;7;3501,1;0;14907;Pelanggan Loyal
+0;74;1;277,8;1;14908;Pelanggan Potensial
+52;2;4;434,35;1;14910;Pelanggan Potensial
+372;1;201;143825,06;0;14911;Pelanggan Loyal
+230;16;2;867,85;0;14912;Pelanggan Loyal
+324;35;4;1227,43;0;14913;Pelanggan Loyal
+186;91;2;307,48;0;14915;Pelanggan Loyal
+254;70;4;1268,98;0;14916;Pelanggan Loyal
+39;115;2;1610,15;1;14918;Pelanggan Potensial
+0;212;2;977,77;2;14920;Pelanggan Yang Hilang
+171;30;2;1316,07;0;14921;Pelanggan Loyal
+0;50;1;749,1;1;14923;Pelanggan Potensial
+0;245;1;310,05;2;14924;Pelanggan Yang Hilang
+0;32;1;223,88;1;14929;Pelanggan Potensial
+166;108;3;2372,86;0;14930;Pelanggan Loyal
+236;4;5;1257,68;0;14931;Pelanggan Loyal
+0;365;1;363,53;2;14932;Pelanggan Yang Hilang
+201;81;2;1890,94;0;14934;Pelanggan Loyal
+0;297;1;1784,71;2;14935;Pelanggan Yang Hilang
+242;33;8;8137,02;0;14936;Pelanggan Loyal
+74;56;3;1621,88;1;14937;Pelanggan Potensial
+267;29;12;5900,25;0;14944;Pelanggan Loyal
+0;14;1;100,9;1;14946;Pelanggan Potensial
+58;72;2;290,82;1;14947;Pelanggan Potensial
+196;23;6;1101,97;0;14948;Pelanggan Loyal
+0;19;1;371,2;1;14950;Pelanggan Potensial
+0;79;1;311,69;1;14951;Pelanggan Potensial
+305;59;11;8099,49;0;14952;Pelanggan Loyal
+0;25;1;289,82;1;14953;Pelanggan Potensial
+0;12;1;336,17;1;14954;Pelanggan Potensial
+0;253;1;58,49;2;14957;Pelanggan Yang Hilang
+98;147;3;499,68;1;14958;Pelanggan Potensial
+232;64;4;695,42;0;14959;Pelanggan Loyal
+163;8;2;221,27;0;14960;Pelanggan Loyal
+350;10;9;7044,68;0;14961;Pelanggan Loyal
+0;270;1;126,7;2;14962;Pelanggan Yang Hilang
+174;9;5;1487,8;0;14963;Pelanggan Loyal
+0;247;1;206,21;2;14964;Pelanggan Yang Hilang
+0;96;2;599;1;14965;Pelanggan Potensial
+0;14;1;191,32;1;14966;Pelanggan Potensial
+0;49;1;463,8;1;14967;Pelanggan Potensial
+0;30;1;147,59;1;14968;Pelanggan Potensial
+248;68;4;1592,06;0;14970;Pelanggan Loyal
+8;35;3;1116,57;1;14971;Pelanggan Potensial
+0;128;1;114,77;1;14972;Pelanggan Potensial
+118;107;3;1314,45;1;14973;Pelanggan Potensial
+0;37;1;114,39;1;14974;Pelanggan Potensial
+0;57;1;279,94;1;14975;Pelanggan Potensial
+269;57;7;790,86;0;14976;Pelanggan Loyal
+258;72;5;1931,42;0;14978;Pelanggan Loyal
+0;246;1;102,12;2;14981;Pelanggan Yang Hilang
+161;19;2;213,27;0;14984;Pelanggan Loyal
+160;198;2;296,75;2;14985;Pelanggan Yang Hilang
+350;15;2;326,4;0;14987;Pelanggan Loyal
+0;211;1;334,54;2;14988;Pelanggan Yang Hilang
+242;38;2;233,23;0;14995;Pelanggan Loyal
+132;46;3;546,2;1;14997;Pelanggan Potensial
+71;170;2;429,87;2;14998;Pelanggan Yang Hilang
+0;47;1;490,52;1;15000;Pelanggan Potensial
+252;115;4;1641,76;0;15002;Pelanggan Loyal
+0;147;1;1246,32;1;15004;Pelanggan Potensial
+351;15;28;6316,57;0;15005;Pelanggan Loyal
+0;51;1;502,09;1;15006;Pelanggan Potensial
+0;159;1;156,91;2;15007;Pelanggan Yang Hilang
+13;12;3;1261,78;1;15009;Pelanggan Potensial
+0;35;1;308,94;1;15010;Pelanggan Potensial
+320;53;2;423,04;0;15012;Pelanggan Loyal
+133;43;2;260,17;1;15014;Pelanggan Potensial
+0;172;1;170,04;2;15016;Pelanggan Yang Hilang
+0;33;1;125,58;1;15017;Pelanggan Potensial
+329;38;3;496,21;0;15018;Pelanggan Loyal
+0;266;1;266;2;15019;Pelanggan Yang Hilang
+358;8;9;1914,82;0;15021;Pelanggan Loyal
+36;11;4;905,04;1;15022;Pelanggan Potensial
+366;3;11;6802,76;0;15023;Pelanggan Loyal
+358;9;10;1661,33;0;15024;Pelanggan Loyal
+0;33;1;377,01;1;15025;Pelanggan Potensial
+197;80;3;469;0;15026;Pelanggan Loyal
+208;30;4;1066,15;0;15027;Pelanggan Loyal
+360;8;4;627,13;0;15028;Pelanggan Loyal
+197;71;2;518,28;0;15030;Pelanggan Loyal
+278;4;4;668,14;0;15031;Pelanggan Loyal
+110;256;3;4959,1;2;15032;Pelanggan Yang Hilang
+325;4;10;2586,67;0;15033;Pelanggan Loyal
+338;15;8;4308,61;0;15034;Pelanggan Loyal
+0;89;1;252,73;1;15035;Pelanggan Potensial
+107;72;3;465,55;1;15036;Pelanggan Potensial
+311;58;6;705,49;0;15038;Pelanggan Loyal
+359;9;47;19914,44;0;15039;Pelanggan Loyal
+0;170;1;180,35;2;15041;Pelanggan Yang Hilang
+0;199;1;135,93;2;15042;Pelanggan Yang Hilang
+0;31;1;537;1;15043;Pelanggan Potensial
+343;19;17;7700,23;0;15044;Pelanggan Loyal
+106;151;2;735,66;1;15045;Pelanggan Potensial
+329;9;15;5213,77;0;15046;Pelanggan Loyal
+0;269;1;343,62;2;15047;Pelanggan Yang Hilang
+303;65;4;384,05;0;15048;Pelanggan Loyal
+0;273;1;121,17;2;15049;Pelanggan Yang Hilang
+46;25;3;1782,09;1;15050;Pelanggan Potensial
+127;23;3;1391,61;1;15051;Pelanggan Potensial
+0;319;1;215,78;2;15052;Pelanggan Yang Hilang
+277;4;3;697,79;0;15053;Pelanggan Loyal
+28;12;2;302,1;1;15054;Pelanggan Potensial
+40;275;2;1489,5;2;15057;Pelanggan Yang Hilang
+287;25;11;2124,99;0;15058;Pelanggan Loyal
+294;40;9;1337,72;0;15059;Pelanggan Loyal
+1;8;4;303,09;1;15060;Pelanggan Potensial
+369;3;48;54534,14;0;15061;Pelanggan Loyal
+288;71;4;987,86;0;15062;Pelanggan Loyal
+0;213;1;370,8;2;15063;Pelanggan Yang Hilang
+254;37;4;3158,13;0;15065;Pelanggan Loyal
+0;53;1;893,59;1;15066;Pelanggan Potensial
+204;78;3;1744,76;0;15067;Pelanggan Loyal
+210;46;2;553,36;0;15068;Pelanggan Loyal
+0;179;1;1109,53;2;15069;Pelanggan Yang Hilang
+0;372;1;106,2;2;15070;Pelanggan Yang Hilang
+182;93;2;982,07;0;15071;Pelanggan Loyal
+177;9;3;1043,41;0;15073;Pelanggan Loyal
+0;105;1;748,87;1;15074;Pelanggan Potensial
+0;77;1;773,03;1;15075;Pelanggan Potensial
+0;172;1;880,85;2;15076;Pelanggan Yang Hilang
+361;7;32;9743,11;0;15078;Pelanggan Loyal
+153;212;4;895,61;2;15079;Pelanggan Yang Hilang
+345;22;5;504,8;0;15081;Pelanggan Loyal
+0;256;1;88,2;2;15083;Pelanggan Yang Hilang
+0;281;1;306,94;2;15087;Pelanggan Yang Hilang
+46;21;2;1160,07;1;15088;Pelanggan Potensial
+118;10;6;2420,84;1;15089;Pelanggan Potensial
+0;308;1;381,32;2;15090;Pelanggan Yang Hilang
+0;67;1;480,71;1;15091;Pelanggan Potensial
+68;215;2;457,81;2;15092;Pelanggan Yang Hilang
+354;18;6;4597,02;0;15093;Pelanggan Loyal
+100;103;4;1370,6;1;15095;Pelanggan Potensial
+0;42;1;219,39;1;15096;Pelanggan Potensial
+0;4;1;248,08;1;15097;Pelanggan Potensial
+0;182;3;39916,5;2;15098;Pelanggan Yang Hilang
+0;84;1;410,48;1;15099;Pelanggan Potensial
+40;333;3;876;2;15100;Pelanggan Yang Hilang
+351;8;2;317,53;0;15101;Pelanggan Loyal
+55;31;2;703,36;1;15103;Pelanggan Potensial
+86;196;2;1027,44;2;15104;Pelanggan Yang Hilang
+116;18;7;2298,93;1;15105;Pelanggan Potensial
+252;17;5;1422,52;0;15106;Pelanggan Loyal
+61;311;6;319,5;2;15107;Pelanggan Yang Hilang
+86;141;4;1300,25;1;15108;Pelanggan Potensial
+0;245;1;484,95;2;15109;Pelanggan Yang Hilang
+295;23;4;996,1;0;15110;Pelanggan Loyal
+343;29;3;1567,48;0;15111;Pelanggan Loyal
+45;9;3;3609,33;1;15113;Pelanggan Potensial
+271;30;10;2760,56;0;15114;Pelanggan Loyal
+0;18;1;340,11;1;15115;Pelanggan Potensial
+187;17;4;1352,75;0;15116;Pelanggan Loyal
+201;14;5;1551,78;0;15117;Pelanggan Loyal
+0;134;1;244,8;1;15118;Pelanggan Potensial
+0;245;1;266,4;2;15119;Pelanggan Yang Hilang
+0;133;1;358,82;1;15120;Pelanggan Potensial
+238;50;2;457,72;0;15121;Pelanggan Loyal
+183;114;3;1633,78;0;15122;Pelanggan Loyal
+199;7;2;2199,31;0;15123;Pelanggan Loyal
+169;22;2;184,19;0;15124;Pelanggan Loyal
+245;25;15;11528,48;0;15125;Pelanggan Loyal
+0;65;1;406,53;1;15127;Pelanggan Potensial
+159;60;4;1471;1;15128;Pelanggan Potensial
+241;50;11;3447,4;0;15129;Pelanggan Loyal
+0;169;1;330,11;2;15130;Pelanggan Yang Hilang
+244;18;5;977,93;0;15132;Pelanggan Loyal
+174;127;3;982,42;0;15133;Pelanggan Loyal
+226;14;8;1387,99;0;15134;Pelanggan Loyal
+0;239;1;139,05;2;15135;Pelanggan Yang Hilang
+94;2;4;1286,7;1;15136;Pelanggan Potensial
+97;239;2;178,96;2;15139;Pelanggan Yang Hilang
+212;52;7;2354,25;0;15140;Pelanggan Loyal
+0;46;1;498,74;1;15142;Pelanggan Potensial
+0;225;1;259,45;2;15143;Pelanggan Yang Hilang
+304;8;17;6580,44;0;15144;Pelanggan Loyal
+244;4;4;1194,73;0;15145;Pelanggan Loyal
+127;164;2;1327,16;1;15146;Pelanggan Potensial
+0;240;1;623,5;2;15147;Pelanggan Yang Hilang
+0;10;1;301,29;1;15148;Pelanggan Potensial
+0;133;1;520,8;1;15149;Pelanggan Potensial
+252;17;10;5314,47;0;15150;Pelanggan Loyal
+178;9;13;4745,69;0;15152;Pelanggan Loyal
+0;31;1;329,25;1;15153;Pelanggan Potensial
+0;75;1;296,42;1;15154;Pelanggan Potensial
+32;1;3;961,49;1;15156;Pelanggan Potensial
+355;3;3;1936,07;0;15157;Pelanggan Loyal
+0;45;1;401,4;1;15158;Pelanggan Potensial
+360;1;30;18641,01;0;15159;Pelanggan Loyal
+0;357;1;158,16;2;15160;Pelanggan Yang Hilang
+174;18;2;304,47;0;15163;Pelanggan Loyal
+271;68;3;843,05;0;15164;Pelanggan Loyal
+0;373;1;487,75;2;15165;Pelanggan Yang Hilang
+0;320;1;163;2;15167;Pelanggan Yang Hilang
+0;25;1;106,56;1;15168;Pelanggan Potensial
+0;331;1;1289,5;2;15171;Pelanggan Yang Hilang
+228;8;5;1624,05;0;15172;Pelanggan Loyal
+0;322;1;135,75;2;15174;Pelanggan Yang Hilang
+0;71;1;224,14;1;15175;Pelanggan Potensial
+0;260;1;40,5;2;15178;Pelanggan Yang Hilang
+301;18;5;2206,95;0;15179;Pelanggan Loyal
+0;367;1;87,5;2;15180;Pelanggan Yang Hilang
+203;66;3;689,48;0;15181;Pelanggan Loyal
+114;154;2;622,85;1;15182;Pelanggan Potensial
+161;29;2;406,76;0;15184;Pelanggan Loyal
+0;70;1;310,62;1;15185;Pelanggan Potensial
+154;14;2;411,41;1;15186;Pelanggan Potensial
+211;1;16;4777,18;0;15187;Pelanggan Loyal
+331;1;41;16225,39;0;15189;Pelanggan Loyal
+246;119;3;1044,32;0;15192;Pelanggan Loyal
+0;60;1;499,32;1;15193;Pelanggan Potensial
+365;3;15;7616,53;0;15194;Pelanggan Loyal
+0;2;1;3861;1;15195;Pelanggan Potensial
+348;10;3;1079,61;0;15197;Pelanggan Loyal
+32;92;2;193,64;1;15198;Pelanggan Potensial
+249;59;4;1268,7;0;15199;Pelanggan Loyal
+160;87;5;1236,54;1;15201;Pelanggan Potensial
+286;25;6;1827,8;0;15203;Pelanggan Loyal
+0;357;1;316,58;2;15204;Pelanggan Yang Hilang
+42;85;2;653,24;1;15205;Pelanggan Potensial
+265;10;4;420,3;0;15206;Pelanggan Loyal
+352;1;5;870,12;0;15208;Pelanggan Loyal
+0;225;1;331,18;2;15210;Pelanggan Yang Hilang
+305;60;2;894,41;0;15211;Pelanggan Loyal
+0;241;1;101,8;2;15212;Pelanggan Yang Hilang
+11;318;2;328,35;2;15213;Pelanggan Yang Hilang
+241;1;8;1661,44;0;15214;Pelanggan Loyal
+50;46;3;734,94;1;15215;Pelanggan Potensial
+0;87;1;96,6;1;15216;Pelanggan Potensial
+308;10;11;5756,89;0;15218;Pelanggan Loyal
+0;176;1;305,75;2;15219;Pelanggan Yang Hilang
+229;51;6;1778,96;0;15220;Pelanggan Loyal
+0;366;1;403,25;2;15221;Pelanggan Yang Hilang
+0;318;1;585;2;15222;Pelanggan Yang Hilang
+24;225;2;755,75;2;15223;Pelanggan Yang Hilang
+4;358;2;322,08;2;15224;Pelanggan Yang Hilang
+0;234;1;409,4;2;15225;Pelanggan Yang Hilang
+0;310;1;154,41;2;15226;Pelanggan Yang Hilang
+281;36;5;1219,4;0;15227;Pelanggan Loyal
+228;66;4;3386,71;0;15228;Pelanggan Loyal
+1;239;2;429,6;2;15230;Pelanggan Yang Hilang
+27;113;2;612,06;1;15232;Pelanggan Potensial
+0;276;1;197;2;15234;Pelanggan Yang Hilang
+156;217;12;2247,51;2;15235;Pelanggan Yang Hilang
+0;298;1;321,05;2;15236;Pelanggan Yang Hilang
+226;1;4;1412,32;0;15237;Pelanggan Loyal
+155;29;3;1071,99;1;15238;Pelanggan Potensial
+68;10;2;780,59;1;15239;Pelanggan Potensial
+267;44;5;1706,57;0;15240;Pelanggan Loyal
+217;66;8;1756,44;0;15241;Pelanggan Loyal
+0;74;1;316,68;1;15243;Pelanggan Potensial
+183;65;2;631,57;0;15244;Pelanggan Loyal
+127;134;3;2515,84;1;15245;Pelanggan Potensial
+120;238;2;514,15;2;15246;Pelanggan Yang Hilang
+0;122;1;356;1;15247;Pelanggan Potensial
+225;31;13;6688,46;0;15249;Pelanggan Loyal
+232;9;11;10484,99;0;15251;Pelanggan Loyal
+147;36;2;740,78;1;15252;Pelanggan Potensial
+153;16;5;918,2;1;15253;Pelanggan Potensial
+0;127;1;300,36;1;15254;Pelanggan Potensial
+0;66;1;890,85;1;15255;Pelanggan Potensial
+0;148;1;98,45;1;15256;Pelanggan Potensial
+0;283;1;317,15;2;15257;Pelanggan Yang Hilang
+49;168;2;623,16;2;15258;Pelanggan Yang Hilang
+272;100;7;1810,77;0;15260;Pelanggan Loyal
+0;135;1;254,82;1;15261;Pelanggan Potensial
+0;323;1;178,95;2;15262;Pelanggan Yang Hilang
+0;106;1;156,51;1;15263;Pelanggan Potensial
+0;64;1;393,74;1;15264;Pelanggan Potensial
+84;151;2;1506,12;1;15265;Pelanggan Potensial
+0;338;1;119,3;2;15266;Pelanggan Yang Hilang
+160;22;5;1717,36;0;15267;Pelanggan Loyal
+0;23;1;408,8;1;15269;Pelanggan Potensial
+295;15;7;2379,49;0;15270;Pelanggan Loyal
+358;7;15;2507,07;0;15271;Pelanggan Loyal
+29;57;2;721,94;1;15272;Pelanggan Potensial
+14;4;2;716,57;1;15274;Pelanggan Potensial
+0;37;1;615,14;1;15275;Pelanggan Potensial
+0;66;1;135,31;1;15276;Pelanggan Potensial
+0;46;1;255,9;1;15277;Pelanggan Potensial
+0;354;1;290,51;2;15279;Pelanggan Yang Hilang
+0;172;1;113,12;2;15280;Pelanggan Yang Hilang
+275;58;9;2332,15;0;15281;Pelanggan Loyal
+0;49;1;240,55;1;15286;Pelanggan Potensial
+48;22;2;486,69;1;15287;Pelanggan Potensial
+322;43;5;2306,52;0;15288;Pelanggan Loyal
+220;29;3;939,78;0;15289;Pelanggan Loyal
+355;4;18;7943,22;0;15290;Pelanggan Loyal
+348;25;15;4668,3;0;15291;Pelanggan Loyal
+0;201;1;180,94;2;15292;Pelanggan Yang Hilang
+276;50;6;3672,86;0;15296;Pelanggan Loyal
+53;10;3;641,94;1;15297;Pelanggan Potensial
+364;2;12;4799,9;0;15298;Pelanggan Loyal
+305;67;7;4507,01;0;15299;Pelanggan Loyal
+0;64;1;496,44;1;15300;Pelanggan Potensial
+318;50;12;5070,35;0;15301;Pelanggan Loyal
+0;290;1;574,02;2;15303;Pelanggan Yang Hilang
+308;60;8;694,4;0;15304;Pelanggan Loyal
+84;64;3;1174,35;1;15306;Pelanggan Potensial
+0;95;1;205,3;1;15307;Pelanggan Potensial
+0;274;1;310,47;2;15308;Pelanggan Yang Hilang
+373;0;91;60767,9;0;15311;Pelanggan Loyal
+279;75;4;924,85;0;15312;Pelanggan Loyal
+0;110;1;52;1;15313;Pelanggan Potensial
+0;199;1;327,97;2;15314;Pelanggan Yang Hilang
+52;64;2;570,5;1;15315;Pelanggan Potensial
+0;326;1;165;2;15316;Pelanggan Yang Hilang
+0;3;1;312,62;1;15318;Pelanggan Potensial
+0;283;1;204,5;2;15319;Pelanggan Yang Hilang
+0;44;1;267,13;1;15320;Pelanggan Potensial
+221;70;3;2748,31;0;15321;Pelanggan Loyal
+0;85;1;679,68;1;15322;Pelanggan Potensial
+0;103;1;162,29;1;15325;Pelanggan Potensial
+0;333;1;311,71;2;15326;Pelanggan Yang Hilang
+0;52;1;208,75;1;15327;Pelanggan Potensial
+132;39;3;1049,7;1;15329;Pelanggan Potensial
+28;32;2;714,96;1;15330;Pelanggan Potensial
+3;366;4;1661,06;2;15332;Pelanggan Yang Hilang
+0;208;1;1028,56;2;15333;Pelanggan Yang Hilang
+17;156;3;351,67;2;15334;Pelanggan Yang Hilang
+0;53;1;173,97;1;15335;Pelanggan Potensial
+252;66;2;574,07;0;15339;Pelanggan Loyal
+0;80;1;2020,52;1;15341;Pelanggan Potensial
+0;129;1;406,09;1;15342;Pelanggan Potensial
+0;87;1;364,5;1;15343;Pelanggan Potensial
+74;0;3;563,94;1;15344;Pelanggan Potensial
+0;45;1;393,54;1;15345;Pelanggan Potensial
+0;332;1;252,42;2;15346;Pelanggan Yang Hilang
+0;366;1;201,6;2;15347;Pelanggan Yang Hilang
+0;72;1;158,04;1;15348;Pelanggan Potensial
+29;158;2;473,81;2;15349;Pelanggan Yang Hilang
+0;373;1;115,65;2;15350;Pelanggan Yang Hilang
+357;12;7;1960,11;0;15351;Pelanggan Loyal
+113;254;2;777,02;2;15353;Pelanggan Yang Hilang
+24;29;2;277,05;1;15355;Pelanggan Potensial
+337;31;10;2766,5;0;15356;Pelanggan Loyal
+361;4;22;8347,2;0;15358;Pelanggan Loyal
+0;39;1;427,93;1;15360;Pelanggan Potensial
+0;361;1;418,92;2;15361;Pelanggan Yang Hilang
+0;372;1;326;2;15363;Pelanggan Yang Hilang
+159;95;2;913,19;1;15364;Pelanggan Potensial
+290;25;7;2314,32;0;15365;Pelanggan Loyal
+283;75;2;602,51;0;15366;Pelanggan Loyal
+218;57;4;1877,59;0;15367;Pelanggan Loyal
+0;21;1;446,94;1;15368;Pelanggan Potensial
+292;40;7;2386,05;0;15370;Pelanggan Loyal
+0;137;1;2007,4;1;15372;Pelanggan Potensial
+363;8;12;2415,91;0;15373;Pelanggan Loyal
+0;128;1;168;1;15374;Pelanggan Potensial
+182;40;3;1233,36;0;15376;Pelanggan Loyal
+189;169;7;3703,29;0;15379;Pelanggan Loyal
+357;8;5;1690,26;0;15380;Pelanggan Loyal
+55;213;2;596,85;2;15381;Pelanggan Yang Hilang
+281;14;6;5955,71;0;15382;Pelanggan Loyal
+190;169;2;642,41;0;15384;Pelanggan Loyal
+0;40;1;316,88;1;15385;Pelanggan Potensial
+0;186;1;394,14;2;15386;Pelanggan Yang Hilang
+0;270;1;140,54;2;15388;Pelanggan Yang Hilang
+0;172;1;500;2;15389;Pelanggan Yang Hilang
+356;4;4;1535,53;0;15392;Pelanggan Loyal
+265;16;2;231,86;0;15393;Pelanggan Loyal
+349;9;4;2183,54;0;15394;Pelanggan Loyal
+0;325;1;107,45;2;15395;Pelanggan Yang Hilang
+0;112;1;288,18;1;15396;Pelanggan Potensial
+0;289;1;94;2;15397;Pelanggan Yang Hilang
+62;16;2;1345,53;1;15398;Pelanggan Potensial
+78;1;3;815,77;1;15399;Pelanggan Potensial
+186;92;5;716,2;0;15400;Pelanggan Loyal
+48;148;2;626,77;1;15402;Pelanggan Potensial
+0;189;1;349,1;2;15405;Pelanggan Yang Hilang
+270;31;2;510,71;0;15406;Pelanggan Loyal
+272;33;4;1056,44;0;15407;Pelanggan Loyal
+0;264;1;267,18;2;15408;Pelanggan Yang Hilang
+177;84;8;3450,84;0;15410;Pelanggan Loyal
+156;26;4;1358,88;1;15411;Pelanggan Potensial
+0;171;1;190,53;2;15412;Pelanggan Yang Hilang
+233;9;3;774,9;0;15414;Pelanggan Loyal
+0;313;1;572,81;2;15415;Pelanggan Yang Hilang
+218;64;4;3984,32;0;15416;Pelanggan Loyal
+0;85;1;508,8;1;15417;Pelanggan Potensial
+0;24;1;135,86;1;15419;Pelanggan Potensial
+252;58;4;950,36;0;15421;Pelanggan Loyal
+0;323;2;97,7;2;15422;Pelanggan Yang Hilang
+0;38;1;43,5;1;15423;Pelanggan Potensial
+0;254;2;383,34;2;15424;Pelanggan Yang Hilang
+350;19;5;1447,39;0;15426;Pelanggan Loyal
+14;33;3;1483,14;1;15427;Pelanggan Potensial
+0;15;1;93,78;1;15428;Pelanggan Potensial
+49;26;2;397,35;1;15429;Pelanggan Potensial
+0;23;1;171,19;1;15432;Pelanggan Potensial
+54;213;2;533,3;2;15433;Pelanggan Yang Hilang
+192;8;5;1041,48;0;15434;Pelanggan Loyal
+0;22;1;149,29;1;15435;Pelanggan Potensial
+222;12;3;1122,53;0;15436;Pelanggan Loyal
+0;262;1;200,16;2;15437;Pelanggan Yang Hilang
+0;131;1;156,58;1;15438;Pelanggan Potensial
+154;54;3;383,68;1;15440;Pelanggan Potensial
+0;248;1;594;2;15442;Pelanggan Yang Hilang
+319;1;7;3236,91;0;15443;Pelanggan Loyal
+31;9;2;1418,26;1;15444;Pelanggan Potensial
+0;264;1;113,5;2;15445;Pelanggan Yang Hilang
+0;330;1;155,17;2;15447;Pelanggan Yang Hilang
+0;312;1;494,64;2;15448;Pelanggan Yang Hilang
+235;26;3;974,52;0;15449;Pelanggan Loyal
+0;30;1;429,84;1;15450;Pelanggan Potensial
+235;29;3;538,73;0;15452;Pelanggan Loyal
+186;1;7;1388,37;0;15453;Pelanggan Loyal
+0;362;1;179,1;2;15454;Pelanggan Yang Hilang
+76;283;3;447,22;2;15456;Pelanggan Yang Hilang
+0;262;1;237,07;2;15457;Pelanggan Yang Hilang
+0;25;1;161,64;1;15458;Pelanggan Potensial
+0;354;1;216,76;2;15460;Pelanggan Yang Hilang
+93;94;3;234,6;1;15462;Pelanggan Potensial
+0;29;1;126,14;1;15463;Pelanggan Potensial
+0;338;1;1048,85;2;15464;Pelanggan Yang Hilang
+350;19;18;7354,62;0;15465;Pelanggan Loyal
+0;85;1;334,53;1;15466;Pelanggan Potensial
+143;9;3;524,88;1;15467;Pelanggan Potensial
+0;51;2;467,51;1;15468;Pelanggan Potensial
+70;50;2;538,55;1;15469;Pelanggan Potensial
+0;2;1;469,48;1;15471;Pelanggan Potensial
+0;113;1;371,56;1;15472;Pelanggan Potensial
+46;14;7;1771,2;1;15473;Pelanggan Potensial
+0;77;1;454,11;1;15475;Pelanggan Potensial
+16;40;2;1441,42;1;15478;Pelanggan Potensial
+0;116;1;905,5;1;15480;Pelanggan Potensial
+343;15;12;11054,96;0;15482;Pelanggan Loyal
+105;161;4;233,81;1;15483;Pelanggan Potensial
+77;1;4;3594,31;1;15484;Pelanggan Potensial
+343;30;3;2575;0;15485;Pelanggan Loyal
+0;92;1;91,32;1;15488;Pelanggan Potensial
+189;22;3;1134,28;0;15489;Pelanggan Loyal
+140;95;6;3100,09;1;15491;Pelanggan Potensial
+46;28;2;659,46;1;15492;Pelanggan Potensial
+238;32;5;2001,8;0;15493;Pelanggan Loyal
+100;21;2;1299,23;1;15494;Pelanggan Potensial
+302;17;2;1262,2;0;15497;Pelanggan Loyal
+364;2;27;13316,4;0;15498;Pelanggan Loyal
+73;8;4;1131,56;1;15500;Pelanggan Potensial
+354;15;12;10384,93;0;15502;Pelanggan Loyal
+0;362;1;147,09;2;15503;Pelanggan Yang Hilang
+0;81;1;52,83;1;15504;Pelanggan Potensial
+103;52;5;3610,96;1;15505;Pelanggan Potensial
+116;22;3;979,26;1;15506;Pelanggan Potensial
+0;171;1;492,36;2;15507;Pelanggan Yang Hilang
+46;189;6;1000,27;2;15508;Pelanggan Yang Hilang
+0;330;1;250;2;15510;Pelanggan Yang Hilang
+74;11;5;909,23;1;15511;Pelanggan Potensial
+204;155;2;121;0;15512;Pelanggan Loyal
+340;33;19;14758,22;0;15513;Pelanggan Loyal
+352;12;11;4139,46;0;15514;Pelanggan Loyal
+2;44;3;62,43;1;15516;Pelanggan Potensial
+0;233;1;267,03;2;15517;Pelanggan Yang Hilang
+268;64;8;1942,45;0;15518;Pelanggan Loyal
+0;1;1;343,5;1;15520;Pelanggan Potensial
+214;40;8;3000,2;0;15521;Pelanggan Loyal
+55;32;2;398,84;1;15522;Pelanggan Potensial
+0;84;1;412,01;1;15523;Pelanggan Potensial
+0;24;1;440;1;15524;Pelanggan Potensial
+371;2;3;825,92;0;15525;Pelanggan Loyal
+0;33;2;148,44;1;15526;Pelanggan Potensial
+336;18;8;2429,78;0;15527;Pelanggan Loyal
+0;254;1;229,33;2;15528;Pelanggan Yang Hilang
+344;22;11;3995,23;0;15529;Pelanggan Loyal
+225;21;4;1502,35;0;15530;Pelanggan Loyal
+22;8;2;2007,44;1;15531;Pelanggan Potensial
+333;25;4;1580,93;0;15532;Pelanggan Loyal
+70;19;3;807,57;1;15533;Pelanggan Potensial
+154;173;4;536,4;2;15535;Pelanggan Yang Hilang
+0;163;1;110,92;2;15537;Pelanggan Yang Hilang
+0;7;1;538,46;1;15539;Pelanggan Potensial
+0;11;1;213,3;1;15540;Pelanggan Potensial
+0;114;1;85,13;1;15541;Pelanggan Potensial
+0;288;1;127,86;2;15543;Pelanggan Yang Hilang
+363;9;9;3546,71;0;15544;Pelanggan Loyal
+317;54;2;292,72;0;15545;Pelanggan Loyal
+355;7;14;4954,84;0;15547;Pelanggan Loyal
+239;77;3;1693,26;0;15549;Pelanggan Loyal
+297;4;4;575,63;0;15550;Pelanggan Loyal
+0;36;1;436,06;1;15551;Pelanggan Potensial
+0;217;1;90,12;2;15552;Pelanggan Yang Hilang
+0;60;1;437,23;1;15553;Pelanggan Potensial
+0;277;1;217,2;2;15554;Pelanggan Yang Hilang
+357;12;16;4805,17;0;15555;Pelanggan Loyal
+0;24;1;279,77;1;15556;Pelanggan Potensial
+0;28;1;473,65;1;15557;Pelanggan Potensial
+204;11;4;800,59;0;15561;Pelanggan Loyal
+0;351;1;134,55;2;15562;Pelanggan Yang Hilang
+336;22;4;1400,44;0;15563;Pelanggan Loyal
+20;50;2;173,16;1;15565;Pelanggan Potensial
+0;18;1;186,01;1;15567;Pelanggan Potensial
+71;2;3;758,29;1;15568;Pelanggan Potensial
+229;103;5;1375,71;0;15569;Pelanggan Loyal
+362;7;12;4165,52;0;15570;Pelanggan Loyal
+67;11;4;650,43;1;15571;Pelanggan Potensial
+274;4;7;2552,86;0;15572;Pelanggan Loyal
+54;31;2;607,45;1;15573;Pelanggan Potensial
+195;177;4;702,25;0;15574;Pelanggan Loyal
+0;37;1;940,67;1;15576;Pelanggan Potensial
+154;151;3;258,88;1;15577;Pelanggan Potensial
+0;162;1;127,1;2;15578;Pelanggan Yang Hilang
+245;68;2;348,6;0;15579;Pelanggan Loyal
+246;120;13;3679,97;0;15581;Pelanggan Loyal
+196;24;3;682,91;0;15582;Pelanggan Loyal
+139;23;4;725,11;1;15584;Pelanggan Potensial
+0;176;1;455,3;2;15585;Pelanggan Yang Hilang
+301;50;4;913,68;0;15587;Pelanggan Loyal
+55;255;3;478,53;2;15589;Pelanggan Yang Hilang
+0;46;1;388,58;1;15592;Pelanggan Potensial
+0;70;1;199,8;1;15593;Pelanggan Potensial
+219;15;5;1771,78;0;15594;Pelanggan Loyal
+265;100;5;1406,59;0;15596;Pelanggan Loyal
+0;35;1;324,57;1;15597;Pelanggan Potensial
+0;53;1;240,68;1;15598;Pelanggan Potensial
+178;26;2;761,74;0;15599;Pelanggan Loyal
+361;11;14;6776,56;0;15601;Pelanggan Loyal
+360;8;9;1297,87;0;15602;Pelanggan Loyal
+0;78;1;48,48;1;15603;Pelanggan Potensial
+0;52;1;216,39;1;15604;Pelanggan Potensial
+337;36;5;1198,23;0;15605;Pelanggan Loyal
+263;61;9;2920,16;0;15606;Pelanggan Loyal
+0;336;1;104,76;2;15607;Pelanggan Yang Hilang
+92;28;4;1093,68;1;15608;Pelanggan Potensial
+0;184;1;298,48;2;15609;Pelanggan Yang Hilang
+0;51;1;112,46;1;15610;Pelanggan Potensial
+325;9;13;1591,45;0;15611;Pelanggan Loyal
+25;36;2;195,15;1;15612;Pelanggan Potensial
+349;10;23;10399,74;0;15615;Pelanggan Loyal
+104;32;4;776,851;1;15618;Pelanggan Potensial
+0;10;1;336,4;1;15619;Pelanggan Potensial
+302;56;3;1553,18;0;15620;Pelanggan Loyal
+17;4;4;1293,03;1;15621;Pelanggan Potensial
+239;43;9;3709,56;0;15622;Pelanggan Loyal
+0;141;1;301,03;1;15623;Pelanggan Potensial
+140;116;4;588,13;1;15624;Pelanggan Potensial
+132;103;4;1534,26;1;15625;Pelanggan Potensial
+255;74;2;675,8;0;15626;Pelanggan Loyal
+362;4;9;2870,24;0;15628;Pelanggan Loyal
+159;45;2;1186,35;1;15630;Pelanggan Potensial
+259;15;8;3285,31;0;15632;Pelanggan Loyal
+0;17;1;243,55;1;15634;Pelanggan Potensial
+193;89;2;724,76;0;15636;Pelanggan Loyal
+0;52;1;223,36;1;15637;Pelanggan Potensial
+0;134;1;425,32;1;15639;Pelanggan Potensial
+368;4;15;12515,66;0;15640;Pelanggan Loyal
+254;105;4;1887,2;0;15641;Pelanggan Loyal
+91;191;3;664;2;15643;Pelanggan Yang Hilang
+95;166;4;813;2;15644;Pelanggan Yang Hilang
+0;18;1;612,01;1;15645;Pelanggan Potensial
+215;157;3;447,64;0;15646;Pelanggan Loyal
+63;204;2;657,35;2;15648;Pelanggan Yang Hilang
+31;336;2;816;2;15649;Pelanggan Yang Hilang
+224;36;3;646,3;0;15651;Pelanggan Loyal
+0;91;1;337,74;1;15652;Pelanggan Potensial
+23;92;2;877,44;1;15653;Pelanggan Potensial
+17;9;2;922,53;1;15654;Pelanggan Potensial
+0;243;1;560,67;2;15655;Pelanggan Yang Hilang
+239;45;4;748,5;0;15656;Pelanggan Loyal
+0;22;1;30;1;15657;Pelanggan Potensial
+182;190;5;1024,1;2;15658;Pelanggan Yang Hilang
+0;43;1;306,45;1;15659;Pelanggan Potensial
+340;25;9;1600,86;0;15660;Pelanggan Loyal
+21;317;2;309,8;2;15661;Pelanggan Yang Hilang
+0;106;1;138,14;1;15663;Pelanggan Potensial
+0;50;1;386,43;1;15664;Pelanggan Potensial
+75;168;2;2242,01;2;15665;Pelanggan Yang Hilang
+0;39;1;301,32;1;15667;Pelanggan Potensial
+0;217;1;76,32;2;15668;Pelanggan Yang Hilang
+223;40;4;684,34;0;15669;Pelanggan Loyal
+0;296;1;173,05;2;15670;Pelanggan Yang Hilang
+252;18;7;2657,13;0;15671;Pelanggan Loyal
+239;88;4;2881,02;0;15673;Pelanggan Loyal
+181;73;5;2446,6;0;15674;Pelanggan Loyal
+199;81;3;323,69;0;15675;Pelanggan Loyal
+265;18;3;3435,76;0;15676;Pelanggan Loyal
+0;49;1;657,23;1;15677;Pelanggan Potensial
+0;52;1;352,7;1;15678;Pelanggan Potensial
+158;24;4;781,28;1;15679;Pelanggan Potensial
+357;9;3;1333,68;0;15680;Pelanggan Loyal
+255;25;5;1426,16;0;15681;Pelanggan Loyal
+0;117;1;193,75;1;15683;Pelanggan Potensial
+322;8;9;2993,1;0;15687;Pelanggan Loyal
+242;119;2;254,1;0;15689;Pelanggan Loyal
+96;4;2;239,76;1;15690;Pelanggan Potensial
+0;252;1;136,8;2;15691;Pelanggan Yang Hilang
+0;28;1;191,04;1;15692;Pelanggan Potensial
+372;0;14;6479,4;0;15694;Pelanggan Loyal
+0;266;2;409,98;2;15695;Pelanggan Yang Hilang
+293;33;8;2736,46;0;15696;Pelanggan Loyal
+0;17;1;309,65;1;15699;Pelanggan Potensial
+1;172;2;696,68;2;15700;Pelanggan Yang Hilang
+108;2;4;1542,14;1;15701;Pelanggan Potensial
+0;264;1;211,5;2;15703;Pelanggan Yang Hilang
+75;140;4;2293,62;1;15704;Pelanggan Potensial
+0;201;1;143,1;2;15705;Pelanggan Yang Hilang
+53;63;4;1060,56;1;15706;Pelanggan Potensial
+51;35;4;945,58;1;15707;Pelanggan Potensial
+329;40;7;3364,24;0;15708;Pelanggan Loyal
+0;283;1;133,25;2;15709;Pelanggan Yang Hilang
+278;9;5;1072,36;0;15712;Pelanggan Loyal
+223;143;2;356,7;0;15713;Pelanggan Loyal
+66;11;2;330,88;1;15714;Pelanggan Potensial
+224;145;4;1118,81;0;15716;Pelanggan Loyal
+0;234;1;150,3;2;15717;Pelanggan Yang Hilang
+305;32;13;5045,61;0;15719;Pelanggan Loyal
+0;24;1;598,73;1;15720;Pelanggan Potensial
+0;11;1;507,08;1;15721;Pelanggan Potensial
+255;35;5;2222,56;0;15722;Pelanggan Loyal
+0;364;1;203,1;2;15723;Pelanggan Yang Hilang
+83;201;2;218,25;2;15724;Pelanggan Yang Hilang
+0;15;1;415,25;1;15725;Pelanggan Potensial
+343;16;7;5178,96;0;15727;Pelanggan Loyal
+0;212;1;85;2;15729;Pelanggan Yang Hilang
+141;65;3;1120,88;1;15730;Pelanggan Potensial
+160;212;2;294,12;2;15732;Pelanggan Yang Hilang
+0;282;1;162,3;2;15733;Pelanggan Yang Hilang
+86;114;2;1339,45;1;15734;Pelanggan Potensial
+228;14;8;1205,12;0;15737;Pelanggan Loyal
+354;18;16;4812,42;0;15738;Pelanggan Loyal
+0;66;1;449,12;1;15739;Pelanggan Potensial
+0;49;1;154,88;1;15740;Pelanggan Potensial
+168;16;4;784,46;0;15743;Pelanggan Loyal
+0;77;1;34,8;1;15744;Pelanggan Potensial
+217;19;4;1094,59;0;15745;Pelanggan Loyal
+0;134;1;196,88;1;15746;Pelanggan Potensial
+160;12;3;974,04;0;15747;Pelanggan Loyal
+0;40;1;149,31;1;15748;Pelanggan Potensial
+97;235;3;44534,3;2;15749;Pelanggan Yang Hilang
+364;2;8;2465,48;0;15750;Pelanggan Loyal
+333;39;7;2637,38;0;15752;Pelanggan Loyal
+0;304;1;79,2;2;15753;Pelanggan Yang Hilang
+195;51;3;458,57;0;15754;Pelanggan Loyal
+284;10;6;2364,25;0;15755;Pelanggan Loyal
+188;61;4;532,96;0;15756;Pelanggan Loyal
+152;65;2;714,42;1;15757;Pelanggan Potensial
+0;24;1;205,25;1;15758;Pelanggan Potensial
+140;218;3;253,04;2;15759;Pelanggan Yang Hilang
+12;65;2;583,75;1;15762;Pelanggan Potensial
+46;31;2;1086,92;1;15763;Pelanggan Potensial
+188;88;6;3279,97;0;15764;Pelanggan Loyal
+0;64;1;315,06;1;15766;Pelanggan Potensial
+110;115;3;621,83;1;15768;Pelanggan Potensial
+364;7;26;56252,72;0;15769;Pelanggan Loyal
+0;5;1;635,68;1;15773;Pelanggan Potensial
+0;68;1;270,8;1;15774;Pelanggan Potensial
+0;245;1;104,9;2;15775;Pelanggan Yang Hilang
+0;133;1;241,62;1;15776;Pelanggan Potensial
+120;241;4;1047,11;2;15777;Pelanggan Yang Hilang
+174;183;3;475,28;2;15780;Pelanggan Yang Hilang
+280;25;3;345,46;0;15781;Pelanggan Loyal
+80;9;3;2614,74;1;15782;Pelanggan Potensial
+0;10;1;246,3;1;15783;Pelanggan Potensial
+263;32;5;2328,97;0;15785;Pelanggan Loyal
+68;46;3;4932,2;1;15786;Pelanggan Potensial
+35;26;3;948,05;1;15787;Pelanggan Potensial
+0;358;1;351,3;2;15789;Pelanggan Yang Hilang
+0;10;1;220,85;1;15790;Pelanggan Potensial
+161;43;2;1612,69;0;15791;Pelanggan Loyal
+254;14;3;965,61;0;15793;Pelanggan Loyal
+0;149;1;610,01;1;15795;Pelanggan Potensial
+301;1;8;2711,56;0;15796;Pelanggan Loyal
+206;113;4;2207,4;0;15797;Pelanggan Loyal
+259;75;3;884,14;0;15799;Pelanggan Loyal
+139;107;2;699,08;1;15800;Pelanggan Potensial
+63;46;3;1063,95;1;15801;Pelanggan Potensial
+0;142;1;451,42;1;15802;Pelanggan Potensial
+0;51;1;415,82;1;15803;Pelanggan Potensial
+198;0;13;4206,39;0;15804;Pelanggan Loyal
+341;23;17;5528,48;0;15805;Pelanggan Loyal
+230;46;3;784,58;0;15806;Pelanggan Loyal
+27;50;3;903,9;1;15807;Pelanggan Potensial
+63;306;4;3734,97;2;15808;Pelanggan Yang Hilang
+266;36;5;515,77;0;15809;Pelanggan Loyal
+218;78;4;1391,98;0;15810;Pelanggan Loyal
+343;22;6;2218,62;0;15811;Pelanggan Loyal
+210;107;5;1801,14;0;15812;Pelanggan Loyal
+32;207;2;1303,91;2;15813;Pelanggan Yang Hilang
+34;16;4;1945,33;1;15814;Pelanggan Potensial
+196;63;5;2100,6;0;15815;Pelanggan Loyal
+227;49;4;1905,45;0;15819;Pelanggan Loyal
+0;319;1;206,98;2;15820;Pelanggan Yang Hilang
+17;44;2;570,96;1;15821;Pelanggan Potensial
+356;3;2;885,47;0;15822;Pelanggan Loyal
+0;372;1;15;2;15823;Pelanggan Yang Hilang
+0;172;1;532,94;2;15825;Pelanggan Yang Hilang
+154;56;3;1654,31;1;15826;Pelanggan Potensial
+299;73;14;1836,09;0;15827;Pelanggan Loyal
+41;99;2;636,14;1;15829;Pelanggan Potensial
+0;37;1;576;1;15830;Pelanggan Potensial
+266;58;3;801,76;0;15831;Pelanggan Loyal
+0;254;1;836,79;2;15832;Pelanggan Yang Hilang
+207;70;4;2233,75;0;15834;Pelanggan Loyal
+286;44;4;954,09;0;15835;Pelanggan Loyal
+0;50;1;137,37;1;15836;Pelanggan Potensial
+0;64;1;391,98;1;15837;Pelanggan Potensial
+356;11;19;33643,08;0;15838;Pelanggan Loyal
+115;33;3;1048,49;1;15839;Pelanggan Potensial
+114;58;2;355,56;1;15840;Pelanggan Potensial
+266;72;4;1224,06;0;15841;Pelanggan Loyal
+0;303;1;118,95;2;15843;Pelanggan Yang Hilang
+0;46;1;130,74;1;15844;Pelanggan Potensial
+320;17;8;3711,77;0;15845;Pelanggan Loyal
+250;38;2;389,27;0;15847;Pelanggan Loyal
+149;19;2;238,85;1;15850;Pelanggan Potensial
+11;186;2;160,71;2;15852;Pelanggan Yang Hilang
+0;51;1;110,8;1;15853;Pelanggan Potensial
+357;4;12;2974,65;0;15854;Pelanggan Loyal
+127;136;5;712,24;1;15855;Pelanggan Potensial
+361;4;27;16387,57;0;15856;Pelanggan Loyal
+0;18;1;297;1;15857;Pelanggan Potensial
+352;15;5;1438,85;0;15858;Pelanggan Loyal
+328;40;8;977,21;0;15860;Pelanggan Loyal
+255;12;8;3165,36;0;15861;Pelanggan Loyal
+365;8;4;832,88;0;15862;Pelanggan Loyal
+167;25;2;68,84;0;15863;Pelanggan Loyal
+294;22;6;1936,32;0;15864;Pelanggan Loyal
+173;40;3;895,13;0;15865;Pelanggan Loyal
+0;101;1;230,53;1;15866;Pelanggan Potensial
+364;5;15;3812,64;0;15867;Pelanggan Loyal
+0;277;2;149,64;2;15869;Pelanggan Yang Hilang
+0;32;1;354,09;1;15870;Pelanggan Potensial
+0;14;2;360,93;1;15872;Pelanggan Potensial
+221;63;7;4405,88;0;15874;Pelanggan Loyal
+16;1;2;493,28;1;15877;Pelanggan Potensial
+0;369;1;343,28;2;15880;Pelanggan Yang Hilang
+52;312;5;501,39;2;15881;Pelanggan Yang Hilang
+170;198;4;516,36;2;15882;Pelanggan Yang Hilang
+31;2;2;396,48;1;15883;Pelanggan Potensial
+217;92;3;379,35;0;15885;Pelanggan Loyal
+0;60;1;181,09;1;15886;Pelanggan Potensial
+0;80;1;168,31;1;15888;Pelanggan Potensial
+213;156;2;446,87;0;15889;Pelanggan Loyal
+0;226;1;524,52;2;15891;Pelanggan Yang Hilang
+116;253;2;263,55;2;15894;Pelanggan Yang Hilang
+0;149;1;179,17;1;15895;Pelanggan Potensial
+0;194;2;222,05;2;15897;Pelanggan Yang Hilang
+367;1;5;1388,88;0;15898;Pelanggan Loyal
+0;368;1;56,25;2;15899;Pelanggan Yang Hilang
+0;23;1;351,11;1;15900;Pelanggan Potensial
+138;16;3;363,88;1;15901;Pelanggan Potensial
+286;9;7;5126,76;0;15903;Pelanggan Loyal
+0;8;1;164,68;1;15904;Pelanggan Potensial
+236;19;7;1567,69;0;15906;Pelanggan Loyal
+207;3;3;967,45;0;15907;Pelanggan Loyal
+0;173;1;191,94;2;15909;Pelanggan Yang Hilang
+316;0;8;1232,18;0;15910;Pelanggan Loyal
+55;178;2;264,62;2;15912;Pelanggan Yang Hilang
+350;16;8;1528,09;0;15916;Pelanggan Loyal
+0;247;1;123,1;2;15917;Pelanggan Yang Hilang
+81;190;2;334,23;2;15918;Pelanggan Yang Hilang
+349;19;2;639,89;0;15919;Pelanggan Loyal
+0;154;4;167,5;1;15920;Pelanggan Potensial
+0;172;1;336,03;2;15921;Pelanggan Yang Hilang
+0;373;1;369,5;2;15922;Pelanggan Yang Hilang
+0;372;1;127,08;2;15923;Pelanggan Yang Hilang
+0;194;1;207,15;2;15925;Pelanggan Yang Hilang
+0;67;1;426,63;1;15930;Pelanggan Potensial
+285;4;8;2495,87;0;15932;Pelanggan Loyal
+65;21;3;1107,46;1;15933;Pelanggan Potensial
+2;239;2;416,86;2;15935;Pelanggan Yang Hilang
+0;64;1;145,35;1;15937;Pelanggan Potensial
+211;112;5;404,58;0;15938;Pelanggan Loyal
+242;89;15;6115,01;0;15939;Pelanggan Loyal
+0;311;1;35,8;2;15940;Pelanggan Yang Hilang
+0;133;1;337,44;1;15942;Pelanggan Potensial
+0;276;1;325,1;2;15944;Pelanggan Yang Hilang
+0;365;1;181;2;15945;Pelanggan Yang Hilang
+0;82;1;1708,24;1;15947;Pelanggan Potensial
+35;8;2;955,24;1;15948;Pelanggan Potensial
+55;16;2;364,72;1;15949;Pelanggan Potensial
+328;31;4;1765,51;0;15950;Pelanggan Loyal
+277;8;2;708,22;0;15951;Pelanggan Loyal
+192;33;4;806,57;0;15952;Pelanggan Loyal
+354;15;8;1659,38;0;15953;Pelanggan Loyal
+348;24;14;4416,26;0;15955;Pelanggan Loyal
+0;31;1;428,89;1;15957;Pelanggan Potensial
+0;74;1;104,35;1;15958;Pelanggan Potensial
+26;19;2;470,76;1;15963;Pelanggan Potensial
+350;17;4;845,64;0;15965;Pelanggan Loyal
+295;23;2;418,83;0;15967;Pelanggan Loyal
+183;2;3;666,1;0;15969;Pelanggan Loyal
+0;303;1;314,1;2;15970;Pelanggan Yang Hilang
+294;17;12;4199,85;0;15971;Pelanggan Loyal
+0;366;1;307,82;2;15973;Pelanggan Yang Hilang
+249;39;7;3442,15;0;15974;Pelanggan Loyal
+0;84;1;371,01;1;15975;Pelanggan Potensial
+55;165;2;430,94;2;15976;Pelanggan Yang Hilang
+22;17;2;1054,73;1;15977;Pelanggan Potensial
+0;77;1;1098,78;1;15978;Pelanggan Potensial
+166;88;3;2398,86;0;15980;Pelanggan Loyal
+287;24;8;3408,48;0;15981;Pelanggan Loyal
+351;22;4;1475,02;0;15983;Pelanggan Loyal
+366;2;10;2837,67;0;15984;Pelanggan Loyal
+113;123;2;1142,42;1;15985;Pelanggan Potensial
+0;30;1;168,12;1;15986;Pelanggan Potensial
+356;12;7;1451,28;0;15987;Pelanggan Loyal
+0;19;1;158,03;1;15988;Pelanggan Potensial
+243;44;2;792,11;0;15990;Pelanggan Loyal
+0;3;1;41,99;1;15992;Pelanggan Potensial
+36;8;7;2797,57;1;15993;Pelanggan Potensial
+0;54;1;427,07;1;15994;Pelanggan Potensial
+278;88;6;1060,68;0;15996;Pelanggan Loyal
+326;36;5;3089,97;0;15998;Pelanggan Loyal
+0;2;3;12393,7;1;16000;Pelanggan Potensial
+330;29;5;2735,37;0;16003;Pelanggan Loyal
+258;12;4;615,39;0;16005;Pelanggan Loyal
+0;211;1;101,4;2;16006;Pelanggan Yang Hilang
+168;47;4;1701,94;0;16007;Pelanggan Loyal
+181;23;3;478,78;0;16008;Pelanggan Loyal
+137;22;4;992,71;1;16009;Pelanggan Potensial
+117;245;3;407,5;2;16010;Pelanggan Yang Hilang
+358;8;16;3362,71;0;16011;Pelanggan Loyal
+120;35;3;1415,29;1;16012;Pelanggan Potensial
+368;3;47;37130,6;0;16013;Pelanggan Loyal
+254;37;3;662,38;0;16014;Pelanggan Loyal
+46;3;3;705,39;1;16015;Pelanggan Potensial
+363;3;8;1508,76;0;16016;Pelanggan Loyal
+0;47;1;211,88;1;16017;Pelanggan Potensial
+141;39;2;408,9;1;16018;Pelanggan Potensial
+318;46;9;3786,24;0;16019;Pelanggan Loyal
+49;16;3;851,01;1;16020;Pelanggan Potensial
+0;260;1;628,28;2;16022;Pelanggan Yang Hilang
+220;46;3;719,81;0;16023;Pelanggan Loyal
+0;12;1;251,24;1;16024;Pelanggan Potensial
+0;29;1;439,66;1;16025;Pelanggan Potensial
+0;43;1;236,09;1;16026;Pelanggan Potensial
+211;91;6;934,62;0;16027;Pelanggan Loyal
+335;38;63;81024,84;0;16029;Pelanggan Loyal
+0;309;1;331,24;2;16030;Pelanggan Yang Hilang
+155;92;2;548,94;1;16031;Pelanggan Potensial
+364;5;20;8816,4;0;16033;Pelanggan Loyal
+136;196;3;437,7;2;16034;Pelanggan Yang Hilang
+176;87;2;758,92;0;16036;Pelanggan Loyal
+89;269;3;855,02;2;16037;Pelanggan Yang Hilang
+194;7;3;471,78;0;16038;Pelanggan Loyal
+203;65;3;1313,55;0;16040;Pelanggan Loyal
+111;30;3;3166,4;1;16041;Pelanggan Potensial
+310;22;5;1197,27;0;16042;Pelanggan Loyal
+280;37;4;773,99;0;16043;Pelanggan Loyal
+171;119;4;1340,7;0;16045;Pelanggan Loyal
+0;373;2;256,44;2;16048;Pelanggan Yang Hilang
+35;40;3;1111,79;1;16049;Pelanggan Potensial
+0;173;1;137,9;2;16050;Pelanggan Yang Hilang
+0;54;1;362,06;1;16052;Pelanggan Potensial
+90;32;2;1511,95;1;16053;Pelanggan Potensial
+0;145;1;783,9;1;16054;Pelanggan Potensial
+0;220;1;134,8;2;16055;Pelanggan Yang Hilang
+0;45;1;664,85;1;16056;Pelanggan Potensial
+268;16;7;2263,12;0;16057;Pelanggan Loyal
+302;65;6;1459,86;0;16059;Pelanggan Loyal
+355;9;4;1153,62;0;16062;Pelanggan Loyal
+0;260;1;335,32;2;16063;Pelanggan Yang Hilang
+0;365;1;372,09;2;16065;Pelanggan Yang Hilang
+108;16;5;1521,87;1;16066;Pelanggan Potensial
+10;22;2;852,15;1;16070;Pelanggan Potensial
+0;44;1;326,24;1;16071;Pelanggan Potensial
+0;288;1;584,32;2;16072;Pelanggan Yang Hilang
+0;297;1;122,4;2;16073;Pelanggan Yang Hilang
+205;3;10;2234,73;0;16076;Pelanggan Loyal
+0;283;1;79,2;2;16078;Pelanggan Yang Hilang
+24;16;3;1352;1;16079;Pelanggan Potensial
+193;81;2;217,16;0;16080;Pelanggan Loyal
+310;56;5;2806,9;0;16081;Pelanggan Loyal
+260;100;2;1317,62;0;16083;Pelanggan Loyal
+0;299;1;436,18;2;16084;Pelanggan Yang Hilang
+297;23;5;981,51;0;16085;Pelanggan Loyal
+308;59;5;1121,39;0;16086;Pelanggan Loyal
+44;154;2;315,06;1;16091;Pelanggan Potensial
+140;114;3;817,86;1;16092;Pelanggan Potensial
+0;106;1;17;1;16093;Pelanggan Potensial
+208;11;4;1078,23;0;16094;Pelanggan Loyal
+0;264;1;320,62;2;16096;Pelanggan Yang Hilang
+0;240;1;185,05;2;16097;Pelanggan Yang Hilang
+286;87;7;2005,63;0;16098;Pelanggan Loyal
+175;50;3;731,9;0;16099;Pelanggan Loyal
+0;70;1;1290,7;1;16101;Pelanggan Potensial
+86;42;3;1842,14;1;16102;Pelanggan Potensial
+226;7;6;1429,64;0;16103;Pelanggan Loyal
+0;61;1;302,36;1;16104;Pelanggan Potensial
+0;248;1;336,96;2;16105;Pelanggan Yang Hilang
+0;65;1;108,38;1;16106;Pelanggan Potensial
+166;17;7;3204,16;0;16107;Pelanggan Loyal
+0;84;1;842,5;1;16108;Pelanggan Potensial
+90;218;2;611,88;2;16109;Pelanggan Yang Hilang
+266;45;3;1337,48;0;16110;Pelanggan Loyal
+195;143;4;195,74;0;16112;Pelanggan Loyal
+0;183;1;161,38;2;16113;Pelanggan Yang Hilang
+0;170;1;135,75;2;16114;Pelanggan Yang Hilang
+283;9;8;1667,97;0;16115;Pelanggan Loyal
+0;211;1;612,78;2;16116;Pelanggan Yang Hilang
+0;189;1;232,21;2;16117;Pelanggan Yang Hilang
+64;8;2;423,36;1;16119;Pelanggan Potensial
+0;59;4;1309,14;1;16120;Pelanggan Potensial
+158;57;2;867,11;1;16121;Pelanggan Potensial
+293;73;4;684,42;0;16122;Pelanggan Loyal
+0;51;1;307,78;1;16123;Pelanggan Potensial
+0;317;1;249;2;16124;Pelanggan Yang Hilang
+0;367;1;289,35;2;16125;Pelanggan Yang Hilang
+267;29;4;6287,77;0;16126;Pelanggan Loyal
+0;39;1;656,25;1;16127;Pelanggan Potensial
+265;17;5;1880,22;0;16128;Pelanggan Loyal
+188;51;6;3506,54;0;16131;Pelanggan Loyal
+315;3;33;14589,04;0;16133;Pelanggan Loyal
+338;21;2;618,09;0;16134;Pelanggan Loyal
+0;262;1;517,55;2;16135;Pelanggan Yang Hilang
+218;59;3;709,38;0;16136;Pelanggan Loyal
+188;18;3;635,41;0;16139;Pelanggan Loyal
+306;65;2;725,18;0;16140;Pelanggan Loyal
+0;88;1;620,4;1;16141;Pelanggan Potensial
+0;249;1;535,34;2;16142;Pelanggan Yang Hilang
+366;3;6;2424,94;0;16143;Pelanggan Loyal
+0;246;1;175,2;2;16144;Pelanggan Yang Hilang
+351;8;11;3799,49;0;16145;Pelanggan Loyal
+75;157;3;734,13;1;16146;Pelanggan Potensial
+0;133;1;375;1;16147;Pelanggan Potensial
+0;296;1;76,32;2;16148;Pelanggan Yang Hilang
+138;4;2;280,52;1;16149;Pelanggan Potensial
+330;42;5;2053,02;0;16150;Pelanggan Loyal
+0;268;1;1829,04;2;16152;Pelanggan Yang Hilang
+305;49;5;1824,23;0;16153;Pelanggan Loyal
+302;8;9;3122,04;0;16156;Pelanggan Loyal
+57;15;3;656,69;1;16157;Pelanggan Potensial
+0;281;1;348,2;2;16159;Pelanggan Yang Hilang
+20;65;2;1025,44;1;16160;Pelanggan Potensial
+367;1;19;5575,56;0;16161;Pelanggan Loyal
+0;252;1;37,4;2;16162;Pelanggan Yang Hilang
+133;232;2;856,6;2;16163;Pelanggan Yang Hilang
+25;17;3;822,48;1;16164;Pelanggan Potensial
+359;10;27;3787,6;0;16168;Pelanggan Loyal
+67;8;4;1822,97;1;16169;Pelanggan Potensial
+198;50;6;1885,05;0;16170;Pelanggan Loyal
+0;59;1;73,2;1;16171;Pelanggan Potensial
+146;95;5;1140,21;1;16172;Pelanggan Potensial
+83;15;6;1418,32;1;16173;Pelanggan Potensial
+25;126;3;1009,55;1;16174;Pelanggan Potensial
+146;94;4;1037,59;1;16175;Pelanggan Potensial
+0;50;1;331,95;1;16177;Pelanggan Potensial
+0;138;1;197,9;1;16178;Pelanggan Potensial
+0;60;1;215,83;1;16179;Pelanggan Potensial
+152;100;8;10254,18;1;16180;Pelanggan Potensial
+0;73;1;305,54;1;16181;Pelanggan Potensial
+222;72;4;6617,65;0;16182;Pelanggan Loyal
+0;67;1;338,71;1;16183;Pelanggan Potensial
+147;64;6;1158,79;1;16184;Pelanggan Potensial
+216;16;2;529,41;0;16185;Pelanggan Loyal
+350;22;12;4006,94;0;16186;Pelanggan Loyal
+253;31;15;6911,44;0;16187;Pelanggan Loyal
+198;44;4;981,86;0;16188;Pelanggan Loyal
+70;15;2;215,48;1;16189;Pelanggan Potensial
+0;40;1;215,08;1;16190;Pelanggan Potensial
+358;2;13;5180,52;0;16191;Pelanggan Loyal
+0;236;1;314,45;2;16193;Pelanggan Yang Hilang
+0;75;1;400,681;1;16198;Pelanggan Potensial
+160;4;2;1080,62;0;16200;Pelanggan Loyal
+106;3;4;1863,47;1;16201;Pelanggan Potensial
+0;360;1;365,27;2;16202;Pelanggan Yang Hilang
+314;58;4;592,9;0;16203;Pelanggan Loyal
+0;23;1;405,71;1;16204;Pelanggan Potensial
+149;30;4;761,38;1;16205;Pelanggan Potensial
+273;54;4;537,06;0;16206;Pelanggan Loyal
+0;25;1;394,38;1;16207;Pelanggan Potensial
+245;44;2;664,26;0;16208;Pelanggan Loyal
+158;88;5;2262,62;1;16209;Pelanggan Potensial
+372;1;18;21086,3;0;16210;Pelanggan Loyal
+0;88;1;547,02;1;16211;Pelanggan Potensial
+264;19;2;690,34;0;16212;Pelanggan Loyal
+0;78;1;159;1;16213;Pelanggan Potensial
+99;170;3;1062,75;2;16214;Pelanggan Yang Hilang
+0;80;1;242,35;1;16215;Pelanggan Potensial
+0;267;1;914,93;2;16216;Pelanggan Yang Hilang
+47;235;2;304,25;2;16217;Pelanggan Yang Hilang
+344;29;7;3084,68;0;16218;Pelanggan Loyal
+331;36;3;864,86;0;16221;Pelanggan Loyal
+0;318;1;846,72;2;16222;Pelanggan Yang Hilang
+192;57;4;1295,3;0;16224;Pelanggan Loyal
+233;44;5;1096,32;0;16225;Pelanggan Loyal
+32;203;3;255,12;2;16226;Pelanggan Yang Hilang
+0;225;1;314,22;2;16227;Pelanggan Yang Hilang
+125;87;2;1010,6;1;16229;Pelanggan Potensial
+31;189;2;542,03;2;16230;Pelanggan Yang Hilang
+172;43;4;990,88;0;16232;Pelanggan Loyal
+295;71;3;536,68;0;16233;Pelanggan Loyal
+292;40;5;867,31;0;16235;Pelanggan Loyal
+0;78;1;432,2;1;16236;Pelanggan Potensial
+133;56;2;414,2;1;16239;Pelanggan Potensial
+53;24;2;3718,8;1;16240;Pelanggan Potensial
+360;9;13;2607,87;0;16241;Pelanggan Loyal
+269;8;7;3603,21;0;16242;Pelanggan Loyal
+21;33;2;409,1;1;16243;Pelanggan Potensial
+161;211;2;1522,75;2;16244;Pelanggan Yang Hilang
+233;23;3;1413,66;0;16245;Pelanggan Loyal
+0;170;1;114,56;2;16247;Pelanggan Yang Hilang
+0;61;1;152,94;1;16248;Pelanggan Potensial
+187;52;5;1800,07;0;16249;Pelanggan Loyal
+112;261;2;389,44;2;16250;Pelanggan Yang Hilang
+189;66;2;3683,86;0;16253;Pelanggan Loyal
+349;16;8;2619,91;0;16255;Pelanggan Loyal
+0;266;1;752,43;2;16256;Pelanggan Yang Hilang
+0;176;1;46,95;2;16257;Pelanggan Yang Hilang
+174;45;5;5203,51;0;16258;Pelanggan Loyal
+0;50;1;1035,45;1;16260;Pelanggan Potensial
+229;17;4;746,83;0;16261;Pelanggan Loyal
+355;9;9;5447;0;16265;Pelanggan Loyal
+133;73;7;861,89;1;16266;Pelanggan Potensial
+0;71;2;667,65;1;16268;Pelanggan Potensial
+0;353;1;1141,24;2;16270;Pelanggan Yang Hilang
+356;2;5;1429,24;0;16271;Pelanggan Loyal
+0;116;1;411,7;1;16272;Pelanggan Potensial
+0;373;1;357,95;2;16274;Pelanggan Yang Hilang
+0;196;1;559,87;2;16275;Pelanggan Yang Hilang
+0;176;1;810,6;2;16276;Pelanggan Yang Hilang
+0;100;1;566,38;1;16278;Pelanggan Potensial
+155;21;3;1509,58;1;16279;Pelanggan Potensial
+0;72;1;2062,06;1;16281;Pelanggan Potensial
+0;339;1;168,3;2;16282;Pelanggan Yang Hilang
+203;5;5;1570,81;0;16283;Pelanggan Loyal
+19;31;2;823,97;1;16284;Pelanggan Potensial
+0;169;1;142,5;2;16287;Pelanggan Yang Hilang
+0;121;1;302,25;1;16292;Pelanggan Potensial
+346;21;10;2248,99;0;16293;Pelanggan Loyal
+55;9;4;1328,55;1;16295;Pelanggan Potensial
+0;268;1;301,9;2;16297;Pelanggan Yang Hilang
+164;22;3;598,2;0;16298;Pelanggan Loyal
+0;126;1;233,22;1;16302;Pelanggan Potensial
+308;25;3;5360,63;0;16303;Pelanggan Loyal
+0;138;1;361,22;1;16305;Pelanggan Potensial
+154;213;6;632,27;2;16306;Pelanggan Yang Hilang
+224;37;4;2560;0;16308;Pelanggan Loyal
+134;106;2;706,57;1;16309;Pelanggan Potensial
+32;17;2;616,26;1;16311;Pelanggan Potensial
+46;3;2;274,15;1;16313;Pelanggan Potensial
+0;330;1;226,37;2;16315;Pelanggan Yang Hilang
+294;64;8;2938,91;0;16316;Pelanggan Loyal
+178;119;3;1341,65;0;16317;Pelanggan Loyal
+0;35;1;328,15;1;16318;Pelanggan Potensial
+0;217;1;404,4;2;16319;Pelanggan Yang Hilang
+41;172;2;1038,46;2;16320;Pelanggan Yang Hilang
+251;72;5;373,65;0;16321;Pelanggan Loyal
+35;1;2;326,75;1;16322;Pelanggan Potensial
+0;196;1;207,5;2;16323;Pelanggan Yang Hilang
+49;128;3;428,68;1;16324;Pelanggan Potensial
+199;46;3;594,24;0;16325;Pelanggan Loyal
+329;5;14;3110,96;0;16326;Pelanggan Loyal
+355;14;6;3844,22;0;16327;Pelanggan Loyal
+95;17;3;251,91;1;16330;Pelanggan Potensial
+277;28;7;1593,2;0;16332;Pelanggan Loyal
+302;7;22;26626,8;0;16333;Pelanggan Loyal
+0;36;1;151,05;1;16337;Pelanggan Potensial
+0;157;1;214,8;2;16338;Pelanggan Yang Hilang
+0;284;1;109,95;2;16339;Pelanggan Yang Hilang
+0;107;1;549,07;1;16340;Pelanggan Potensial
+177;24;4;1971,87;0;16341;Pelanggan Loyal
+104;75;4;322,41;1;16342;Pelanggan Potensial
+0;16;2;370,48;1;16343;Pelanggan Potensial
+0;158;1;101,1;2;16344;Pelanggan Yang Hilang
+0;44;1;575,41;1;16345;Pelanggan Potensial
+25;11;2;887,65;1;16347;Pelanggan Potensial
+208;32;7;1469,45;0;16348;Pelanggan Loyal
+0;290;1;53,5;2;16349;Pelanggan Yang Hilang
+312;21;4;1116,47;0;16350;Pelanggan Loyal
+0;332;1;153,9;2;16351;Pelanggan Yang Hilang
+20;17;2;494,44;1;16352;Pelanggan Potensial
+366;3;23;6675,71;0;16353;Pelanggan Loyal
+10;63;2;395,8;1;16354;Pelanggan Potensial
+80;197;3;211,77;2;16356;Pelanggan Yang Hilang
+180;33;3;658,88;0;16357;Pelanggan Loyal
+183;1;4;2027,5;0;16358;Pelanggan Loyal
+324;7;9;1750,92;0;16359;Pelanggan Loyal
+84;4;6;3512,53;1;16360;Pelanggan Potensial
+62;9;4;896,66;1;16361;Pelanggan Potensial
+59;32;5;734,77;1;16362;Pelanggan Potensial
+0;53;1;109,36;1;16363;Pelanggan Potensial
+126;11;2;707,04;1;16364;Pelanggan Potensial
+350;17;9;1540,42;0;16365;Pelanggan Loyal
+0;18;1;327,3;1;16366;Pelanggan Potensial
+325;37;2;804,49;0;16367;Pelanggan Loyal
+26;2;2;497,43;1;16368;Pelanggan Potensial
+178;18;3;1553,66;0;16369;Pelanggan Loyal
+143;82;4;1320,56;1;16370;Pelanggan Potensial
+0;33;2;367,93;1;16372;Pelanggan Potensial
+196;66;2;473,03;0;16374;Pelanggan Loyal
+9;8;2;987,01;1;16376;Pelanggan Potensial
+0;267;1;676,2;2;16377;Pelanggan Yang Hilang
+63;247;3;362,95;2;16378;Pelanggan Yang Hilang
+74;4;4;2157,4;1;16379;Pelanggan Potensial
+0;61;1;1780,59;1;16380;Pelanggan Potensial
+194;74;2;668,36;0;16383;Pelanggan Loyal
+174;89;2;584,5;0;16384;Pelanggan Loyal
+306;60;3;555,89;0;16385;Pelanggan Loyal
+225;28;2;317,2;0;16386;Pelanggan Loyal
+0;322;1;94,36;2;16387;Pelanggan Yang Hilang
+230;53;4;1382,07;0;16389;Pelanggan Loyal
+0;269;1;221,19;2;16392;Pelanggan Yang Hilang
+367;2;13;3046,21;0;16393;Pelanggan Loyal
+233;56;5;1555,34;0;16394;Pelanggan Loyal
+270;60;5;1486,9;0;16395;Pelanggan Loyal
+99;154;2;1705,8;1;16398;Pelanggan Potensial
+216;19;2;408,57;0;16399;Pelanggan Loyal
+0;94;1;303,93;1;16400;Pelanggan Potensial
+326;1;12;4098,32;0;16401;Pelanggan Loyal
+105;264;2;299,6;2;16402;Pelanggan Yang Hilang
+0;312;1;177,5;2;16403;Pelanggan Yang Hilang
+0;70;1;443,05;1;16404;Pelanggan Potensial
+8;302;2;167,25;2;16405;Pelanggan Yang Hilang
+0;18;1;163,07;1;16406;Pelanggan Potensial
+300;12;10;2126,93;0;16407;Pelanggan Loyal
+281;36;5;2028,88;0;16409;Pelanggan Loyal
+350;19;2;214,65;0;16411;Pelanggan Loyal
+0;53;1;151,83;1;16412;Pelanggan Potensial
+0;56;1;262,2;1;16413;Pelanggan Potensial
+259;21;2;126,25;0;16414;Pelanggan Loyal
+0;44;1;210,35;1;16415;Pelanggan Potensial
+30;26;3;1051,4;1;16416;Pelanggan Potensial
+182;44;3;675,27;0;16418;Pelanggan Loyal
+199;112;6;972,23;0;16419;Pelanggan Loyal
+352;17;51;34684,4;0;16422;Pelanggan Loyal
+0;24;1;346,12;1;16423;Pelanggan Potensial
+0;191;1;133,56;2;16424;Pelanggan Yang Hilang
+0;302;1;302,7;2;16425;Pelanggan Yang Hilang
+274;2;10;1908,25;0;16426;Pelanggan Loyal
+21;263;2;241,06;2;16427;Pelanggan Yang Hilang
+0;106;1;284,55;1;16429;Pelanggan Potensial
+0;57;1;300,85;1;16430;Pelanggan Potensial
+84;213;3;642,81;2;16431;Pelanggan Yang Hilang
+0;64;1;287,4;1;16432;Pelanggan Potensial
+0;28;1;184,26;1;16433;Pelanggan Potensial
+270;29;7;1522,25;0;16434;Pelanggan Loyal
+77;5;5;798,35;1;16438;Pelanggan Potensial
+207;7;5;3640,67;0;16440;Pelanggan Loyal
+224;67;2;381,2;0;16441;Pelanggan Loyal
+359;1;3;616,79;0;16442;Pelanggan Loyal
+218;46;4;654,67;0;16444;Pelanggan Loyal
+0;33;1;230,51;1;16445;Pelanggan Potensial
+205;0;2;168472,5;0;16446;Pelanggan Loyal
+0;135;1;259,01;1;16447;Pelanggan Potensial
+0;198;1;188,89;2;16448;Pelanggan Yang Hilang
+83;197;2;707,69;2;16449;Pelanggan Yang Hilang
+0;149;1;311,92;1;16450;Pelanggan Potensial
+0;87;1;266,97;1;16451;Pelanggan Potensial
+20;44;2;6,9;1;16454;Pelanggan Potensial
+308;63;7;1841,18;0;16455;Pelanggan Loyal
+274;99;5;2158,37;0;16456;Pelanggan Loyal
+0;218;1;208,36;2;16457;Pelanggan Yang Hilang
+358;2;18;3482,74;0;16458;Pelanggan Loyal
+53;28;3;814,72;1;16460;Pelanggan Potensial
+0;177;1;151,42;2;16461;Pelanggan Yang Hilang
+210;73;3;136;0;16462;Pelanggan Loyal
+183;21;4;1422,4;0;16463;Pelanggan Loyal
+123;19;3;1314,68;1;16464;Pelanggan Potensial
+259;33;7;1603,46;0;16466;Pelanggan Loyal
+0;74;1;74,9;1;16468;Pelanggan Potensial
+223;23;4;650,43;0;16469;Pelanggan Loyal
+307;51;4;762,39;0;16470;Pelanggan Loyal
+0;274;1;223,95;2;16471;Pelanggan Yang Hilang
+172;164;3;316,11;0;16473;Pelanggan Loyal
+138;7;7;1871,5;1;16474;Pelanggan Potensial
+185;88;4;544,3;0;16475;Pelanggan Loyal
+308;63;7;2494,46;0;16477;Pelanggan Loyal
+40;25;3;331;1;16478;Pelanggan Potensial
+0;10;2;300,83;1;16479;Pelanggan Potensial
+0;75;1;769,29;1;16480;Pelanggan Potensial
+0;15;1;220,62;1;16482;Pelanggan Potensial
+0;192;1;139,35;2;16483;Pelanggan Yang Hilang
+17;173;2;404,3;2;16484;Pelanggan Yang Hilang
+0;77;1;363,65;1;16485;Pelanggan Potensial
+115;33;3;498,8;1;16488;Pelanggan Potensial
+0;46;1;731,5;1;16491;Pelanggan Potensial
+250;79;4;1351,63;0;16493;Pelanggan Loyal
+0;296;1;826,53;2;16494;Pelanggan Yang Hilang
+273;3;3;684,41;0;16495;Pelanggan Loyal
+308;8;3;1599,52;0;16496;Pelanggan Loyal
+284;49;6;2965,69;0;16497;Pelanggan Loyal
+1;161;2;100,97;2;16498;Pelanggan Yang Hilang
+4;360;2;365,45;2;16499;Pelanggan Yang Hilang
+326;4;6;400,86;0;16500;Pelanggan Loyal
+254;106;4;1431,93;0;16503;Pelanggan Loyal
+0;25;1;484,38;1;16504;Pelanggan Potensial
+0;31;1;777,6;1;16505;Pelanggan Potensial
+21;19;2;90,3;1;16506;Pelanggan Potensial
+0;296;1;363,7;2;16509;Pelanggan Yang Hilang
+0;372;1;248,1;2;16510;Pelanggan Yang Hilang
+245;21;3;950,26;0;16511;Pelanggan Loyal
+39;4;4;874,59;1;16513;Pelanggan Potensial
+259;52;5;1627,13;0;16515;Pelanggan Loyal
+0;30;1;101,7;1;16516;Pelanggan Potensial
+0;277;1;162,7;2;16517;Pelanggan Yang Hilang
+223;61;2;484,32;0;16518;Pelanggan Loyal
+340;25;2;215,08;0;16519;Pelanggan Loyal
+179;186;3;1046,57;2;16520;Pelanggan Yang Hilang
+314;1;21;9418,47;0;16523;Pelanggan Loyal
+364;2;26;13027,45;0;16525;Pelanggan Loyal
+0;171;1;290,36;2;16526;Pelanggan Yang Hilang
+0;81;1;228,06;1;16527;Pelanggan Potensial
+0;3;1;244,41;1;16528;Pelanggan Potensial
+0;190;1;455,25;2;16529;Pelanggan Yang Hilang
+338;22;7;1244,59;0;16531;Pelanggan Loyal
+321;17;3;6748,8;0;16532;Pelanggan Loyal
+49;19;3;1095,56;1;16533;Pelanggan Potensial
+0;5;1;593,75;1;16535;Pelanggan Potensial
+0;110;1;548,97;1;16536;Pelanggan Potensial
+371;2;4;1388,81;0;16539;Pelanggan Loyal
+0;53;1;119,62;1;16542;Pelanggan Potensial
+0;164;1;339,3;2;16545;Pelanggan Yang Hilang
+82;290;2;787,15;2;16546;Pelanggan Yang Hilang
+324;10;10;4154,64;0;16549;Pelanggan Loyal
+260;108;5;2298,97;0;16550;Pelanggan Loyal
+241;95;3;922,12;0;16551;Pelanggan Loyal
+131;242;2;379,73;2;16552;Pelanggan Yang Hilang
+197;163;12;5719,82;0;16553;Pelanggan Loyal
+289;42;3;837,1;0;16554;Pelanggan Loyal
+74;35;2;285,89;1;16555;Pelanggan Potensial
+294;66;7;3313,79;0;16556;Pelanggan Loyal
+113;24;2;281,85;1;16557;Pelanggan Potensial
+366;0;20;8338,49;0;16558;Pelanggan Loyal
+332;26;2;841,41;0;16560;Pelanggan Loyal
+54;5;2;511,12;1;16561;Pelanggan Potensial
+0;53;1;1077,74;1;16563;Pelanggan Potensial
+0;364;1;173,7;2;16565;Pelanggan Yang Hilang
+277;15;5;614,66;0;16566;Pelanggan Loyal
+142;194;2;865,6;2;16567;Pelanggan Yang Hilang
+0;3;1;124,2;1;16569;Pelanggan Potensial
+296;15;10;3738,4;0;16570;Pelanggan Loyal
+255;26;3;1421,69;0;16571;Pelanggan Loyal
+148;127;3;1009,6;1;16572;Pelanggan Potensial
+206;84;2;663,61;0;16573;Pelanggan Loyal
+0;71;1;451,44;1;16574;Pelanggan Potensial
+0;182;1;105,84;2;16581;Pelanggan Yang Hilang
+0;113;1;313,62;1;16582;Pelanggan Potensial
+0;373;1;233,45;2;16583;Pelanggan Yang Hilang
+174;80;2;936,08;0;16584;Pelanggan Loyal
+0;248;1;463,95;2;16586;Pelanggan Yang Hilang
+0;232;1;225,15;2;16587;Pelanggan Yang Hilang
+90;71;3;459,24;1;16589;Pelanggan Potensial
+0;68;1;213,5;1;16591;Pelanggan Potensial
+283;4;16;4113,68;0;16592;Pelanggan Loyal
+277;50;3;330,03;0;16593;Pelanggan Loyal
+0;75;1;181,09;1;16594;Pelanggan Potensial
+0;61;1;360,16;1;16595;Pelanggan Potensial
+351;15;2;250,15;0;16596;Pelanggan Loyal
+0;4;1;90,04;1;16597;Pelanggan Potensial
+0;285;1;145,05;2;16598;Pelanggan Yang Hilang
+334;4;6;813,52;0;16600;Pelanggan Loyal
+0;40;1;244,8;1;16601;Pelanggan Potensial
+0;36;1;528,08;1;16602;Pelanggan Potensial
+17;74;2;482,47;1;16603;Pelanggan Potensial
+341;17;14;3347,71;0;16607;Pelanggan Loyal
+237;15;7;5493,46;0;16609;Pelanggan Loyal
+0;219;1;75,66;2;16610;Pelanggan Yang Hilang
+0;186;1;129,49;2;16611;Pelanggan Yang Hilang
+279;32;4;1187,66;0;16612;Pelanggan Loyal
+0;70;1;618,59;1;16613;Pelanggan Potensial
+0;182;1;506,19;2;16614;Pelanggan Yang Hilang
+142;15;2;500,42;1;16616;Pelanggan Potensial
+0;235;1;151,85;2;16617;Pelanggan Yang Hilang
+291;31;5;2647,59;0;16618;Pelanggan Loyal
+0;263;1;226,21;2;16619;Pelanggan Yang Hilang
+257;3;2;178,96;0;16620;Pelanggan Loyal
+226;51;4;813,48;0;16621;Pelanggan Loyal
+0;245;1;129,45;2;16623;Pelanggan Yang Hilang
+117;80;2;810,57;1;16624;Pelanggan Potensial
+0;274;1;333,08;2;16625;Pelanggan Yang Hilang
+266;0;17;4413,1;0;16626;Pelanggan Loyal
+0;79;1;322,8;1;16627;Pelanggan Potensial
+205;29;5;2188,05;0;16628;Pelanggan Loyal
+23;73;2;417,73;1;16629;Pelanggan Potensial
+217;17;6;2883,1;0;16633;Pelanggan Loyal
+150;222;2;217,9;2;16634;Pelanggan Yang Hilang
+193;32;4;1154,47;0;16637;Pelanggan Loyal
+346;22;10;1680,72;0;16638;Pelanggan Loyal
+204;31;3;1257,51;0;16639;Pelanggan Loyal
+0;105;1;231,1;1;16641;Pelanggan Potensial
+203;4;2;688,33;0;16642;Pelanggan Loyal
+0;245;1;487,51;2;16643;Pelanggan Yang Hilang
+35;177;2;833,78;2;16644;Pelanggan Yang Hilang
+35;169;2;214,06;2;16647;Pelanggan Yang Hilang
+0;42;1;290,66;1;16648;Pelanggan Potensial
+0;71;1;518,42;1;16650;Pelanggan Potensial
+215;58;7;6773,97;0;16652;Pelanggan Loyal
+55;16;2;1212,66;1;16653;Pelanggan Potensial
+227;141;4;601,27;0;16654;Pelanggan Loyal
+314;17;6;3794,52;0;16655;Pelanggan Loyal
+342;22;15;8625,8;0;16656;Pelanggan Loyal
+245;9;4;933,62;0;16657;Pelanggan Loyal
+0;368;1;123,24;2;16658;Pelanggan Yang Hilang
+0;189;1;39,12;2;16659;Pelanggan Yang Hilang
+303;16;4;1267,65;0;16660;Pelanggan Loyal
+0;362;1;135,4;2;16665;Pelanggan Yang Hilang
+0;19;1;118,98;1;16666;Pelanggan Potensial
+216;68;2;570,13;0;16667;Pelanggan Loyal
+269;15;6;306,72;0;16668;Pelanggan Loyal
+55;23;3;1374,87;1;16669;Pelanggan Potensial
+342;16;11;4095,9;0;16670;Pelanggan Loyal
+136;28;3;1692,27;1;16671;Pelanggan Potensial
+264;2;20;8134,94;0;16672;Pelanggan Loyal
+44;54;2;319,61;1;16674;Pelanggan Potensial
+304;33;4;1592,12;0;16676;Pelanggan Loyal
+280;2;12;3109,99;0;16678;Pelanggan Loyal
+0;366;1;129,75;2;16679;Pelanggan Yang Hilang
+0;43;1;183,7;1;16680;Pelanggan Potensial
+181;72;6;1770,34;0;16681;Pelanggan Loyal
+183;4;5;1028;0;16682;Pelanggan Loyal
+354;4;28;66653,56;0;16684;Pelanggan Loyal
+0;61;2;324,24;1;16685;Pelanggan Potensial
+308;47;7;3062,83;0;16686;Pelanggan Loyal
+59;1;4;1260,86;1;16688;Pelanggan Potensial
+7;75;2;422,6;1;16689;Pelanggan Potensial
+129;72;2;225,58;1;16690;Pelanggan Potensial
+33;256;2;1276;2;16692;Pelanggan Yang Hilang
+203;68;2;482,01;0;16693;Pelanggan Loyal
+113;135;4;657,9;1;16696;Pelanggan Potensial
+0;241;1;112,75;2;16697;Pelanggan Yang Hilang
+27;226;2;1998;2;16698;Pelanggan Yang Hilang
+358;8;13;5076,55;0;16700;Pelanggan Loyal
+353;8;13;5398,3;0;16701;Pelanggan Loyal
+358;0;20;14034,99;0;16705;Pelanggan Loyal
+77;37;3;531,35;1;16706;Pelanggan Potensial
+0;45;1;656,63;1;16708;Pelanggan Potensial
+197;84;5;3029,87;0;16709;Pelanggan Loyal
+349;19;10;2483,04;0;16710;Pelanggan Loyal
+354;3;5;1651,03;0;16711;Pelanggan Loyal
+267;9;11;3645,43;0;16712;Pelanggan Loyal
+348;18;15;6923,13;0;16713;Pelanggan Loyal
+99;218;3;1161,53;2;16714;Pelanggan Yang Hilang
+0;78;1;301,72;1;16715;Pelanggan Potensial
+45;266;2;901,2;2;16716;Pelanggan Yang Hilang
+343;23;6;3858,38;0;16717;Pelanggan Loyal
+0;369;1;623,75;2;16718;Pelanggan Yang Hilang
+354;14;7;1790,42;0;16719;Pelanggan Loyal
+0;26;1;155,24;1;16720;Pelanggan Potensial
+0;262;1;292,47;2;16721;Pelanggan Yang Hilang
+351;17;13;4730,81;0;16722;Pelanggan Loyal
+16;91;2;589,15;1;16723;Pelanggan Potensial
+69;302;7;781,02;2;16725;Pelanggan Yang Hilang
+335;26;5;1382,02;0;16726;Pelanggan Loyal
+0;364;1;272,82;2;16727;Pelanggan Yang Hilang
+218;46;4;1054,67;0;16728;Pelanggan Loyal
+203;38;21;7239,92;0;16729;Pelanggan Loyal
+267;52;3;743,11;0;16730;Pelanggan Loyal
+0;31;1;603,75;1;16732;Pelanggan Potensial
+62;52;3;650,51;1;16734;Pelanggan Potensial
+256;78;5;2300,56;0;16735;Pelanggan Loyal
+0;53;1;417,6;1;16737;Pelanggan Potensial
+0;297;1;3,75;2;16738;Pelanggan Yang Hilang
+0;176;1;323;2;16739;Pelanggan Yang Hilang
+0;46;1;464,9;1;16742;Pelanggan Potensial
+329;29;7;2238,09;0;16743;Pelanggan Loyal
+162;11;7;1304,76;0;16744;Pelanggan Loyal
+225;86;17;7194,3;0;16745;Pelanggan Loyal
+354;4;18;6697,66;0;16746;Pelanggan Loyal
+30;37;2;836,06;1;16747;Pelanggan Potensial
+317;17;5;1515,9;0;16748;Pelanggan Loyal
+188;44;5;623,93;0;16750;Pelanggan Loyal
+0;30;1;1764,72;1;16751;Pelanggan Potensial
+0;372;1;207,5;2;16752;Pelanggan Yang Hilang
+0;58;1;223,92;1;16753;Pelanggan Potensial
+0;372;1;2002,4;2;16754;Pelanggan Yang Hilang
+201;114;3;1496,83;0;16755;Pelanggan Loyal
+0;214;1;239,4;2;16756;Pelanggan Yang Hilang
+0;318;1;106,83;2;16757;Pelanggan Yang Hilang
+0;65;1;369,34;1;16758;Pelanggan Potensial
+23;7;3;789,79;1;16759;Pelanggan Potensial
+0;96;1;316,62;1;16761;Pelanggan Potensial
+125;19;3;1501,38;1;16762;Pelanggan Potensial
+0;198;1;611,85;2;16763;Pelanggan Yang Hilang
+140;3;13;2799,25;1;16764;Pelanggan Potensial
+0;294;1;34;2;16765;Pelanggan Yang Hilang
+0;273;2;1145,6;2;16766;Pelanggan Yang Hilang
+286;30;11;5580,6;0;16767;Pelanggan Loyal
+224;47;3;478,09;0;16768;Pelanggan Loyal
+0;260;1;380,39;2;16769;Pelanggan Yang Hilang
+315;57;5;770,1;0;16770;Pelanggan Loyal
+305;33;5;2246,81;0;16771;Pelanggan Loyal
+0;57;1;171,59;1;16773;Pelanggan Potensial
+111;67;4;661,52;1;16774;Pelanggan Potensial
+357;10;11;1695,66;0;16775;Pelanggan Loyal
+0;60;1;388,28;1;16776;Pelanggan Potensial
+177;80;2;226,35;0;16777;Pelanggan Loyal
+200;74;2;245,94;0;16778;Pelanggan Loyal
+364;2;22;10629,72;0;16779;Pelanggan Loyal
+159;100;2;425,19;1;16780;Pelanggan Potensial
+0;372;1;311,25;2;16781;Pelanggan Yang Hilang
+355;10;13;2279,9;0;16782;Pelanggan Loyal
+0;19;1;107,6;1;16784;Pelanggan Potensial
+131;123;2;597,48;1;16788;Pelanggan Potensial
+0;8;1;80,8;1;16789;Pelanggan Potensial
+34;3;6;1545,62;1;16790;Pelanggan Potensial
+303;29;7;1721,78;0;16791;Pelanggan Loyal
+0;282;2;110,38;2;16792;Pelanggan Yang Hilang
+0;57;1;243,84;1;16793;Pelanggan Potensial
+179;1;10;1222,71;0;16794;Pelanggan Loyal
+0;365;1;414,88;2;16795;Pelanggan Yang Hilang
+0;89;1;305,62;1;16796;Pelanggan Potensial
+0;11;1;1201,49;1;16800;Pelanggan Potensial
+110;163;4;1619,73;2;16801;Pelanggan Yang Hilang
+0;65;1;332,3;1;16803;Pelanggan Potensial
+247;23;3;536,99;0;16804;Pelanggan Loyal
+187;173;2;460,59;0;16805;Pelanggan Loyal
+136;103;4;801,49;1;16806;Pelanggan Potensial
+128;142;3;1121,59;1;16807;Pelanggan Potensial
+175;99;2;288,42;0;16808;Pelanggan Loyal
+239;23;5;914,69;0;16809;Pelanggan Loyal
+0;192;1;309,54;2;16810;Pelanggan Yang Hilang
+13;4;2;547,07;1;16811;Pelanggan Potensial
+0;360;1;479,35;2;16812;Pelanggan Yang Hilang
+196;8;10;1692,98;0;16813;Pelanggan Loyal
+355;14;21;6509,1;0;16814;Pelanggan Loyal
+255;103;4;417,06;0;16816;Pelanggan Loyal
+366;2;9;1604,75;0;16817;Pelanggan Loyal
+195;10;11;3349,57;0;16818;Pelanggan Loyal
+0;95;1;497,61;1;16820;Pelanggan Potensial
+0;227;1;358,38;2;16823;Pelanggan Yang Hilang
+149;15;2;460,64;1;16824;Pelanggan Potensial
+147;38;2;775,18;1;16825;Pelanggan Potensial
+0;51;1;341,7;1;16826;Pelanggan Potensial
+19;93;2;128,5;1;16828;Pelanggan Potensial
+0;156;1;197,22;2;16829;Pelanggan Yang Hilang
+0;38;1;325,91;1;16830;Pelanggan Potensial
+33;184;3;199,15;2;16832;Pelanggan Yang Hilang
+333;1;4;1106,53;0;16833;Pelanggan Loyal
+0;227;1;413,46;2;16834;Pelanggan Yang Hilang
+245;128;2;180,85;0;16835;Pelanggan Loyal
+77;39;2;251,87;1;16836;Pelanggan Potensial
+214;31;11;3170,98;0;16837;Pelanggan Loyal
+91;197;2;588,85;2;16838;Pelanggan Yang Hilang
+361;8;34;16594,35;0;16839;Pelanggan Loyal
+251;36;6;1869,82;0;16841;Pelanggan Loyal
+202;100;3;1264,19;0;16842;Pelanggan Loyal
+285;42;16;10196,57;0;16843;Pelanggan Loyal
+0;50;1;214,32;1;16846;Pelanggan Potensial
+0;43;1;193,44;1;16847;Pelanggan Potensial
+0;52;1;281,42;1;16848;Pelanggan Potensial
+0;186;1;124,57;2;16849;Pelanggan Yang Hilang
+0;333;1;332,41;2;16850;Pelanggan Yang Hilang
+47;4;3;342,45;1;16851;Pelanggan Potensial
+166;10;2;144,91;0;16852;Pelanggan Loyal
+20;23;2;328,4;1;16855;Pelanggan Potensial
+0;14;1;35,4;1;16856;Pelanggan Potensial
+0;368;1;375,69;2;16858;Pelanggan Yang Hilang
+117;144;2;747,81;1;16859;Pelanggan Potensial
+99;59;2;173,76;1;16861;Pelanggan Potensial
+335;31;2;502,8;0;16863;Pelanggan Loyal
+21;140;3;207,74;1;16866;Pelanggan Potensial
+153;22;4;825,42;1;16869;Pelanggan Potensial
+248;22;6;2812,34;0;16871;Pelanggan Loyal
+107;77;3;680,02;1;16872;Pelanggan Potensial
+360;4;6;7123,62;0;16873;Pelanggan Loyal
+272;67;5;2095,53;0;16875;Pelanggan Loyal
+196;12;6;853,72;0;16877;Pelanggan Loyal
+0;84;1;13,3;1;16878;Pelanggan Potensial
+159;30;7;1519,08;0;16880;Pelanggan Loyal
+0;66;1;432;1;16881;Pelanggan Potensial
+251;66;3;705,12;0;16882;Pelanggan Loyal
+184;187;2;276,73;2;16883;Pelanggan Yang Hilang
+0;37;2;429,84;1;16884;Pelanggan Potensial
+342;15;3;471,51;0;16885;Pelanggan Loyal
+0;35;1;194,88;1;16887;Pelanggan Potensial
+142;194;3;1578,67;2;16889;Pelanggan Yang Hilang
+370;1;5;809,7;0;16891;Pelanggan Loyal
+182;1;5;525,54;0;16892;Pelanggan Loyal
+0;366;1;145,93;2;16893;Pelanggan Yang Hilang
+0;64;1;219,14;1;16895;Pelanggan Potensial
+14;299;2;289,78;2;16897;Pelanggan Yang Hilang
+342;26;3;508,81;0;16898;Pelanggan Loyal
+353;7;6;1281,56;0;16899;Pelanggan Loyal
+47;16;3;887,11;1;16900;Pelanggan Potensial
+0;116;1;1706,88;1;16902;Pelanggan Potensial
+0;29;1;373,24;1;16903;Pelanggan Potensial
+363;4;16;3754,27;0;16904;Pelanggan Loyal
+366;5;7;3102,43;0;16905;Pelanggan Loyal
+167;81;4;579,77;0;16906;Pelanggan Loyal
+336;29;5;981,65;0;16907;Pelanggan Loyal
+0;72;1;379,14;1;16909;Pelanggan Potensial
+87;4;8;1510,06;1;16910;Pelanggan Potensial
+295;28;11;2575,38;0;16912;Pelanggan Loyal
+0;290;1;113,44;2;16913;Pelanggan Yang Hilang
+0;36;1;208,46;1;16914;Pelanggan Potensial
+274;9;6;621,68;0;16915;Pelanggan Loyal
+349;23;2;576,26;0;16916;Pelanggan Loyal
+0;276;1;391,52;2;16917;Pelanggan Yang Hilang
+268;49;6;1068,82;0;16918;Pelanggan Loyal
+212;156;11;2596,45;0;16919;Pelanggan Loyal
+0;61;1;169,79;1;16921;Pelanggan Potensial
+350;12;19;7247,61;0;16923;Pelanggan Loyal
+63;21;3;846,75;1;16924;Pelanggan Potensial
+0;371;1;230,25;2;16926;Pelanggan Yang Hilang
+246;115;3;543,05;0;16927;Pelanggan Loyal
+293;80;17;2847,6;0;16928;Pelanggan Loyal
+152;3;7;1295,39;1;16929;Pelanggan Potensial
+42;26;3;380,55;1;16930;Pelanggan Potensial
+364;5;21;4604,22;0;16931;Pelanggan Loyal
+0;53;1;161,94;1;16932;Pelanggan Potensial
+238;1;2;563,23;0;16933;Pelanggan Loyal
+0;54;2;950,93;1;16934;Pelanggan Potensial
+0;25;1;262,68;1;16936;Pelanggan Potensial
+300;8;4;2736,38;0;16938;Pelanggan Loyal
+237;52;3;3049,88;0;16940;Pelanggan Loyal
+215;12;9;1920,59;0;16942;Pelanggan Loyal
+107;211;3;816,73;2;16943;Pelanggan Yang Hilang
+337;21;19;4345,5;0;16945;Pelanggan Loyal
+0;235;1;406,48;2;16947;Pelanggan Yang Hilang
+187;138;3;435,02;0;16948;Pelanggan Loyal
+313;3;6;1286,27;0;16949;Pelanggan Loyal
+311;56;3;1178,56;0;16950;Pelanggan Loyal
+170;134;3;1277,75;0;16951;Pelanggan Loyal
+0;109;2;167,61;1;16952;Pelanggan Potensial
+0;30;1;20,8;1;16953;Pelanggan Potensial
+359;0;9;2085,08;0;16954;Pelanggan Loyal
+189;184;4;518,67;0;16955;Pelanggan Loyal
+0;17;1;308,74;1;16956;Pelanggan Potensial
+42;239;2;416,64;2;16957;Pelanggan Yang Hilang
+0;87;1;117,35;1;16959;Pelanggan Potensial
+214;38;3;507,05;0;16960;Pelanggan Loyal
+0;116;1;234,17;1;16961;Pelanggan Potensial
+0;187;1;110,55;2;16963;Pelanggan Yang Hilang
+0;226;1;201,19;2;16965;Pelanggan Yang Hilang
+232;8;7;2154,97;0;16966;Pelanggan Loyal
+0;189;1;319,02;2;16967;Pelanggan Yang Hilang
+103;4;2;439,43;1;16968;Pelanggan Potensial
+152;39;3;650,41;1;16969;Pelanggan Potensial
+0;38;1;357,21;1;16971;Pelanggan Potensial
+0;267;1;251,52;2;16976;Pelanggan Yang Hilang
+0;77;1;344,33;1;16978;Pelanggan Potensial
+294;3;6;1852;0;16979;Pelanggan Loyal
+36;255;2;1078,96;2;16980;Pelanggan Yang Hilang
+0;60;1;384,06;1;16982;Pelanggan Potensial
+357;12;7;1931,25;0;16983;Pelanggan Loyal
+42;88;2;4481,35;1;16984;Pelanggan Potensial
+341;17;10;5464,12;0;16985;Pelanggan Loyal
+1;29;2;1873,2;1;16986;Pelanggan Potensial
+202;3;7;1625,05;0;16987;Pelanggan Loyal
+0;5;1;126,12;1;16988;Pelanggan Potensial
+143;7;6;1133,25;1;16989;Pelanggan Potensial
+0;218;1;179;2;16990;Pelanggan Yang Hilang
+274;10;5;1614,31;0;16992;Pelanggan Loyal
+323;30;6;1456,96;0;16996;Pelanggan Loyal
+37;288;3;702;2;16997;Pelanggan Yang Hilang
+155;149;4;295;1;16998;Pelanggan Potensial
+51;23;2;484,82;1;16999;Pelanggan Potensial
+358;0;11;3989,57;0;17001;Pelanggan Loyal
+205;85;3;1493,73;0;17002;Pelanggan Loyal
+46;46;2;1412,94;1;17004;Pelanggan Potensial
+71;4;4;781,78;1;17006;Pelanggan Potensial
+307;50;6;889,93;0;17007;Pelanggan Loyal
+0;18;1;195,36;1;17010;Pelanggan Potensial
+0;30;1;270,9;1;17011;Pelanggan Potensial
+58;8;3;586,33;1;17014;Pelanggan Potensial
+157;28;3;1842,56;1;17015;Pelanggan Potensial
+370;2;20;8694,26;0;17017;Pelanggan Loyal
+285;40;2;920,1;0;17018;Pelanggan Loyal
+357;11;4;1272,61;0;17019;Pelanggan Loyal
+0;31;1;71;1;17022;Pelanggan Potensial
+112;45;3;95,85;1;17024;Pelanggan Potensial
+313;60;3;357,77;0;17025;Pelanggan Loyal
+184;185;2;154,83;2;17026;Pelanggan Yang Hilang
+239;78;6;890,29;0;17027;Pelanggan Loyal
+126;110;2;716;1;17029;Pelanggan Potensial
+0;63;1;146,87;1;17030;Pelanggan Potensial
+143;11;2;380,35;1;17031;Pelanggan Potensial
+273;86;3;1030,14;0;17033;Pelanggan Loyal
+271;16;3;745,52;0;17034;Pelanggan Loyal
+66;245;2;433,53;2;17035;Pelanggan Yang Hilang
+0;87;1;1267,32;1;17037;Pelanggan Potensial
+0;30;1;112,4;1;17038;Pelanggan Potensial
+0;137;1;449,73;1;17040;Pelanggan Potensial
+334;26;3;1081,57;0;17041;Pelanggan Loyal
+245;2;5;1044,38;0;17042;Pelanggan Loyal
+234;32;4;1735,18;0;17043;Pelanggan Loyal
+0;25;1;948,48;1;17044;Pelanggan Potensial
+134;113;3;339,44;1;17045;Pelanggan Potensial
+0;157;1;642,02;2;17046;Pelanggan Yang Hilang
+120;85;3;1100,9;1;17047;Pelanggan Potensial
+214;117;3;925,35;0;17048;Pelanggan Loyal
+273;2;9;5659,98;0;17049;Pelanggan Loyal
+203;96;6;3228,84;0;17050;Pelanggan Loyal
+0;194;1;247,14;2;17051;Pelanggan Yang Hilang
+0;28;1;413,75;1;17052;Pelanggan Potensial
+0;130;1;498,48;1;17053;Pelanggan Potensial
+217;28;5;1356,33;0;17054;Pelanggan Loyal
+158;81;3;1179,89;1;17058;Pelanggan Potensial
+340;29;5;3095,04;0;17059;Pelanggan Loyal
+0;266;1;234,24;2;17060;Pelanggan Yang Hilang
+159;73;11;5232,23;1;17061;Pelanggan Potensial
+56;313;4;538,37;2;17062;Pelanggan Yang Hilang
+268;21;7;1461,14;0;17063;Pelanggan Loyal
+269;58;3;859,35;0;17064;Pelanggan Loyal
+356;12;21;4552,14;0;17068;Pelanggan Loyal
+345;28;9;2709,7;0;17069;Pelanggan Loyal
+0;114;1;312,14;1;17070;Pelanggan Potensial
+281;28;9;2429,03;0;17071;Pelanggan Loyal
+92;17;4;1446,09;1;17073;Pelanggan Potensial
+300;17;4;834,12;0;17075;Pelanggan Loyal
+328;36;3;841,08;0;17076;Pelanggan Loyal
+0;36;2;378,2;1;17078;Pelanggan Potensial
+0;78;1;118,8;1;17079;Pelanggan Potensial
+247;22;2;287,62;0;17080;Pelanggan Loyal
+21;25;2;290,16;1;17081;Pelanggan Potensial
+285;33;2;2003,85;0;17082;Pelanggan Loyal
+194;109;3;1405,78;0;17083;Pelanggan Loyal
+0;35;2;2949,75;1;17084;Pelanggan Potensial
+239;123;5;1566,65;0;17085;Pelanggan Loyal
+56;7;6;2050,08;1;17086;Pelanggan Potensial
+225;28;4;1991,01;0;17088;Pelanggan Loyal
+350;4;7;2043,95;0;17090;Pelanggan Loyal
+365;2;9;3827,76;0;17091;Pelanggan Loyal
+227;50;4;1777,78;0;17092;Pelanggan Loyal
+0;322;1;302;2;17094;Pelanggan Yang Hilang
+312;22;3;1324,16;0;17095;Pelanggan Loyal
+246;15;4;1022,13;0;17096;Pelanggan Loyal
+363;2;8;954,42;0;17097;Pelanggan Loyal
+0;18;2;971,74;1;17100;Pelanggan Potensial
+168;10;4;1621,73;0;17101;Pelanggan Loyal
+0;261;1;25,5;2;17102;Pelanggan Yang Hilang
+147;159;2;665,78;1;17105;Pelanggan Potensial
+245;33;6;10815,43;0;17107;Pelanggan Loyal
+203;29;6;885,04;0;17109;Pelanggan Loyal
+0;165;1;163,3;2;17110;Pelanggan Yang Hilang
+0;47;1;248,61;1;17111;Pelanggan Potensial
+329;5;8;808,62;0;17114;Pelanggan Loyal
+225;8;3;837,5;0;17115;Pelanggan Loyal
+0;288;1;116,2;2;17117;Pelanggan Yang Hilang
+0;317;1;157,02;2;17118;Pelanggan Yang Hilang
+56;3;2;606,91;1;17119;Pelanggan Potensial
+0;233;1;307,46;2;17120;Pelanggan Yang Hilang
+0;119;1;138,32;1;17122;Pelanggan Potensial
+0;161;1;345,3;2;17123;Pelanggan Yang Hilang
+0;185;1;298,89;2;17124;Pelanggan Yang Hilang
+0;50;1;259,35;1;17125;Pelanggan Potensial
+210;152;5;1004,75;0;17126;Pelanggan Loyal
+0;334;1;157,09;2;17128;Pelanggan Yang Hilang
+70;5;5;2463,17;1;17131;Pelanggan Potensial
+251;15;7;4892,24;0;17133;Pelanggan Loyal
+158;106;2;425;1;17134;Pelanggan Potensial
+355;16;7;1139,73;0;17135;Pelanggan Loyal
+0;275;1;380,5;2;17138;Pelanggan Yang Hilang
+273;15;12;10668,47;0;17139;Pelanggan Loyal
+0;247;1;465,32;2;17140;Pelanggan Yang Hilang
+0;239;1;579;2;17142;Pelanggan Yang Hilang
+83;1;2;984,57;1;17144;Pelanggan Potensial
+253;105;3;749,78;0;17146;Pelanggan Loyal
+289;22;4;1714,59;0;17147;Pelanggan Loyal
+0;51;1;124,88;1;17148;Pelanggan Potensial
+69;194;3;1689,5;2;17152;Pelanggan Yang Hilang
+0;24;1;213,78;1;17153;Pelanggan Potensial
+0;75;1;329,34;1;17154;Pelanggan Potensial
+160;17;2;251,7;0;17155;Pelanggan Loyal
+169;7;2;319;0;17157;Pelanggan Loyal
+328;32;3;1266,97;0;17158;Pelanggan Loyal
+150;21;3;1538,88;1;17159;Pelanggan Potensial
+210;31;6;3518,03;0;17160;Pelanggan Loyal
+277;28;10;1715,46;0;17162;Pelanggan Loyal
+57;21;2;293,1;1;17163;Pelanggan Potensial
+241;32;7;2467,35;0;17164;Pelanggan Loyal
+0;284;1;158,68;2;17165;Pelanggan Yang Hilang
+165;38;2;206,34;0;17166;Pelanggan Loyal
+126;57;2;835,78;1;17169;Pelanggan Potensial
+0;289;1;224,91;2;17171;Pelanggan Yang Hilang
+0;78;1;317,76;1;17172;Pelanggan Potensial
+126;5;8;3766,6;1;17173;Pelanggan Potensial
+0;217;1;59,9;2;17174;Pelanggan Yang Hilang
+252;44;4;1443,69;0;17175;Pelanggan Loyal
+0;201;1;306,13;2;17176;Pelanggan Yang Hilang
+183;178;3;711,79;0;17179;Pelanggan Loyal
+260;56;4;796,03;0;17180;Pelanggan Loyal
+316;57;2;239,92;0;17181;Pelanggan Loyal
+98;7;6;3347,31;1;17183;Pelanggan Potensial
+14;46;2;144;1;17186;Pelanggan Potensial
+0;226;1;203,95;2;17187;Pelanggan Yang Hilang
+351;11;7;2474,23;0;17188;Pelanggan Loyal
+253;106;2;384,4;0;17189;Pelanggan Loyal
+149;58;2;444,74;1;17190;Pelanggan Potensial
+340;28;7;2095,13;0;17191;Pelanggan Loyal
+141;35;7;1699,3;1;17193;Pelanggan Potensial
+87;273;2;262,62;2;17194;Pelanggan Yang Hilang
+0;29;1;1013,01;1;17197;Pelanggan Potensial
+348;23;3;692,22;0;17198;Pelanggan Loyal
+0;53;1;342,63;1;17201;Pelanggan Potensial
+25;35;6;3563,85;1;17203;Pelanggan Potensial
+88;175;4;1564,56;2;17204;Pelanggan Yang Hilang
+0;53;1;384,08;1;17205;Pelanggan Potensial
+0;53;1;204,24;1;17206;Pelanggan Potensial
+343;26;8;2317,22;0;17211;Pelanggan Loyal
+0;253;1;226,85;2;17212;Pelanggan Yang Hilang
+326;40;7;2781,23;0;17213;Pelanggan Loyal
+299;60;6;1069,12;0;17214;Pelanggan Loyal
+0;234;1;113,5;2;17217;Pelanggan Yang Hilang
+364;4;10;1960,72;0;17218;Pelanggan Loyal
+0;31;1;114,23;1;17219;Pelanggan Potensial
+340;24;14;3198,25;0;17220;Pelanggan Loyal
+29;7;2;335,13;1;17221;Pelanggan Potensial
+0;65;1;354,15;1;17222;Pelanggan Potensial
+58;310;2;426,79;2;17223;Pelanggan Yang Hilang
+0;308;1;393,49;2;17226;Pelanggan Yang Hilang
+350;18;6;939,32;0;17227;Pelanggan Loyal
+357;15;8;1906,09;0;17228;Pelanggan Loyal
+46;96;2;318,76;1;17229;Pelanggan Potensial
+95;264;8;3638,41;2;17230;Pelanggan Yang Hilang
+349;12;10;3174,32;0;17231;Pelanggan Loyal
+12;2;2;421,52;1;17232;Pelanggan Potensial
+0;35;1;190,88;1;17233;Pelanggan Potensial
+0;182;1;149,89;2;17234;Pelanggan Yang Hilang
+347;25;2;550,06;0;17235;Pelanggan Loyal
+350;12;6;916,13;0;17236;Pelanggan Loyal
+11;11;2;314,69;1;17237;Pelanggan Potensial
+369;2;17;3744,65;0;17238;Pelanggan Loyal
+0;312;1;382,5;2;17239;Pelanggan Yang Hilang
+72;108;2;1135,04;1;17242;Pelanggan Potensial
+368;1;26;8676,85;0;17243;Pelanggan Loyal
+0;53;1;954,9;1;17244;Pelanggan Potensial
+0;204;1;171,45;2;17245;Pelanggan Yang Hilang
+0;15;1;282,19;1;17247;Pelanggan Potensial
+0;120;1;318,65;1;17248;Pelanggan Potensial
+258;3;2;384,52;0;17250;Pelanggan Loyal
+0;362;1;283,28;2;17251;Pelanggan Yang Hilang
+70;116;2;353,86;1;17252;Pelanggan Potensial
+0;18;1;178,26;1;17253;Pelanggan Potensial
+11;4;2;272,44;1;17254;Pelanggan Potensial
+259;40;2;298,41;0;17255;Pelanggan Loyal
+205;107;2;240;0;17256;Pelanggan Loyal
+220;148;2;603,37;0;17259;Pelanggan Loyal
+314;52;5;1253,36;0;17262;Pelanggan Loyal
+0;208;1;63,44;2;17263;Pelanggan Yang Hilang
+42;138;2;562,9;1;17265;Pelanggan Potensial
+145;2;3;310,64;1;17266;Pelanggan Potensial
+0;127;2;317,62;1;17267;Pelanggan Potensial
+138;107;4;763,64;1;17268;Pelanggan Potensial
+220;42;4;2148,63;0;17272;Pelanggan Loyal
+0;35;1;111,98;1;17274;Pelanggan Potensial
+95;227;2;1065,35;2;17277;Pelanggan Yang Hilang
+0;241;1;246,04;2;17278;Pelanggan Yang Hilang
+0;57;1;187,83;1;17279;Pelanggan Potensial
+169;130;3;1703,41;0;17282;Pelanggan Loyal
+276;60;6;1652,58;0;17284;Pelanggan Loyal
+0;21;1;153,92;1;17286;Pelanggan Potensial
+346;26;7;1064,11;0;17287;Pelanggan Loyal
+349;9;7;1419,73;0;17288;Pelanggan Loyal
+149;31;3;944,41;1;17289;Pelanggan Potensial
+13;3;2;525,24;1;17290;Pelanggan Potensial
+0;308;1;550,8;2;17291;Pelanggan Yang Hilang
+353;8;9;1875,11;0;17293;Pelanggan Loyal
+36;28;3;556,95;1;17295;Pelanggan Potensial
+0;17;1;131,78;1;17297;Pelanggan Potensial
+23;101;2;498,42;1;17298;Pelanggan Potensial
+162;11;4;669,11;0;17299;Pelanggan Loyal
+0;21;1;197,63;1;17301;Pelanggan Potensial
+291;14;5;1135,63;0;17302;Pelanggan Loyal
+0;361;1;250,04;2;17303;Pelanggan Yang Hilang
+343;10;19;8631,31;0;17306;Pelanggan Loyal
+0;95;1;82,75;1;17309;Pelanggan Potensial
+238;78;2;1384,85;0;17311;Pelanggan Loyal
+21;138;3;644,3;1;17312;Pelanggan Potensial
+0;31;1;2328,84;1;17313;Pelanggan Potensial
+288;24;8;2527,92;0;17314;Pelanggan Loyal
+356;1;38;6292,26;0;17315;Pelanggan Loyal
+43;46;3;2600,34;1;17317;Pelanggan Potensial
+268;100;3;1200,62;0;17320;Pelanggan Loyal
+59;8;2;700,86;1;17321;Pelanggan Potensial
+277;15;7;921,07;0;17323;Pelanggan Loyal
+349;17;4;990,23;0;17324;Pelanggan Loyal
+0;280;1;96,8;2;17325;Pelanggan Yang Hilang
+301;14;2;523,11;0;17329;Pelanggan Loyal
+45;22;2;363,9;1;17330;Pelanggan Potensial
+0;123;1;175,2;1;17331;Pelanggan Potensial
+0;85;1;494,25;1;17333;Pelanggan Potensial
+6;302;2;307,02;2;17334;Pelanggan Yang Hilang
+159;151;4;2027,87;1;17337;Pelanggan Potensial
+344;17;8;6643,93;0;17338;Pelanggan Loyal
+271;94;2;243,36;0;17339;Pelanggan Loyal
+337;29;11;12353,29;0;17340;Pelanggan Loyal
+210;156;3;781,36;0;17341;Pelanggan Loyal
+0;355;1;193,64;2;17343;Pelanggan Yang Hilang
+0;46;1;160,57;1;17344;Pelanggan Potensial
+181;15;4;537,74;0;17345;Pelanggan Loyal
+370;3;15;2676,56;0;17346;Pelanggan Loyal
+0;86;1;228,96;1;17347;Pelanggan Potensial
+283;14;5;1159,52;0;17348;Pelanggan Loyal
+0;179;1;110,75;2;17349;Pelanggan Yang Hilang
+43;8;4;1286,07;1;17350;Pelanggan Potensial
+237;36;3;587,15;0;17351;Pelanggan Loyal
+25;129;2;1740;1;17353;Pelanggan Potensial
+0;50;1;1393,06;1;17354;Pelanggan Potensial
+0;311;1;178,22;2;17356;Pelanggan Yang Hilang
+0;24;2;388,14;1;17357;Pelanggan Potensial
+52;303;2;365,85;2;17358;Pelanggan Yang Hilang
+0;11;1;127,86;1;17359;Pelanggan Potensial
+167;17;3;585,79;0;17360;Pelanggan Loyal
+242;49;3;488,2;0;17361;Pelanggan Loyal
+70;239;2;312,23;2;17362;Pelanggan Yang Hilang
+331;0;11;4481,18;0;17364;Pelanggan Loyal
+320;12;8;4801,56;0;17365;Pelanggan Loyal
+0;238;1;168,4;2;17367;Pelanggan Yang Hilang
+314;23;8;1912,67;0;17368;Pelanggan Loyal
+97;72;4;446,18;1;17370;Pelanggan Potensial
+344;17;3;423,89;0;17371;Pelanggan Loyal
+322;40;8;1342,68;0;17372;Pelanggan Loyal
+272;40;4;646,92;0;17373;Pelanggan Loyal
+63;218;2;495,77;2;17374;Pelanggan Yang Hilang
+162;199;3;400,1;2;17375;Pelanggan Yang Hilang
+241;70;2;203,2;0;17376;Pelanggan Loyal
+350;23;20;4100,92;0;17377;Pelanggan Loyal
+0;11;1;404,66;1;17379;Pelanggan Potensial
+364;8;29;20275,61;0;17381;Pelanggan Loyal
+0;65;1;65,4;1;17382;Pelanggan Potensial
+0;4;1;199,29;1;17383;Pelanggan Potensial
+200;19;2;336,4;0;17384;Pelanggan Loyal
+0;14;1;261,11;1;17385;Pelanggan Potensial
+158;7;6;2686,42;0;17386;Pelanggan Loyal
+14;19;2;784,11;1;17387;Pelanggan Potensial
+210;77;4;1259,56;0;17388;Pelanggan Loyal
+331;0;34;31833,68;0;17389;Pelanggan Loyal
+1;163;2;508,8;2;17391;Pelanggan Yang Hilang
+52;306;2;457,91;2;17392;Pelanggan Yang Hilang
+0;219;1;203,87;2;17394;Pelanggan Yang Hilang
+332;39;8;7330,8;0;17396;Pelanggan Loyal
+0;22;2;696,41;1;17397;Pelanggan Potensial
+141;114;3;653,38;1;17398;Pelanggan Potensial
+227;126;5;2129,96;0;17400;Pelanggan Loyal
+365;4;13;2633,85;0;17402;Pelanggan Loyal
+0;36;1;281,62;1;17403;Pelanggan Potensial
+356;4;15;31906,82;0;17404;Pelanggan Loyal
+149;1;3;1031,41;1;17405;Pelanggan Potensial
+33;333;3;2200,42;2;17406;Pelanggan Yang Hilang
+0;163;1;32,65;2;17408;Pelanggan Yang Hilang
+64;184;2;771,85;2;17409;Pelanggan Yang Hilang
+199;16;5;1214,72;0;17410;Pelanggan Loyal
+249;12;3;778,94;0;17411;Pelanggan Loyal
+370;2;7;1258,06;0;17412;Pelanggan Loyal
+141;43;2;778;1;17414;Pelanggan Potensial
+0;79;1;507,84;1;17415;Pelanggan Potensial
+252;29;7;6893,42;0;17416;Pelanggan Loyal
+281;42;2;463,46;0;17418;Pelanggan Loyal
+356;11;12;4226,57;0;17419;Pelanggan Loyal
+323;50;3;598,83;0;17420;Pelanggan Loyal
+280;16;6;1979,37;0;17422;Pelanggan Loyal
+171;46;2;698,41;0;17423;Pelanggan Loyal
+41;19;2;759,17;1;17425;Pelanggan Potensial
+274;8;6;5037,26;0;17426;Pelanggan Loyal
+0;71;1;100,8;1;17427;Pelanggan Potensial
+368;0;28;17256,85;0;17428;Pelanggan Loyal
+90;128;3;524,92;1;17429;Pelanggan Potensial
+333;32;2;265,76;0;17430;Pelanggan Loyal
+0;313;1;403,3;2;17431;Pelanggan Yang Hilang
+19;18;2;365,76;1;17432;Pelanggan Potensial
+0;88;1;303,16;1;17433;Pelanggan Potensial
+83;2;7;2373,82;1;17434;Pelanggan Potensial
+225;1;2;216,3;0;17436;Pelanggan Loyal
+0;253;1;388,45;2;17438;Pelanggan Yang Hilang
+91;156;3;186,42;1;17440;Pelanggan Potensial
+254;36;6;2248,56;0;17442;Pelanggan Loyal
+0;219;1;534,24;2;17443;Pelanggan Yang Hilang
+25;147;3;2940,04;1;17444;Pelanggan Potensial
+134;176;2;120,9;2;17446;Pelanggan Yang Hilang
+31;40;2;541,53;1;17447;Pelanggan Potensial
+357;2;7;2520,86;0;17449;Pelanggan Loyal
+359;8;46;194550,79;0;17450;Pelanggan Loyal
+104;1;7;1721,4;1;17451;Pelanggan Potensial
+47;17;2;486,72;1;17453;Pelanggan Potensial
+167;192;4;517,53;2;17454;Pelanggan Yang Hilang
+0;203;1;131,7;2;17455;Pelanggan Yang Hilang
+0;365;1;249,86;2;17456;Pelanggan Yang Hilang
+213;126;5;1737,7;0;17457;Pelanggan Loyal
+0;15;1;316,5;1;17458;Pelanggan Potensial
+17;43;2;657,3;1;17459;Pelanggan Potensial
+279;94;6;622,43;0;17460;Pelanggan Loyal
+7;22;3;757,46;1;17461;Pelanggan Potensial
+224;60;2;675,69;0;17462;Pelanggan Loyal
+297;16;5;1896,41;0;17463;Pelanggan Loyal
+0;158;1;289,96;2;17464;Pelanggan Yang Hilang
+68;10;2;763,28;1;17466;Pelanggan Potensial
+4;10;2;137;1;17468;Pelanggan Potensial
+188;16;5;1870,97;0;17469;Pelanggan Loyal
+323;44;5;1125,07;0;17470;Pelanggan Loyal
+108;191;3;710,29;2;17472;Pelanggan Yang Hilang
+0;79;1;194,37;1;17475;Pelanggan Potensial
+0;77;1;511,82;1;17480;Pelanggan Potensial
+90;3;4;1255,59;1;17481;Pelanggan Potensial
+118;65;3;414,04;1;17483;Pelanggan Potensial
+0;261;1;396,87;2;17486;Pelanggan Yang Hilang
+154;58;2;376,64;1;17489;Pelanggan Potensial
+176;0;7;2092,32;0;17490;Pelanggan Loyal
+366;1;10;3558,87;0;17491;Pelanggan Loyal
+0;248;1;374,57;2;17492;Pelanggan Yang Hilang
+31;7;2;497,56;1;17495;Pelanggan Potensial
+0;358;1;271,05;2;17496;Pelanggan Yang Hilang
+0;75;1;272,22;1;17498;Pelanggan Potensial
+0;289;1;622,88;2;17499;Pelanggan Yang Hilang
+12;17;3;1138;1;17500;Pelanggan Potensial
+0;220;2;288,6;2;17501;Pelanggan Yang Hilang
+20;9;4;689,1;1;17502;Pelanggan Potensial
+36;2;2;558,96;1;17503;Pelanggan Potensial
+116;206;9;2997,03;2;17504;Pelanggan Yang Hilang
+44;161;2;1145,84;2;17505;Pelanggan Yang Hilang
+0;75;1;302,2;1;17506;Pelanggan Potensial
+48;261;2;605,58;2;17507;Pelanggan Yang Hilang
+0;280;1;387,31;2;17508;Pelanggan Yang Hilang
+6;57;8;6115,14;1;17509;Pelanggan Potensial
+0;24;1;308,48;1;17510;Pelanggan Potensial
+371;2;31;91062,38;0;17511;Pelanggan Loyal
+273;28;10;2924,99;0;17512;Pelanggan Loyal
+0;72;1;513,2;1;17513;Pelanggan Potensial
+0;128;1;208,65;1;17514;Pelanggan Potensial
+287;31;4;639,02;0;17515;Pelanggan Loyal
+270;15;5;768,08;0;17516;Pelanggan Loyal
+0;308;1;153,94;2;17517;Pelanggan Yang Hilang
+351;17;6;1844,02;0;17519;Pelanggan Loyal
+0;53;1;546,81;1;17520;Pelanggan Potensial
+170;29;3;723,21;0;17521;Pelanggan Loyal
+217;1;5;1070,71;0;17522;Pelanggan Loyal
+8;11;4;652,74;1;17523;Pelanggan Potensial
+0;361;1;145;2;17524;Pelanggan Yang Hilang
+0;359;1;422,7;2;17525;Pelanggan Yang Hilang
+361;4;4;1195,9;0;17526;Pelanggan Loyal
+165;53;4;939,37;0;17527;Pelanggan Loyal
+70;1;8;3628,5;1;17528;Pelanggan Potensial
+364;1;10;2385;0;17530;Pelanggan Loyal
+0;190;1;296,7;2;17531;Pelanggan Yang Hilang
+0;53;1;223,36;1;17534;Pelanggan Potensial
+0;280;1;164,4;2;17535;Pelanggan Yang Hilang
+0;177;1;76,5;2;17536;Pelanggan Yang Hilang
+274;29;2;897,62;0;17537;Pelanggan Loyal
+0;25;1;98,42;1;17538;Pelanggan Potensial
+292;24;2;578,9;0;17540;Pelanggan Loyal
+0;269;1;170,75;2;17542;Pelanggan Yang Hilang
+0;43;3;645,96;1;17545;Pelanggan Potensial
+0;233;1;103,3;2;17548;Pelanggan Yang Hilang
+28;23;2;148,86;1;17549;Pelanggan Potensial
+46;197;3;267,16;2;17550;Pelanggan Yang Hilang
+0;359;1;306,84;2;17551;Pelanggan Yang Hilang
+312;60;4;930,41;0;17552;Pelanggan Loyal
+0;129;1;1487,6;1;17553;Pelanggan Potensial
+147;1;5;1952,45;1;17554;Pelanggan Potensial
+315;19;2;483,26;0;17555;Pelanggan Loyal
+0;205;1;157,9;2;17556;Pelanggan Yang Hilang
+67;14;3;541,46;1;17557;Pelanggan Potensial
+216;94;5;854,95;0;17560;Pelanggan Loyal
+0;19;1;167,62;1;17561;Pelanggan Potensial
+159;14;7;1122,38;0;17562;Pelanggan Loyal
+56;24;3;454,01;1;17564;Pelanggan Potensial
+17;8;2;901,21;1;17566;Pelanggan Potensial
+365;7;8;4331,48;0;17567;Pelanggan Loyal
+0;332;1;344,14;2;17569;Pelanggan Yang Hilang
+248;50;4;1498,51;0;17571;Pelanggan Loyal
+302;71;4;226,75;0;17572;Pelanggan Loyal
+64;29;3;380,6;1;17573;Pelanggan Potensial
+0;242;1;185,65;2;17574;Pelanggan Yang Hilang
+357;8;19;3622,68;0;17576;Pelanggan Loyal
+0;218;1;143,46;2;17578;Pelanggan Yang Hilang
+175;4;3;448,9;0;17579;Pelanggan Loyal
+106;252;3;215,72;2;17580;Pelanggan Yang Hilang
+372;0;25;11045,04;0;17581;Pelanggan Loyal
+0;236;1;175,27;2;17582;Pelanggan Yang Hilang
+120;7;2;1242,3;1;17584;Pelanggan Potensial
+229;109;4;1133,07;0;17585;Pelanggan Loyal
+132;100;3;1240,2;1;17588;Pelanggan Potensial
+180;60;4;2404,17;0;17589;Pelanggan Loyal
+38;2;3;1479,22;1;17590;Pelanggan Potensial
+294;73;7;2225,97;0;17591;Pelanggan Loyal
+349;3;5;3927,34;0;17593;Pelanggan Loyal
+169;85;2;993,18;0;17594;Pelanggan Loyal
+25;12;2;388,79;1;17595;Pelanggan Potensial
+345;23;7;2827,93;0;17596;Pelanggan Loyal
+0;213;1;2044,37;2;17597;Pelanggan Yang Hilang
+0;17;1;161,67;1;17600;Pelanggan Potensial
+0;239;1;116,01;2;17601;Pelanggan Yang Hilang
+322;2;6;5102,97;0;17602;Pelanggan Loyal
+0;78;1;394,72;1;17603;Pelanggan Potensial
+95;217;2;309,36;2;17604;Pelanggan Yang Hilang
+0;33;2;193,42;1;17608;Pelanggan Potensial
+287;40;5;1112,22;0;17609;Pelanggan Loyal
+354;7;15;3984,22;0;17611;Pelanggan Loyal
+244;53;6;2048,45;0;17612;Pelanggan Loyal
+283;22;14;4559,15;0;17613;Pelanggan Loyal
+0;57;1;390,07;1;17614;Pelanggan Potensial
+92;130;3;329,6;1;17615;Pelanggan Potensial
+194;173;3;571,2;0;17616;Pelanggan Loyal
+357;5;3;971,58;0;17618;Pelanggan Loyal
+0;312;1;218,52;2;17619;Pelanggan Yang Hilang
+0;59;1;81,44;1;17620;Pelanggan Potensial
+333;21;3;1379,9;0;17621;Pelanggan Loyal
+0;32;1;527,05;1;17623;Pelanggan Potensial
+204;14;2;843,48;0;17624;Pelanggan Loyal
+239;18;4;2047;0;17625;Pelanggan Loyal
+0;81;1;75,75;1;17628;Pelanggan Potensial
+354;5;8;1814,12;0;17629;Pelanggan Loyal
+63;169;2;503,6;2;17630;Pelanggan Yang Hilang
+231;1;3;528,33;0;17631;Pelanggan Loyal
+89;31;4;1324,84;1;17633;Pelanggan Potensial
+301;36;9;2361,97;0;17634;Pelanggan Loyal
+0;19;1;285,56;1;17636;Pelanggan Potensial
+84;31;2;547,06;1;17637;Pelanggan Potensial
+0;276;1;108,5;2;17639;Pelanggan Yang Hilang
+0;86;1;621,66;1;17640;Pelanggan Potensial
+57;119;2;712,29;1;17642;Pelanggan Potensial
+0;373;1;101,55;2;17643;Pelanggan Yang Hilang
+259;1;11;2895,64;0;17644;Pelanggan Loyal
+146;219;3;1008,39;2;17646;Pelanggan Yang Hilang
+0;65;1;133,06;1;17647;Pelanggan Potensial
+189;60;4;1797,5;0;17648;Pelanggan Loyal
+0;138;1;868,49;1;17649;Pelanggan Potensial
+0;21;1;166,08;1;17650;Pelanggan Potensial
+166;11;10;3945;0;17651;Pelanggan Loyal
+256;25;12;4867,72;0;17652;Pelanggan Loyal
+84;36;4;1207,56;1;17653;Pelanggan Potensial
+0;277;1;117,55;2;17654;Pelanggan Yang Hilang
+356;10;7;2638,94;0;17655;Pelanggan Loyal
+55;73;5;1674,69;1;17656;Pelanggan Potensial
+186;25;2;595,42;0;17658;Pelanggan Loyal
+355;17;12;2999,46;0;17659;Pelanggan Loyal
+0;141;1;196;1;17660;Pelanggan Potensial
+262;25;7;1802,91;0;17663;Pelanggan Loyal
+194;18;2;604,64;0;17664;Pelanggan Loyal
+62;3;2;728,16;1;17666;Pelanggan Potensial
+232;66;5;2055,51;0;17667;Pelanggan Loyal
+37;1;2;347,75;1;17668;Pelanggan Potensial
+207;42;7;3406,72;0;17669;Pelanggan Loyal
+0;227;1;205,7;2;17670;Pelanggan Yang Hilang
+350;15;4;1572,71;0;17671;Pelanggan Loyal
+259;50;2;3178,17;0;17672;Pelanggan Loyal
+319;1;6;1629,12;0;17673;Pelanggan Loyal
+294;74;2;551,04;0;17674;Pelanggan Loyal
+366;1;31;20374,28;0;17675;Pelanggan Loyal
+362;4;6;1387,68;0;17676;Pelanggan Loyal
+367;1;30;16363,23;0;17677;Pelanggan Loyal
+0;263;1;298,11;2;17678;Pelanggan Yang Hilang
+33;52;2;1992,11;1;17679;Pelanggan Potensial
+0;23;1;184,4;1;17680;Pelanggan Potensial
+358;10;6;2474,33;0;17682;Pelanggan Loyal
+0;43;1;239,41;1;17684;Pelanggan Potensial
+356;16;7;3191,53;0;17685;Pelanggan Loyal
+295;7;7;5739,46;0;17686;Pelanggan Loyal
+343;30;15;4757,95;0;17690;Pelanggan Loyal
+10;358;2;290,4;2;17691;Pelanggan Yang Hilang
+232;127;4;740,94;0;17692;Pelanggan Loyal
+0;137;1;200,47;1;17693;Pelanggan Potensial
+0;141;1;283,12;1;17694;Pelanggan Potensial
+40;131;2;765,34;1;17695;Pelanggan Potensial
+326;38;8;2285,71;0;17696;Pelanggan Loyal
+0;236;1;338,95;2;17697;Pelanggan Yang Hilang
+0;260;1;154,95;2;17698;Pelanggan Yang Hilang
+265;16;4;2534,64;0;17700;Pelanggan Loyal
+0;252;1;417,95;2;17701;Pelanggan Yang Hilang
+176;30;4;1824,37;0;17702;Pelanggan Loyal
+103;35;3;798,74;1;17703;Pelanggan Potensial
+71;168;2;885,19;2;17704;Pelanggan Yang Hilang
+298;3;9;1823,52;0;17705;Pelanggan Loyal
+362;4;17;10504,49;0;17706;Pelanggan Loyal
+151;185;2;152,4;2;17707;Pelanggan Yang Hilang
+137;187;2;267,08;2;17708;Pelanggan Yang Hilang
+0;169;1;137,45;2;17709;Pelanggan Yang Hilang
+279;10;2;385,1;0;17711;Pelanggan Loyal
+0;44;1;522,91;1;17712;Pelanggan Potensial
+0;320;1;153;2;17714;Pelanggan Yang Hilang
+0;200;1;326,4;2;17715;Pelanggan Yang Hilang
+245;22;11;5655,99;0;17716;Pelanggan Loyal
+0;232;1;139,35;2;17718;Pelanggan Yang Hilang
+218;37;15;5396,04;0;17719;Pelanggan Loyal
+341;26;4;1195,94;0;17720;Pelanggan Loyal
+270;96;4;2424,04;0;17722;Pelanggan Loyal
+87;127;6;3276,4;1;17723;Pelanggan Potensial
+67;71;3;1033;1;17724;Pelanggan Potensial
+251;16;11;3439,08;0;17725;Pelanggan Loyal
+0;15;1;1060,25;1;17727;Pelanggan Potensial
+83;3;3;2876,01;1;17728;Pelanggan Potensial
+323;3;13;5298,48;0;17730;Pelanggan Loyal
+104;79;4;1240,11;1;17731;Pelanggan Potensial
+0;372;1;303,97;2;17732;Pelanggan Yang Hilang
+223;38;2;692,19;0;17733;Pelanggan Loyal
+180;53;3;700,63;0;17734;Pelanggan Loyal
+365;2;19;13110,02;0;17735;Pelanggan Loyal
+104;9;3;377,44;1;17736;Pelanggan Potensial
+49;9;2;168,24;1;17737;Pelanggan Potensial
+263;19;4;1879,05;0;17738;Pelanggan Loyal
+349;11;7;2791,35;0;17739;Pelanggan Loyal
+219;113;2;355,11;0;17742;Pelanggan Loyal
+355;3;6;2322,4;0;17744;Pelanggan Loyal
+0;240;1;110,25;2;17746;Pelanggan Yang Hilang
+0;112;1;71,4;1;17747;Pelanggan Potensial
+78;178;2;674,52;2;17749;Pelanggan Yang Hilang
+159;5;9;1797,57;0;17750;Pelanggan Loyal
+0;359;1;80,64;2;17752;Pelanggan Yang Hilang
+260;0;5;1772,26;0;17754;Pelanggan Loyal
+371;1;30;5605,29;0;17757;Pelanggan Loyal
+231;19;8;3456,7;0;17758;Pelanggan Loyal
+152;17;3;834,99;1;17759;Pelanggan Potensial
+352;21;2;287,59;0;17760;Pelanggan Loyal
+0;32;1;712,78;1;17761;Pelanggan Potensial
+0;263;1;15;2;17763;Pelanggan Yang Hilang
+161;50;2;818,82;0;17764;Pelanggan Loyal
+98;158;3;371,88;1;17765;Pelanggan Potensial
+0;15;1;271,2;1;17767;Pelanggan Potensial
+158;8;3;2273,18;0;17768;Pelanggan Loyal
+308;12;10;3997,98;0;17769;Pelanggan Loyal
+84;198;5;1143,27;2;17770;Pelanggan Yang Hilang
+267;56;2;245,81;0;17771;Pelanggan Loyal
+0;10;2;182,77;1;17772;Pelanggan Potensial
+209;96;4;1225,41;0;17774;Pelanggan Loyal
+0;254;1;56,4;2;17775;Pelanggan Yang Hilang
+76;24;3;665,86;1;17777;Pelanggan Potensial
+122;21;3;658,57;1;17779;Pelanggan Potensial
+94;159;2;188,02;1;17781;Pelanggan Potensial
+175;72;2;283,47;0;17783;Pelanggan Loyal
+0;53;1;131,94;1;17785;Pelanggan Potensial
+232;85;2;278,74;0;17786;Pelanggan Loyal
+219;152;4;1865,19;0;17787;Pelanggan Loyal
+56;73;2;1117,9;1;17788;Pelanggan Potensial
+0;281;1;225,9;2;17789;Pelanggan Yang Hilang
+338;26;14;1965,55;0;17790;Pelanggan Loyal
+0;29;1;106,1;1;17791;Pelanggan Potensial
+0;25;1;323,04;1;17793;Pelanggan Potensial
+85;179;2;350,39;2;17795;Pelanggan Yang Hilang
+329;40;4;697,9;0;17796;Pelanggan Loyal
+160;22;3;780,43;0;17797;Pelanggan Loyal
+339;22;10;3055,93;0;17799;Pelanggan Loyal
+297;37;9;1199,01;0;17800;Pelanggan Loyal
+290;82;3;1285,04;0;17802;Pelanggan Loyal
+0;73;1;512,31;1;17805;Pelanggan Potensial
+0;11;1;546,04;1;17806;Pelanggan Potensial
+357;16;12;5411,91;0;17809;Pelanggan Loyal
+329;4;39;7837,73;0;17811;Pelanggan Loyal
+356;12;4;732,16;0;17812;Pelanggan Loyal
+57;14;5;1770,88;1;17813;Pelanggan Potensial
+329;36;4;36,56;0;17816;Pelanggan Loyal
+273;4;3;387,68;0;17817;Pelanggan Loyal
+300;71;7;3704,87;0;17819;Pelanggan Loyal
+0;51;1;298,4;1;17824;Pelanggan Potensial
+359;5;5;1995,46;0;17827;Pelanggan Loyal
+162;22;4;1820,09;0;17828;Pelanggan Loyal
+0;298;1;889,24;2;17829;Pelanggan Yang Hilang
+287;1;3;398,7;0;17830;Pelanggan Loyal
+0;33;1;35,4;1;17831;Pelanggan Potensial
+0;49;1;155,37;1;17832;Pelanggan Potensial
+21;2;3;350,64;1;17835;Pelanggan Potensial
+0;47;1;110,21;1;17836;Pelanggan Potensial
+121;42;8;1593,38;1;17837;Pelanggan Potensial
+346;26;5;2779,3;0;17838;Pelanggan Loyal
+0;42;1;338,8;1;17839;Pelanggan Potensial
+372;1;124;40991,57;0;17841;Pelanggan Loyal
+0;303;1;205,48;2;17843;Pelanggan Yang Hilang
+0;106;1;51,56;1;17844;Pelanggan Potensial
+0;85;1;2033,1;1;17846;Pelanggan Potensial
+277;81;9;901,2;0;17848;Pelanggan Loyal
+115;218;4;605,8;2;17849;Pelanggan Yang Hilang
+1;372;34;5391,21;2;17850;Pelanggan Yang Hilang
+0;11;2;114,34;1;17852;Pelanggan Potensial
+42;185;2;311,26;2;17854;Pelanggan Yang Hilang
+0;372;1;208,97;2;17855;Pelanggan Yang Hilang
+280;1;4;1418,03;0;17856;Pelanggan Loyal
+361;4;23;26879,04;0;17857;Pelanggan Loyal
+364;5;12;5155,66;0;17858;Pelanggan Loyal
+0;304;1;148,21;2;17859;Pelanggan Yang Hilang
+0;368;1;252,8;2;17860;Pelanggan Yang Hilang
+316;3;8;2100,8;0;17861;Pelanggan Loyal
+0;323;1;330,9;2;17862;Pelanggan Yang Hilang
+310;59;6;3160;0;17863;Pelanggan Loyal
+263;12;3;597,5;0;17864;Pelanggan Loyal
+334;30;20;10526,32;0;17865;Pelanggan Loyal
+0;142;1;329,65;1;17866;Pelanggan Potensial
+258;30;6;1197,1;0;17867;Pelanggan Loyal
+261;107;5;428,18;0;17869;Pelanggan Loyal
+364;2;12;1894,35;0;17870;Pelanggan Loyal
+0;204;1;155,9;2;17871;Pelanggan Yang Hilang
+293;80;5;1859,16;0;17873;Pelanggan Loyal
+70;185;6;683,46;2;17874;Pelanggan Yang Hilang
+0;170;1;237,61;2;17877;Pelanggan Yang Hilang
+0;43;1;379,45;1;17878;Pelanggan Potensial
+0;173;1;178,52;2;17879;Pelanggan Yang Hilang
+0;364;1;458,92;2;17880;Pelanggan Yang Hilang
+0;304;1;133,35;2;17881;Pelanggan Yang Hilang
+243;3;4;671,77;0;17883;Pelanggan Loyal
+368;3;4;717,45;0;17884;Pelanggan Loyal
+0;12;1;190,19;1;17885;Pelanggan Potensial
+218;31;3;899,61;0;17886;Pelanggan Loyal
+0;129;1;111,35;1;17887;Pelanggan Potensial
+336;21;8;726,05;0;17888;Pelanggan Loyal
+110;212;2;203,87;2;17889;Pelanggan Yang Hilang
+39;322;2;602,09;2;17890;Pelanggan Yang Hilang
+0;162;1;203,86;2;17891;Pelanggan Yang Hilang
+99;56;3;244,1;1;17892;Pelanggan Potensial
+0;225;1;112,25;2;17893;Pelanggan Yang Hilang
+295;71;8;1119,81;0;17894;Pelanggan Loyal
+0;44;1;98;1;17895;Pelanggan Potensial
+0;23;1;256,32;1;17896;Pelanggan Potensial
+201;172;3;566,6;0;17897;Pelanggan Loyal
+122;85;2;152,06;1;17898;Pelanggan Potensial
+0;159;1;155,8;2;17899;Pelanggan Yang Hilang
+0;190;2;112,2;2;17900;Pelanggan Yang Hilang
+0;29;1;110,38;1;17901;Pelanggan Potensial
+0;21;1;191,67;1;17904;Pelanggan Potensial
+302;71;4;800,24;0;17905;Pelanggan Loyal
+0;247;1;72,9;2;17906;Pelanggan Yang Hilang
+0;373;1;243,28;2;17908;Pelanggan Yang Hilang
+0;9;1;366,23;1;17911;Pelanggan Potensial
+54;310;5;311,01;2;17912;Pelanggan Yang Hilang
+297;58;2;411,6;0;17913;Pelanggan Loyal
+0;3;1;336,43;1;17914;Pelanggan Potensial
+317;45;3;341,28;0;17917;Pelanggan Loyal
+0;88;1;1304,04;1;17919;Pelanggan Potensial
+369;4;17;4204,1;0;17920;Pelanggan Loyal
+202;64;4;826,52;0;17921;Pelanggan Loyal
+0;282;1;207,5;2;17923;Pelanggan Yang Hilang
+362;11;7;2962,5;0;17924;Pelanggan Loyal
+0;372;1;244,08;2;17925;Pelanggan Yang Hilang
+70;133;2;397,29;1;17926;Pelanggan Potensial
+201;45;2;212,54;0;17928;Pelanggan Loyal
+297;11;4;843;0;17929;Pelanggan Loyal
+204;35;5;1740,48;0;17930;Pelanggan Loyal
+121;134;2;408,36;1;17931;Pelanggan Potensial
+182;29;3;1331,57;0;17932;Pelanggan Loyal
+7;51;2;704,25;1;17934;Pelanggan Potensial
+3;138;2;145,79;1;17935;Pelanggan Potensial
+0;5;1;389,84;1;17936;Pelanggan Potensial
+354;8;7;4301,22;0;17937;Pelanggan Loyal
+0;159;1;99,14;2;17939;Pelanggan Yang Hilang
+253;49;10;4106,44;0;17940;Pelanggan Loyal
+0;130;1;304,56;1;17941;Pelanggan Potensial
+0;7;1;77,5;1;17942;Pelanggan Potensial
+26;233;2;149,58;2;17946;Pelanggan Yang Hilang
+0;37;1;176,68;1;17947;Pelanggan Potensial
+0;147;1;358,56;1;17948;Pelanggan Potensial
+370;1;45;58510,48;0;17949;Pelanggan Loyal
+293;72;3;482,2;0;17950;Pelanggan Loyal
+334;39;3;1008,54;0;17951;Pelanggan Loyal
+366;5;12;2332,72;0;17954;Pelanggan Loyal
+21;198;4;557,3;2;17955;Pelanggan Yang Hilang
+0;249;1;12,75;2;17956;Pelanggan Yang Hilang
+0;66;1;111,68;1;17957;Pelanggan Potensial
+0;116;1;508,46;1;17958;Pelanggan Potensial
+0;171;1;73,78;2;17960;Pelanggan Yang Hilang
+351;21;39;1296,44;0;17961;Pelanggan Loyal
+0;142;1;102,83;1;17962;Pelanggan Potensial
+341;31;2;471,7;0;17964;Pelanggan Loyal
+332;37;14;2622,57;0;17965;Pelanggan Loyal
+224;37;5;1098,43;0;17966;Pelanggan Loyal
+0;371;1;123,07;2;17967;Pelanggan Yang Hilang
+0;373;1;277,35;2;17968;Pelanggan Yang Hilang
+195;166;2;228,2;0;17969;Pelanggan Loyal
+0;211;1;582,59;2;17970;Pelanggan Yang Hilang
+0;241;1;136,04;2;17972;Pelanggan Yang Hilang
+0;51;1;337,04;1;17973;Pelanggan Potensial
+195;24;3;740,79;0;17974;Pelanggan Loyal
+351;15;13;4488,81;0;17975;Pelanggan Loyal
+0;372;1;353,19;2;17976;Pelanggan Yang Hilang
+0;29;1;288,14;1;17977;Pelanggan Potensial
+0;365;1;300,92;2;17978;Pelanggan Yang Hilang
+224;35;4;757,71;0;17979;Pelanggan Loyal
+194;165;3;811,45;0;17980;Pelanggan Loyal
+0;145;1;152,68;1;17984;Pelanggan Potensial
+0;22;1;634,95;1;17985;Pelanggan Potensial
+0;56;1;20,8;1;17986;Pelanggan Potensial
+0;185;1;198,57;2;17987;Pelanggan Yang Hilang
+315;11;7;201,12;0;17988;Pelanggan Loyal
+125;236;3;630,84;2;17990;Pelanggan Yang Hilang
+1;225;2;93,35;2;17991;Pelanggan Yang Hilang
+169;121;4;678,49;0;17994;Pelanggan Loyal
+0;281;1;76,1;2;17995;Pelanggan Yang Hilang
+90;74;8;1970,67;1;17997;Pelanggan Potensial
+329;37;2;382,06;0;17999;Pelanggan Loyal
+74;12;2;417,23;1;18001;Pelanggan Potensial
+0;362;1;169,47;2;18004;Pelanggan Yang Hilang
+44;3;2;249,72;1;18005;Pelanggan Potensial
+0;23;1;444,68;1;18006;Pelanggan Potensial
+248;70;9;2116,19;0;18008;Pelanggan Loyal
+0;235;1;257,34;2;18009;Pelanggan Yang Hilang
+0;256;1;174,8;2;18010;Pelanggan Yang Hilang
+0;373;1;102,79;2;18011;Pelanggan Yang Hilang
+0;155;2;187,29;2;18013;Pelanggan Yang Hilang
+0;28;1;166,42;1;18014;Pelanggan Potensial
+0;4;1;120,03;1;18015;Pelanggan Potensial
+332;32;5;1483,56;0;18016;Pelanggan Loyal
+229;81;3;523;0;18017;Pelanggan Loyal
+91;108;2;122,14;1;18018;Pelanggan Potensial
+0;51;1;38,45;1;18019;Pelanggan Potensial
+0;35;1;668,11;1;18022;Pelanggan Potensial
+0;152;2;389,78;1;18024;Pelanggan Potensial
+0;98;1;115,31;1;18027;Pelanggan Potensial
+38;4;2;230,65;1;18030;Pelanggan Potensial
+0;334;1;73,5;2;18032;Pelanggan Yang Hilang
+0;65;1;97,97;1;18033;Pelanggan Potensial
+0;21;2;422,88;1;18034;Pelanggan Potensial
+8;35;3;730,4;1;18035;Pelanggan Potensial
+213;32;3;405,62;0;18036;Pelanggan Loyal
+208;154;6;70,02;0;18037;Pelanggan Loyal
+226;19;2;357,2;0;18040;Pelanggan Loyal
+361;11;21;4183,39;0;18041;Pelanggan Loyal
+0;53;1;165,05;1;18042;Pelanggan Potensial
+342;24;3;559,51;0;18043;Pelanggan Loyal
+356;4;10;2088,6;0;18044;Pelanggan Loyal
+0;45;1;189,4;1;18045;Pelanggan Potensial
+0;203;2;172,29;2;18048;Pelanggan Yang Hilang
+0;359;1;74,4;2;18050;Pelanggan Yang Hilang
+0;70;1;300,02;1;18053;Pelanggan Potensial
+362;7;10;6784,19;0;18055;Pelanggan Loyal
+0;288;1;363,65;2;18056;Pelanggan Yang Hilang
+0;9;1;170,16;1;18058;Pelanggan Potensial
+44;23;3;306,46;1;18059;Pelanggan Potensial
+345;21;10;2119,41;0;18061;Pelanggan Loyal
+164;173;3;720,52;2;18062;Pelanggan Yang Hilang
+102;133;2;814;1;18064;Pelanggan Potensial
+359;5;14;2392,83;0;18065;Pelanggan Loyal
+0;75;1;318;1;18066;Pelanggan Potensial
+0;40;1;396,33;1;18067;Pelanggan Potensial
+0;289;1;101,7;2;18068;Pelanggan Yang Hilang
+301;26;5;2036,67;0;18069;Pelanggan Loyal
+108;257;2;453;2;18071;Pelanggan Yang Hilang
+0;185;1;247,44;2;18072;Pelanggan Yang Hilang
+83;114;12;3877,52;1;18073;Pelanggan Potensial
+0;373;1;489,6;2;18074;Pelanggan Yang Hilang
+337;23;10;2611,75;0;18075;Pelanggan Loyal
+358;8;11;2633,01;0;18077;Pelanggan Loyal
+42;217;2;336,13;2;18078;Pelanggan Yang Hilang
+193;45;4;3651,97;0;18079;Pelanggan Loyal
+224;18;2;1231,5;0;18080;Pelanggan Loyal
+97;36;3;343,45;1;18081;Pelanggan Potensial
+0;25;1;703,37;1;18082;Pelanggan Potensial
+0;16;1;90,48;1;18084;Pelanggan Potensial
+43;330;2;689,95;2;18085;Pelanggan Yang Hilang
+0;274;1;101,34;2;18086;Pelanggan Yang Hilang
+192;98;2;4055,72;0;18087;Pelanggan Loyal
+0;61;1;167,67;1;18088;Pelanggan Potensial
+363;2;11;9068,26;0;18092;Pelanggan Loyal
+209;93;4;2106,52;0;18093;Pelanggan Loyal
+210;81;7;3017,3;0;18094;Pelanggan Loyal
+20;312;2;580,05;2;18095;Pelanggan Yang Hilang
+52;11;3;911,15;1;18096;Pelanggan Potensial
+347;7;6;2697,8;0;18097;Pelanggan Loyal
+0;127;1;168,31;1;18099;Pelanggan Potensial
+132;11;2;223,65;1;18101;Pelanggan Potensial
+367;0;60;259657,3;0;18102;Pelanggan Loyal
+0;37;1;754,64;1;18104;Pelanggan Potensial
+0;37;1;113,48;1;18105;Pelanggan Potensial
+0;329;1;430,7;2;18106;Pelanggan Yang Hilang
+0;254;1;271;2;18108;Pelanggan Yang Hilang
+368;1;26;8052,97;0;18109;Pelanggan Loyal
+0;19;1;236,3;1;18110;Pelanggan Potensial
+154;12;2;352,69;1;18112;Pelanggan Potensial
+0;368;1;76,32;2;18113;Pelanggan Yang Hilang
+0;290;1;220,1;2;18114;Pelanggan Yang Hilang
+297;67;8;1418,03;0;18116;Pelanggan Loyal
+0;25;1;320,72;1;18117;Pelanggan Potensial
+359;10;26;5653,82;0;18118;Pelanggan Loyal
+0;367;1;181,12;2;18119;Pelanggan Yang Hilang
+0;214;1;111,15;2;18120;Pelanggan Yang Hilang
+5;149;2;673,1;1;18121;Pelanggan Potensial
+142;8;6;1826,21;1;18122;Pelanggan Potensial
+7;24;2;589,44;1;18123;Pelanggan Potensial
+287;29;4;1142,99;0;18125;Pelanggan Loyal
+0;60;1;206,83;1;18126;Pelanggan Potensial
+114;19;3;348,73;1;18127;Pelanggan Potensial
+0;243;1;112,55;2;18129;Pelanggan Yang Hilang
+42;15;3;1059,39;1;18130;Pelanggan Potensial
+0;212;1;931,5;2;18133;Pelanggan Yang Hilang
+161;29;5;681,91;0;18135;Pelanggan Loyal
+256;63;3;784,33;0;18136;Pelanggan Loyal
+0;295;1;152,65;2;18138;Pelanggan Yang Hilang
+1;17;6;8438,34;1;18139;Pelanggan Potensial
+58;157;2;1019,52;1;18142;Pelanggan Potensial
+25;116;2;1000,16;1;18143;Pelanggan Potensial
+366;7;12;2888,75;0;18144;Pelanggan Loyal
+300;12;4;2861,55;0;18145;Pelanggan Loyal
+80;140;2;160,35;1;18146;Pelanggan Potensial
+63;45;2;179,34;1;18147;Pelanggan Potensial
+223;50;3;612,08;0;18149;Pelanggan Loyal
+169;32;3;566,58;0;18150;Pelanggan Loyal
+155;134;2;653,35;1;18151;Pelanggan Potensial
+40;3;2;399,19;1;18154;Pelanggan Potensial
+216;75;3;371,62;0;18155;Pelanggan Loyal
+357;12;2;734,94;0;18156;Pelanggan Loyal
+79;9;2;453,4;1;18158;Pelanggan Potensial
+0;301;1;530,15;2;18159;Pelanggan Yang Hilang
+143;57;2;638,06;1;18160;Pelanggan Potensial
+304;15;5;1618,69;0;18161;Pelanggan Loyal
+0;37;1;399,65;1;18164;Pelanggan Potensial
+0;177;1;302,46;2;18165;Pelanggan Yang Hilang
+82;23;3;1384,86;1;18167;Pelanggan Potensial
+196;176;6;1169,94;0;18168;Pelanggan Loyal
+0;60;1;202,65;1;18169;Pelanggan Potensial
+184;33;3;980,31;0;18170;Pelanggan Loyal
+275;58;5;1231,31;0;18171;Pelanggan Loyal
+275;14;20;7561,68;0;18172;Pelanggan Loyal
+188;86;4;2106,84;0;18173;Pelanggan Loyal
+0;7;1;104;1;18174;Pelanggan Potensial
+0;358;1;476,35;2;18176;Pelanggan Yang Hilang
+224;31;6;1341,42;0;18177;Pelanggan Loyal
+236;128;4;1590,81;0;18178;Pelanggan Loyal
+327;9;6;1793,17;0;18179;Pelanggan Loyal
+138;4;6;1843,75;1;18180;Pelanggan Potensial
+0;24;1;382,8;1;18181;Pelanggan Potensial
+47;227;2;632,07;2;18183;Pelanggan Yang Hilang
+0;15;1;49,8;1;18184;Pelanggan Potensial
+0;249;1;304,25;2;18185;Pelanggan Yang Hilang
+275;15;3;2001,04;0;18188;Pelanggan Loyal
+190;77;2;1090,24;0;18189;Pelanggan Loyal
+138;192;2;284,46;2;18190;Pelanggan Yang Hilang
+0;261;1;207,8;2;18191;Pelanggan Yang Hilang
+0;71;1;957,97;1;18192;Pelanggan Potensial
+0;165;1;243,76;2;18193;Pelanggan Yang Hilang
+0;82;1;973,84;1;18194;Pelanggan Potensial
+195;95;2;689,13;0;18196;Pelanggan Loyal
+332;4;17;5425,56;0;18198;Pelanggan Loyal
+0;106;1;163,8;1;18200;Pelanggan Potensial
+112;199;3;1396,99;2;18202;Pelanggan Yang Hilang
+0;157;1;160,42;2;18203;Pelanggan Yang Hilang
+121;71;3;1993,7;1;18204;Pelanggan Potensial
+38;36;2;517,36;1;18205;Pelanggan Potensial
+0;28;1;139,1;1;18209;Pelanggan Potensial
+266;1;6;2621,38;0;18210;Pelanggan Loyal
+253;25;5;600,07;0;18211;Pelanggan Loyal
+0;326;1;248,42;2;18212;Pelanggan Yang Hilang
+0;236;1;232,48;2;18213;Pelanggan Yang Hilang
+0;89;1;299,34;1;18215;Pelanggan Potensial
+0;31;1;481,75;1;18216;Pelanggan Potensial
+41;29;2;621,75;1;18217;Pelanggan Potensial
+70;211;2;662,08;2;18218;Pelanggan Yang Hilang
+366;2;10;2069,77;0;18219;Pelanggan Loyal
+0;226;1;305,28;2;18220;Pelanggan Yang Hilang
+189;22;5;1041,61;0;18221;Pelanggan Loyal
+0;92;1;443;1;18222;Pelanggan Potensial
+354;4;14;6484,54;0;18223;Pelanggan Loyal
+0;263;1;158,95;2;18224;Pelanggan Yang Hilang
+362;3;12;5509,12;0;18225;Pelanggan Loyal
+293;44;11;5228,05;0;18226;Pelanggan Loyal
+0;217;1;93,75;2;18227;Pelanggan Yang Hilang
+23;56;2;779,9;1;18228;Pelanggan Potensial
+362;11;20;7276,9;0;18229;Pelanggan Loyal
+293;9;7;2810,2;0;18230;Pelanggan Loyal
+96;192;5;2083,27;2;18231;Pelanggan Yang Hilang
+116;81;4;592,97;1;18232;Pelanggan Potensial
+0;325;1;440;2;18233;Pelanggan Yang Hilang
+146;71;3;1796,48;1;18235;Pelanggan Potensial
+211;29;6;882,24;0;18236;Pelanggan Loyal
+132;2;5;987,1;1;18237;Pelanggan Potensial
+154;218;5;1561,61;2;18239;Pelanggan Yang Hilang
+0;46;1;422,58;1;18240;Pelanggan Potensial
+208;9;17;2073,09;0;18241;Pelanggan Loyal
+141;72;4;2232,49;1;18242;Pelanggan Potensial
+348;7;7;2567,06;0;18245;Pelanggan Loyal
+210;23;2;596,1;0;18246;Pelanggan Loyal
+64;122;2;804,02;1;18248;Pelanggan Potensial
+0;17;1;95,34;1;18249;Pelanggan Potensial
+0;310;1;349,27;2;18250;Pelanggan Yang Hilang
+0;87;1;4314,72;1;18251;Pelanggan Potensial
+121;50;2;526,67;1;18252;Pelanggan Potensial
+0;89;1;103,3;1;18255;Pelanggan Potensial
+257;39;8;2337,63;0;18257;Pelanggan Loyal
+342;24;3;2338,6;0;18259;Pelanggan Loyal
+186;172;6;2643,2;0;18260;Pelanggan Loyal
+52;43;2;324,24;1;18261;Pelanggan Potensial
+0;140;1;149,48;1;18262;Pelanggan Potensial
+227;25;3;1213,16;0;18263;Pelanggan Loyal
+86;72;2;801,51;1;18265;Pelanggan Potensial
+0;134;1;25,5;1;18268;Pelanggan Potensial
+0;366;1;168,6;2;18269;Pelanggan Yang Hilang
+228;38;2;283,15;0;18270;Pelanggan Loyal
+244;2;6;3078,58;0;18272;Pelanggan Loyal
+255;2;3;204;0;18273;Pelanggan Loyal
+0;30;1;175,92;1;18274;Pelanggan Potensial
+0;43;1;335,86;1;18276;Pelanggan Potensial
+0;58;1;110,38;1;18277;Pelanggan Potensial
+0;73;1;173,9;1;18278;Pelanggan Potensial
+0;277;1;180,6;2;18280;Pelanggan Yang Hilang
+0;180;1;80,82;2;18281;Pelanggan Yang Hilang
+119;7;2;178,05;1;18282;Pelanggan Potensial
+334;3;16;2094,88;0;18283;Pelanggan Loyal
+159;42;3;1837,28;1;18287;Pelanggan Potensial

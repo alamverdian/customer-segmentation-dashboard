@@ -2,7 +2,7 @@
 
 An interactive end-to-end web dashboard engineered to transform customer transaction data into actionable business insights. This project utilizes the **LRFM (Length, Recency, Frequency, Monetary)** model and **Fuzzy C-Means (FCM) Clustering** to segment customers into 3 strategic groups: *Champions, Potential Loyalists, and Hibernating/Churn*.
 
-🚀 **Live Demo:** [Insert your Streamlit live link here]
+🚀 **Live Demo:** [https://customer-segmentation-dashboard-by-alam.streamlit.app/]
 
 ---
 

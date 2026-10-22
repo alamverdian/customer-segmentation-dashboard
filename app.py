@@ -443,29 +443,3 @@ st.dataframe(
     use_container_width=True,
     hide_index=True
 )
-
-# Ringkasan pemeriksaan Monetary
-with st.expander("Pemeriksaan data Monetary"):
-    st.write(
-        f"Jumlah seluruh baris: {len(df):,}"
-    )
-    st.write(
-        f"Monetary valid: {df['Monetary'].notna().sum():,}"
-    )
-    st.write(
-        f"Monetary kosong/tidak valid: {missing_monetary:,}"
-    )
-
-    if missing_monetary > 0:
-        st.write(
-            "Contoh baris yang Monetary-nya kosong atau gagal "
-            "dikonversi:"
-        )
-        st.dataframe(
-            df.loc[
-                df["Monetary"].isna(),
-                ["Customer ID", "Monetary", "Segment_Name"]
-            ].head(20),
-            use_container_width=True,
-            hide_index=True
-        )

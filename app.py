@@ -19,19 +19,13 @@ st.markdown(
 # 2. Fungsi Membaca dan Membersihkan Data
 @st.cache_data
 def load_data():
-    try:
-        # Prioritaskan file Excel jika tersedia
-        df = pd.read_excel("FCM_LRFM_with_clusters.xlsx")
-    except Exception:
-        # Jika Excel tidak tersedia atau gagal dibaca, gunakan CSV
-        try:
-            df = pd.read_csv(
-                "customer_segmentation_data.csv",
-                sep=None,
-                engine="python"
-            )
-        except Exception:
-            df = pd.read_csv("customer_segmentation_data.csv")
+    # Membaca CSV hasil clustering secara langsung
+    df = pd.read_csv(
+        "customer_segmentation_data.csv",
+        sep=None,
+        engine="python",
+        dtype={"Customer ID": "string"}
+    )
 
     # Membersihkan nama kolom, termasuk BOM tersembunyi
     df.columns = (
@@ -40,7 +34,28 @@ def load_data():
         .str.strip()
     )
 
-    # Mengubah metrik LRFM menjadi numerik
+    # Memastikan kolom wajib tersedia
+    required_cols = [
+        "Customer ID",
+        "Monetary",
+        "Frequency",
+        "Recency",
+        "Length_of_stay",
+        "Segment_Name"
+    ]
+
+    missing_cols = [
+        col for col in required_cols
+        if col not in df.columns
+    ]
+
+    if missing_cols:
+        raise ValueError(
+            f"Kolom berikut tidak ditemukan: {missing_cols}. "
+            f"Kolom tersedia: {df.columns.tolist()}"
+        )
+
+    # Membersihkan metrik LRFM menjadi numerik
     numeric_cols = [
         "Monetary",
         "Frequency",
@@ -48,43 +63,56 @@ def load_data():
         "Length_of_stay"
     ]
 
+    missing_values = [
+        "",
+        "none",
+        "null",
+        "nan",
+        "na",
+        "n/a"
+    ]
+
     for col in numeric_cols:
-        if col not in df.columns:
-            continue
+        # Ubah ke string agar format data konsisten
+        values = df[col].astype("string").str.strip()
 
-        values = df[col]
+        # Samakan representasi nilai kosong
+        values = values.mask(
+            values.str.lower().isin(missing_values)
+        )
 
-        if values.dtype == "object":
-            values = values.astype(str).str.strip()
-
-            if col == "Monetary":
-                # CSV menggunakan koma sebagai pemisah desimal
-                values = values.str.replace(
-                    ",", ".", regex=False
-                )
-
+        if col == "Monetary":
+            # Format CSV: 77183,6 menjadi 77183.6
             values = values.str.replace(
-                r"[^0-9.\-]", "", regex=True
+                ",", ".", regex=False
             )
 
+        # Bersihkan karakter selain angka, titik, dan minus
+        values = values.str.replace(
+            r"[^0-9.\-]",
+            "",
+            regex=True
+        )
+
+        # Konversi menjadi numerik
         df[col] = pd.to_numeric(
-            values, errors="coerce"
+            values,
+            errors="coerce"
         )
 
-    # Mapping cadangan hanya jika nama segmen belum tersedia
-    if (
-        "Segment_Name" not in df.columns
-        and "Cluster" in df.columns
-    ):
-        cluster_mapping = {
-            0: "Champions",
-            1: "Potential Loyalists",
-            2: "Hibernating / Churn"
-        }
-
-        df["Segment_Name"] = df["Cluster"].map(
-            cluster_mapping
+    # Pastikan Cluster numerik jika tersedia
+    if "Cluster" in df.columns:
+        df["Cluster"] = pd.to_numeric(
+            df["Cluster"],
+            errors="coerce"
         )
+
+    # Nama segmen asli dari CSV tetap dipertahankan
+    df["Segment_Name"] = (
+        df["Segment_Name"]
+        .astype("string")
+        .str.strip()
+    )
 
     return df
 
@@ -100,24 +128,24 @@ if df.empty:
     st.stop()
 
 
-# 3. Ringkasan Metrik Utama (KPI Cards)
-total_customers = (
-    df["Customer ID"].nunique()
-    if "Customer ID" in df.columns
-    else len(df)
-)
+# 3. Pemeriksaan Kualitas Data
+# Menampilkan peringatan jika ada Monetary yang gagal dikonversi
+missing_monetary = int(df["Monetary"].isna().sum())
 
-total_revenue = (
-    float(df["Monetary"].sum())
-    if "Monetary" in df.columns
-    else 0.0
-)
+if missing_monetary > 0:
+    st.warning(
+        f"Ada {missing_monetary} baris dengan Monetary kosong "
+        "atau tidak dapat dikonversi. Nilai tersebut tidak "
+        "diubah menjadi nol agar hasil analisis tidak menyesatkan."
+    )
 
-avg_frequency = (
-    float(df["Frequency"].mean())
-    if "Frequency" in df.columns
-    else 0.0
-)
+
+# 4. Ringkasan Metrik Utama (KPI Cards)
+total_customers = df["Customer ID"].nunique()
+
+total_revenue = df["Monetary"].sum()
+
+avg_frequency = df["Frequency"].mean()
 
 col1, col2, col3 = st.columns(3)
 
@@ -148,22 +176,10 @@ st.caption(
 st.divider()
 
 
-# 4. Sidebar Filter Segmen Pelanggan
+# 5. Sidebar Filter Segmen Pelanggan
 st.sidebar.header("Filter Options")
 
-seg_col = (
-    "Segment_Name"
-    if "Segment_Name" in df.columns
-    else "Cluster"
-    if "Cluster" in df.columns
-    else None
-)
-
-if seg_col is None:
-    st.error(
-        "Kolom Segment_Name atau Cluster tidak ditemukan."
-    )
-    st.stop()
+seg_col = "Segment_Name"
 
 available_segments = sorted(
     df[seg_col].dropna().unique().tolist(),
@@ -183,7 +199,7 @@ else:
     ].copy()
 
 
-# 5. Visualisasi Interaktif
+# 6. Visualisasi Interaktif
 col_chart1, col_chart2 = st.columns(2)
 
 with col_chart1:
@@ -202,7 +218,7 @@ with col_chart1:
         y="Total",
         color="Segment",
         text="Total",
-        title="Jumlah Pelanggan Tiap Klaster"
+        title="Jumlah Pelanggan Tiap Segmen"
     )
 
     fig_bar.update_traces(
@@ -224,106 +240,89 @@ with col_chart1:
 with col_chart2:
     st.subheader("Analisis Perilaku Belanja")
 
-    if {"Recency", "Monetary"}.issubset(
-        filtered_df.columns
-    ):
-        scatter_df = filtered_df.dropna(
-            subset=["Recency", "Monetary"]
-        )
+    scatter_df = filtered_df.dropna(
+        subset=["Recency", "Monetary"]
+    )
 
-        hover_cols = [
-            col for col in [
-                "Customer ID",
-                "Frequency",
-                "Length_of_stay"
-            ]
-            if col in scatter_df.columns
+    hover_cols = [
+        col for col in [
+            "Customer ID",
+            "Frequency",
+            "Length_of_stay"
         ]
-
-        fig_scatter = px.scatter(
-            scatter_df,
-            x="Recency",
-            y="Monetary",
-            color=seg_col,
-            hover_data=hover_cols,
-            title="Pola Recency vs Monetary",
-            labels={
-                "Recency": "Recency",
-                "Monetary": "Monetary",
-                seg_col: "Segmen"
-            },
-            opacity=0.7
-        )
-
-        st.plotly_chart(
-            fig_scatter,
-            use_container_width=True
-        )
-
-        st.caption(
-            "Jika Recency dihitung dalam hari sejak transaksi "
-            "terakhir, nilai lebih tinggi berarti transaksi "
-            "terakhir terjadi lebih lama."
-        )
-    else:
-        st.info(
-            "Kolom Recency atau Monetary tidak ditemukan."
-        )
-
-
-
-# 6. Profil Karakteristik Setiap Segmen
-st.divider()
-st.subheader("Profil Karakteristik Setiap Segmen")
-
-lrfm_cols = [
-    col for col in [
-        "Recency",
-        "Length_of_stay",
-        "Frequency",
-        "Monetary"
+        if col in scatter_df.columns
     ]
-    if col in df.columns
-]
 
-if lrfm_cols:
-    # Menggunakan seluruh dataset untuk membandingkan segmen
-    profile = (
-        df.groupby(seg_col)[lrfm_cols]
-        .mean()
-        .round(2)
+    fig_scatter = px.scatter(
+        scatter_df,
+        x="Recency",
+        y="Monetary",
+        color=seg_col,
+        hover_data=hover_cols,
+        title="Pola Recency vs Monetary",
+        labels={
+            "Recency": "Recency",
+            "Monetary": "Monetary",
+            seg_col: "Segmen"
+        },
+        opacity=0.7
     )
 
-    profile.insert(
-        0,
-        "Total Customers",
-        df.groupby(seg_col).size()
-    )
-
-    profile.index.name = "Segment"
-
-    st.markdown(
-        "Tabel berikut menunjukkan rata-rata nilai LRFM "
-        "dan jumlah pelanggan pada setiap segmen."
-    )
-
-    st.dataframe(
-        profile,
+    st.plotly_chart(
+        fig_scatter,
         use_container_width=True
     )
 
     st.caption(
-        "Recency yang tinggi umumnya berarti pelanggan "
-        "sudah lebih lama tidak bertransaksi. Interpretasi "
-        "metrik lain mengikuti definisi pada penelitian."
-    )
-else:
-    st.info(
-        "Kolom LRFM tidak ditemukan untuk membuat profil segmen."
+        "Jika Recency dihitung dalam hari sejak transaksi "
+        "terakhir, nilai lebih tinggi berarti transaksi "
+        "terakhir terjadi lebih lama."
     )
 
 
-# 7. Rekomendasi Strategi Bisnis per Segmen
+# 7. Profil Karakteristik Setiap Segmen
+st.divider()
+st.subheader("Profil Karakteristik Setiap Segmen")
+
+lrfm_cols = [
+    "Recency",
+    "Length_of_stay",
+    "Frequency",
+    "Monetary"
+]
+
+profile = (
+    df.groupby(seg_col)[lrfm_cols]
+    .mean()
+    .round(2)
+)
+
+profile.insert(
+    0,
+    "Total Customers",
+    df.groupby(seg_col).size()
+)
+
+profile.index.name = "Segment"
+
+st.markdown(
+    "Tabel berikut menunjukkan rata-rata nilai LRFM "
+    "dan jumlah pelanggan pada setiap segmen."
+)
+
+st.dataframe(
+    profile,
+    use_container_width=True
+)
+
+st.caption(
+    "Recency yang tinggi umumnya berarti pelanggan "
+    "sudah lebih lama tidak bertransaksi. Interpretasi "
+    "metrik lain mengikuti definisi pada penelitian."
+)
+
+
+# 8. Rekomendasi Strategi Bisnis per Segmen
 st.divider()
 st.subheader("Rekomendasi Strategi Bisnis per Segmen")
 
@@ -333,7 +332,6 @@ st.markdown(
     "kondisi bisnis dan hasil evaluasi lebih lanjut."
 )
 
-# Nama segmen disesuaikan dengan dataset yang digunakan
 strategy_mapping = {
     "Pelanggan Loyal": {
         "karakteristik": (
@@ -393,7 +391,6 @@ strategy_mapping = {
     }
 }
 
-# Membuat rekomendasi berdasarkan segmen yang benar-benar tersedia
 for segment in available_segments:
     segment_name = str(segment)
 
@@ -422,7 +419,7 @@ for segment in available_segments:
             )
 
 
-# 8. Tabel Detail Data Pelanggan
+# 9. Tabel Detail Data Pelanggan
 st.divider()
 st.subheader("Detail Data Pelanggan")
 
@@ -430,8 +427,45 @@ st.markdown(
     f"Menampilkan data untuk: **{selected_segment}**"
 )
 
+# Format Monetary agar mudah dibaca, tanpa mengubah data asli
+display_df = filtered_df.copy()
+
+display_df["Monetary"] = display_df["Monetary"].map(
+    lambda value: (
+        f"{value:,.2f}"
+        if pd.notna(value)
+        else "Data tidak tersedia"
+    )
+)
+
 st.dataframe(
-    filtered_df,
+    display_df,
     use_container_width=True,
     hide_index=True
 )
+
+# Ringkasan pemeriksaan Monetary
+with st.expander("Pemeriksaan data Monetary"):
+    st.write(
+        f"Jumlah seluruh baris: {len(df):,}"
+    )
+    st.write(
+        f"Monetary valid: {df['Monetary'].notna().sum():,}"
+    )
+    st.write(
+        f"Monetary kosong/tidak valid: {missing_monetary:,}"
+    )
+
+    if missing_monetary > 0:
+        st.write(
+            "Contoh baris yang Monetary-nya kosong atau gagal "
+            "dikonversi:"
+        )
+        st.dataframe(
+            df.loc[
+                df["Monetary"].isna(),
+                ["Customer ID", "Monetary", "Segment_Name"]
+            ].head(20),
+            use_container_width=True,
+            hide_index=True
+        )

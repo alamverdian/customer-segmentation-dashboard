@@ -82,18 +82,66 @@ FCM menghitung derajat keanggotaan setiap data terhadap beberapa cluster. Karakt
 
 ### 4. Evaluasi Clustering
 
-Dua metode digunakan dalam analisis clustering:
+Evaluasi hasil clustering dilakukan menggunakan dua metrik, yaitu Silhouette Score dan Davies-Bouldin Index (DBI), dengan normalisasi fitur menggunakan MinMaxScaler.
 
-- **Elbow Method:** Membantu menentukan jumlah cluster dengan mengamati perubahan nilai evaluasi seiring bertambahnya jumlah cluster.
-- **Silhouette Score:** Mengukur seberapa baik data berada dalam clusternya dibandingkan dengan cluster lainnya.
+- **Silhouette Score:** Mengukur kualitas pemisahan cluster. Nilai yang lebih tinggi menunjukkan bahwa data cenderung lebih sesuai dengan clusternya dan lebih terpisah dari cluster lain.
+- **Davies-Bouldin Index (DBI):** Mengukur kualitas clustering berdasarkan kekompakan dan pemisahan antarcluster. Nilai yang lebih rendah menunjukkan hasil clustering yang lebih baik.
 
-Hasil evaluasi digunakan untuk mendukung pemilihan jumlah cluster. Analisis karakteristik LRFM selanjutnya digunakan untuk menginterpretasikan setiap cluster menjadi segmen pelanggan.
+Pengujian dilakukan terhadap beberapa alternatif jumlah cluster. Hasil evaluasi menunjukkan bahwa tiga cluster memberikan hasil terbaik di antara konfigurasi yang diuji.
+
+| Jumlah Cluster | Silhouette Score | Davies-Bouldin Index |
+|---:|---:|---:|
+| 2 | 0,5398 | 0,6939 |
+| **3** | **0,5633** | **0,5986** |
+| 4 | 0,5262 | 0,6546 |
+| 5 | 0,4970 | 0,7340 |
+| 6 | 0,4660 | 0,8024 |
+
+Berdasarkan hasil tersebut, konfigurasi tiga cluster dipilih untuk proses segmentasi pelanggan. Pemilihan ini didukung oleh Silhouette Score tertinggi sebesar **0,5633** dan Davies-Bouldin Index terendah sebesar **0,5986** pada konfigurasi yang diuji.
+
+Hasil clustering selanjutnya diinterpretasikan berdasarkan karakteristik LRFM untuk membentuk tiga segmen pelanggan: Pelanggan Loyal, Pelanggan Potensial, dan Pelanggan yang Hilang.
 
 ### 5. Pengembangan Dashboard
 
 Setelah proses pengolahan data dan clustering selesai di Google Colab, dataset beserta hasil segmentasinya digunakan sebagai input untuk dashboard Streamlit.
 
 Dashboard ini berfokus pada visualisasi dan eksplorasi hasil clustering, bukan menjalankan algoritma Fuzzy C-Means secara langsung. Pengguna dapat memfilter data, melihat indikator kinerja, mengeksplorasi grafik, dan menelusuri data pelanggan.
+
+## 📈 Karakteristik Segmen dan Insight Bisnis
+
+Berdasarkan hasil klasterisasi menggunakan algoritma Fuzzy C-Means (FCM), pelanggan dikelompokkan menjadi tiga segmen berdasarkan karakteristik Length, Recency, Frequency, dan Monetary (LRFM).
+
+### Ringkasan Karakteristik Segmen
+
+| Segmen Pelanggan | Avg. Length | Avg. Recency | Avg. Frequency | Avg. Monetary |
+|---|---:|---:|---:|---:|
+| Pelanggan Loyal | 276.59 | 35.09 | 7.89 | 4,013.87 |
+| Pelanggan Baru | 38.83 | 54.25 | 2.01 | 788.01 |
+| Pelanggan Yang Hilang | 20.40 | 256.66 | 1.50 | 621.33 |
+
+### Insight dan Rekomendasi Bisnis
+
+**1. Pelanggan Loyal**
+
+Memiliki rata-rata Length, Frequency, dan Monetary tertinggi dibandingkan segmen lainnya. Hal ini menunjukkan hubungan yang relatif lama dengan bisnis, frekuensi transaksi yang tinggi, serta nilai transaksi yang lebih besar.
+
+Rekomendasi: mempertahankan loyalitas melalui program loyalitas, apresiasi pelanggan, dan penawaran yang relevan.
+
+**2. Pelanggan Baru**
+
+Memiliki rata-rata Length, Frequency, dan Monetary yang relatif rendah. Karakteristik ini menunjukkan hubungan dengan bisnis dan aktivitas transaksi yang masih terbatas.
+
+Rekomendasi: mendorong pembelian berulang melalui promosi yang relevan dan rekomendasi produk. Label segmen ini perlu disesuaikan dengan definisi Length dan periode observasi yang digunakan.
+
+**3. Pelanggan Yang Hilang**
+
+Memiliki rata-rata Recency tertinggi, yaitu 256.66 hari, serta rata-rata Frequency dan Monetary terendah. Hal ini menunjukkan bahwa pelanggan sudah cukup lama tidak bertransaksi dan memiliki aktivitas transaksi yang relatif rendah.
+
+Rekomendasi: menjalankan kampanye reaktivasi melalui penawaran khusus atau komunikasi yang disesuaikan.
+
+### Kesimpulan
+
+Hasil segmentasi menunjukkan perbedaan perilaku transaksi antarsegmen pelanggan. Informasi ini dapat menjadi dasar untuk menyusun strategi retensi pelanggan loyal, mendorong pembelian berulang, dan mengaktifkan kembali pelanggan yang sudah lama tidak bertransaksi.
 
 ## 🏗️ Arsitektur Proyek
 
@@ -116,7 +164,7 @@ Normalisasi Data
 Fuzzy C-Means Clustering
           ↓
 Evaluasi Cluster
-(Elbow Method & Silhouette Score)
+(Silhouette Score & DBI)
           ↓
 Interpretasi Segmen
           ↓
@@ -131,7 +179,12 @@ Dashboard Streamlit
 ├── app.py                            # Kode utama dashboard Streamlit
 ├── customer_segmentation_data.csv    # Dataset pelanggan hasil segmentasi
 ├── requirements.txt                  # Daftar library Python yang dibutuhkan
-└── README.md                         # Dokumentasi proyek
+├── README.md                         # Dokumentasi proyek
+└── screenshots/                      # Screenshot tampilan dashboard
+    ├── dashboard.png                 # Tampilan utama dan ringkasan metrik
+    ├── visualisasi-segmen.png         # Visualisasi segmentasi pelanggan
+    ├── karakteristik-segmen.png       # Karakteristik setiap segmen
+    └── detail-pelanggan.png           # Detail data pelanggan
 ```
 
 ## ⚙️ Instalasi dan Menjalankan Aplikasi

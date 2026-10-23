@@ -21,6 +21,33 @@ Dashboard web interaktif untuk memvisualisasikan hasil segmentasi pelanggan berd
 - **Visualisasi Interaktif:** Menampilkan distribusi dan karakteristik segmen melalui grafik interaktif.
 - **Tabel Data Pelanggan:** Menelusuri data pelanggan dengan fitur pengurutan dan pratinjau data.
 - **Eksplorasi Segmen:** Membantu pengguna memahami distribusi dan karakteristik masing-masing kelompok pelanggan.
+- **Eksplorasi Segmen:** Membantu pengguna memahami distribusi dan karakteristik masing-masing kelompok pelanggan.
+
+## 📸 Tampilan Dashboard
+
+### 1. Dashboard Utama
+
+Halaman utama menampilkan ringkasan metrik pelanggan, termasuk jumlah pelanggan, total nilai Monetary, dan rata-rata frekuensi pembelian.
+
+![Dashboard Utama](screenshots/dashboard.png)
+
+### 2. Visualisasi Segmen Pelanggan
+
+Visualisasi interaktif untuk mengeksplorasi distribusi pelanggan berdasarkan hasil clustering.
+
+![Visualisasi Segmen Pelanggan](screenshots/visualisasi-segmen.png)
+
+### 3. Karakteristik Setiap Segmen
+
+Menampilkan karakteristik masing-masing segmen berdasarkan metrik LRFM.
+
+![Karakteristik Segmen](screenshots/karakteristik-segmen.png)
+
+### 4. Detail Pelanggan
+
+Menampilkan data pelanggan secara terperinci beserta hasil segmentasinya.
+
+![Detail Pelanggan](screenshots/detail-pelanggan.png)
 
 ## 🔬 Metodologi
 
